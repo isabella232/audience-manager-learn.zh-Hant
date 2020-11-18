@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 3%
@@ -28,17 +28,14 @@ ht-degree: 3%
 
 * **[(視 [!UICONTROL Profile Merge Rules] 訊)概觀](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   <br>
    *瞭解行 [!UICONTROL Profile Merge Rules] 銷人員的工作方式及價值。*
 
 * **[[!UICONTROL Profile Merge Rule]範例和使用案例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   <br>
    *在此影片中，您將看到范 [!UICONTROL Profile Merge Rules] 例及其意思，以及可解決的使 [!UICONTROL Profile Merge Rules] 用案例。*
 
 * **[建立和設定[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   <br>
    *瞭解如何在Audience Manager [!DNL People-Based Destination] UI中設定*
 
 ## 員工挑選
