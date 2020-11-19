@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '725'
 ht-degree: 5%
 
 ---
@@ -126,6 +126,9 @@ ht-degree: 5%
       + [建立和配置基於人的目標](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [瞭解和設定以人為本的LinkedIn目的地](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [瞭解和設定Google客戶符合以人為本的目的地](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
++ 報表 {#reports}
+   + [使用具有特徵和區段的一般報表](reports/using-general-reports-with-traits-and-segments.md)
+   + [使用具有特徵和區段的趨勢報表](reports/using-trended-reports-with-traits-and-segments.md)
 + 其他整合 {#other-integrations}
    + 與Ad Cloud整合 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud與Adobe Audience Manager整合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
