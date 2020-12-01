@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 建立 [!UICONTROL Data Source] [!UICONTROL People-Based Destinations]
+# 為[!UICONTROL People-Based Destinations]建立[!UICONTROL Data Source]
 
-此影片會逐步帶您完成在Audience Manager中 [!UICONTROL Data Source] 建立要用於的作業 [!UICONTROL People-Based Destinations]。
+此影片會逐步帶您瞭解在Audience Manager中建立[!UICONTROL Data Source]以用於[!UICONTROL People-Based Destinations]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
