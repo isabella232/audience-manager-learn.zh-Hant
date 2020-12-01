@@ -19,6 +19,6 @@ ht-degree: 5%
 
 # [!UICONTROL People-Based Destinations] 資料流程
 
-此視訊會概述並 [!UICONTROL People-Based Destinations] 顯示整個程式的資料流程。
+此視訊提供[!UICONTROL People-Based Destinations]的概觀，並顯示整個程式的資料流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
