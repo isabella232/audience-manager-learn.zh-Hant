@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# 選擇正確的 [!UICONTROL Profile Merge Rule]
+# 選擇右[!UICONTROL Profile Merge Rule]
 
-在此影片中，請探索三個最常見的使用案例， [!UICONTROL Profile Merge Rules]以及它們如何協助您的行銷工作。
+在此影片中，請探索[!UICONTROL Profile Merge Rules]的三種最常見使用案例，以及它們如何協助您的行銷工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)
