@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 批量管理簡介(BAAM)
 
-瞭解Audience Manager工 [!UICONTROL Bulk Management] 具，通常稱為「BAAM」。 瞭解如何驗證，以便使用BAAM工作表透過REST API建立、編輯和刪除特徵和區段。
+瞭解Audience Manager [!UICONTROL Bulk Management]工具，通常稱為「BAAM」。 瞭解如何驗證，以便使用BAAM工作表透過REST API建立、編輯和刪除特徵和區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
