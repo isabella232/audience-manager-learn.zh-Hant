@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# 在AAM [!UICONTROL First Party] 中建立類似 [!UICONTROL Model] 的內容 {#creating-a-first-party-look-alike-model-in-aam}
+# 在AAM {#creating-a-first-party-look-alike-model-in-aam}中建立[!UICONTROL First Party]相似[!UICONTROL Model]
 
-在此影片中，您將學習如何建立 [!UICONTROL first party] 類似的內 [!UICONTROL model]容，讓您找到更多看起來像您轉換器的訪客。
+在此影片中，您將學習如何建立類似[!UICONTROL first party]的[!UICONTROL model]，以便您找到更多看起來像您轉換器的訪客。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
