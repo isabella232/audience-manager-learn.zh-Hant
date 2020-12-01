@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] 增強功能——預先要求
 
-概述如何最佳準備發行增強 [!UICONTROL Profile Merge Rule] 功能。
+概述如何最佳準備[!UICONTROL Profile Merge Rule]增強功能的發行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
