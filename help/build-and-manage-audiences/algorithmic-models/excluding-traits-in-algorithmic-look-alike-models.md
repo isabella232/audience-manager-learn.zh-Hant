@@ -17,15 +17,15 @@ ht-degree: 0%
 ---
 
 
-# 在演 [!UICONTROL Traits] 算法中排除（類似） [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
+# 排除演算法（類似）[!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}中的[!UICONTROL Traits]
 
-在此影片中，您將瞭解從演算法（類似）中排除特定( [!UICONTROL traits] 或群組)的方式和原因 [!UICONTROL Model]。
+在此影片中，您將瞭解從演算法（相似）[!UICONTROL Model]中排除特定（或群組）[!UICONTROL traits]的方式和原因。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 此功能的使用案例包括：
 
-* 極常 [!UICONTROL traits] 見的例如網站 [!UICONTROL traits] 訪客偏 [!UICONTROL model] 見，在尋找品質相似的受眾時不會有用。 客戶不再需要在新產品中建立 [!UICONTROL data source] 個別並儲存 [!UICONTROL traits] 共同內容 [!UICONTROL data source]，但現在只能排除它們。
-* 現在有一種方法可以使用來自某 [!UICONTROL traits] 個群體 [!UICONTROL third party]的子集，例如行為興趣，而不是一個群體中的所有資訊 [!UICONTROL model]。 [!UICONTROL Third parties] 通常會傳送許多資料，這對客戶可能無用。 在某些情況下，他們無法從法律角度使用模型中的所有資料。 現在，您可 [!UICONTROL traits] 以排除或 [!UICONTROL traits] 不想包含在中的資料夾 [!UICONTROL model]。
+* 極常見的[!UICONTROL traits]（例如網站訪客[!UICONTROL traits]）偏誤[!UICONTROL model]，這對尋找品質相似的觀眾並無用處。 客戶不再需要建立個別的[!UICONTROL data source]，並在新的[!UICONTROL data source]中儲存公用的[!UICONTROL traits]，但現在只需排除它們。
+* 現在有一種方法可使用[!UICONTROL third party]中的[!UICONTROL traits]子集，例如僅使用行為興趣，而不是使用[!UICONTROL model]中的所有資訊。 [!UICONTROL Third parties] 通常會傳送許多資料，這對客戶可能無用。在某些情況下，他們無法從法律角度使用模型中的所有資料。 現在，您可以排除[!UICONTROL traits]或[!UICONTROL traits]的資料夾，而您不想加入[!UICONTROL model]。
 
-如需此功能的詳細資訊，請參閱文 [件](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)。
+有關此功能的詳細資訊，請參閱[文檔](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)。
