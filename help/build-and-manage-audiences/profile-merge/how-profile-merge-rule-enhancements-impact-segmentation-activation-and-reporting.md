@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 增強功 [!UICONTROL Profile Merge Rule] 能如何影 [!UICONTROL Segmentation]響、啟動和報告
+# [!UICONTROL Profile Merge Rule]增強功能如何影響[!UICONTROL Segmentation]、啟動和報告
 
-瞭解增強 [!UICONTROL Profile Merge Rule] 功能對Audience Manager UI中的 [!UICONTROL Trait] 總 [!UICONTROL Segment] 計和人口族群有何影響。
+瞭解Audience Manager UI中的[!UICONTROL Profile Merge Rule]增強功能將如何影響總[!UICONTROL Trait]和[!UICONTROL Segment]人口族群。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)
