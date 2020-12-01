@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL People-Based Destinations] 影片和教學課程
 
-[!UICONTROL People-Based Destinations] 可讓您針對線上和離線資料套用區段，以根據雜湊識別碼（例如電子郵件地址或電話號碼）建立觀眾區段。 然後，您可以將這些區段傳送至社交平台， [!DNL Facebook] 例如 [!DNL LinkedIn]或，您可在其中鎖定對象。
+[!UICONTROL People-Based Destinations] 可讓您針對線上和離線資料套用區段，以根據雜湊識別碼（例如電子郵件地址或電話號碼）建立觀眾區段。然後，您可以將這些區段傳送至社交平台，例如[!DNL Facebook]或[!DNL LinkedIn]，以鎖定您的對象。
 
-本節包含有關主題的影片和教學課 [!UICONTROL People-Based Destinations]程。 在您完成設定流程／程式時，會依照此順序列出這些項目 [!UICONTROL People-Based Destinations]:
+本節包含有關[!UICONTROL People-Based Destinations]主題的影片和教學課程。 在您完成設定[!UICONTROL People-Based Destinations]的流程／程式時，會依照此順序列出這些項目：
 
 * [以人為本的目的地資料流](people-based-destinations-data-flow.md)
 * [為基於人的目標建立資料源](creating-a-data-source-for-people-based-destinations.md)
@@ -33,4 +33,4 @@ ht-degree: 0%
 * [建立和配置基於人的目標](create-and-configure-people-based-destinations.md)
 * [瞭解和設定以人為本的LinkedIn目的地](understanding-and-configuring-the-linkedin-pbd.md)
 
-這些視訊可與說明檔案搭配 [使用](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+這些視訊可與[documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)搭配使用。
