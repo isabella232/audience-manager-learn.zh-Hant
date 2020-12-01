@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-如需詳細資訊，請造訪 [檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)。
+如需詳細資訊，請造訪[檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)。
