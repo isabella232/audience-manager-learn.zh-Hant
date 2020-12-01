@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# 在AAM [!DNL Data Explorer] 中使用來搜尋已使用和未使用的金鑰／值配對 {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# 使用[!DNL Data Explorer]在AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}中搜索已用和未用的密鑰／值對
 
-在Audience Manager的日常工作中，您可能需要快速找出是否已從特 [!UICONTROL trait] 定金鑰／值配對建立。 這段影片會示範如何瞭解 [!DNL Data Explorer]。
+在Audience Manager的日常工作中，您可能需要快速找出是否已從特定金鑰／值配對建立[!UICONTROL trait]。 此影片會示範如何瞭解[!DNL Data Explorer]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-為了瞭解是否已將 [!UICONTROL signal] 檔案建立至 [!UICONTROL trait]，您不再需要下載 [!DNL BAAAM] 檔案和報 [!UICONTROL Unused Signals] 表。 現在，您只需在AAM中搜尋該索引鍵／值配對（亦即應用程式），並在 [!DNL Data Explorer][!UICONTROL Signals][!UICONTROL traits] AAM中尋找位於相同清單中的索引鍵／值配對。 省得多久！
+為了瞭解[!UICONTROL signal]是否已建立至[!UICONTROL trait]，您不再需要下載[!DNL BAAAM]檔案以及[!UICONTROL Unused Signals]報表。 現在，您只需在[!DNL Data Explorer]、AKA的[!UICONTROL Signals]應用程式中搜尋該索引鍵／值配對，並在AAM中尋找位於[!UICONTROL traits]和非位於相同清單中的索引鍵／值配對。 省得多久！
 
-有關更多資 [!DNL Data Explorer]訊，請造訪 [檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有關[!DNL Data Explorer]的更多資訊，請造訪[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
