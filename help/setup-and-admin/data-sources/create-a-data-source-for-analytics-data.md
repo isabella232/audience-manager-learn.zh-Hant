@@ -17,10 +17,10 @@ ht-degree: 38%
 ---
 
 
-# 建立資 [!UICONTROL Data Source] 料 [!DNL Analytics] {#create-a-data-source-for-analytics-data}
+# 為[!DNL Analytics]資料{#create-a-data-source-for-analytics-data}建立[!UICONTROL Data Source]
 
-In this video we walk through the steps, including tips and tricks, of creating a [!UICONTROL Data Source] in AAM that you can use for data coming in live from an analytics solution, like Adobe Analytics. This should be done prior to creating [!UICONTROL traits] for the analytics data.
+在此影片中，我們將逐步介紹在AAM中建立[!UICONTROL Data Source]的步驟，包括秘訣與訣竅，以便用於從Adobe Analytics等分析解決方案即時傳入的資料。 這應在建立[!UICONTROL traits]分析資料之前完成。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
 
-有關此功能的更多資訊，請造訪文 [件](https://marketing.adobe.com/resources/help/en_US/aam/c_datasources.html)。
+有關此功能的更多資訊，請造訪[檔案](https://marketing.adobe.com/resources/help/en_US/aam/c_datasources.html)。
