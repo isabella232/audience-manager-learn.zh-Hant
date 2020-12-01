@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# 使用 [!DNL Data Explorer] 建立追溯 [!UICONTROL Traits] 和 [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# 使用[!DNL Data Explorer]建立可回溯[!UICONTROL Traits]和[!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-此視訊說明如何建立可 [!UICONTROL traits]回溯性，即 [!UICONTROL traits] 從建立之前將資 [!UICONTROL trait] 料回填至中。 這是您創作的重大突破 [!UICONTROL trait] !
+本影片說明如何建立可回溯[!UICONTROL traits]，即[!UICONTROL traits]，從建立前將資料回填至[!UICONTROL trait]。 這是您建立[!UICONTROL trait]的絕佳突破！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-直到現在，當您建立資料時 [!UICONTROL traits]，他們只會收集未來的資料。 這意味著我們必須建立許多「以防 [!UICONTROL traits] 他們」收到流量／資料。 您現在可以等待看到哪些金鑰／值配對會接收資料，然後建立 [!UICONTROL trait] 並回填資料 [!UICONTROL trait]。 這可節省您的時間和精力，也有助於您保持分類法 [!UICONTROL trait] 的嚴密性，而不是讓一 [!UICONTROL traits] 堆沒有任何資料的人。
+直到現在，當您建立[!UICONTROL traits]時，他們只會收集向前移動的資料。 這意味著我們必須建立許多[!UICONTROL traits] 「以防萬一」他們收到流量／資料。 您現在可以等待看到哪些索引鍵／值對會接收資料，然後建立[!UICONTROL trait]並將資料回填至該[!UICONTROL trait]。 這可節省您的時間和精力，也有助於您保持[!UICONTROL trait]分類法的嚴密性，而不是擁有一堆[!UICONTROL traits]資料。
 
-有關更多資 [!DNL Data Explorer]訊，請造訪 [檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有關[!DNL Data Explorer]的更多資訊，請造訪[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
