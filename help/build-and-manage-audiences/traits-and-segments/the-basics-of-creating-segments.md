@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-如需區段的詳細資訊，請參閱文 [件](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segments-purpose.html)。
+如需區段的詳細資訊，請參閱[檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segments-purpose.html)。
