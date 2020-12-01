@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 解譯 [!DNL Audience Identity Reporting]
+# 解譯[!DNL Audience Identity Reporting]
 
-[!DNL Audience Identity Reporting] 使客戶能夠報告身份的總人口或按 [!UICONTROL trait] 個 [!UICONTROL segment] 人／家庭定義的人口。 觀看此影片，瞭解它在Audience Manager報表中的表現。
+[!DNL Audience Identity Reporting] 使客戶能夠按個人／家庭身份定 [!UICONTROL trait] 義 [!UICONTROL segment] 報告總人口。觀看此影片，瞭解它在Audience Manager報表中的表現。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
