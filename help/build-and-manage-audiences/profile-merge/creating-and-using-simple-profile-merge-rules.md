@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 建立和使用簡單 [!UICONTROL Profile Merge Rules]
+# 建立和使用簡單[!UICONTROL Profile Merge Rules]
 
 瞭解描述檔合併規則以及如何將它們指派給區段。 瞭解預設的「目前裝置」描述檔，以及可以／應該何時使用。
 
