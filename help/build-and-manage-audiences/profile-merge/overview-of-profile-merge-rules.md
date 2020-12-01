@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 概觀 [!UICONTROL Profile Merge Rules]
+# [!UICONTROL Profile Merge Rules]概觀
 
-瞭解行 [!UICONTROL Profile Merge Rules] 銷人員的工作方式及價值。
+瞭解[!UICONTROL Profile Merge Rules]是什麼、如何運作，以及對行銷人員的價值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
