@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 建立規則型特徵
 
-瞭解如何使用Audience Manager [!UICONTROL Trait Builder] UI建立規則型特徵，讓您將即時活動擷取到Audience Manager個人檔案中。
+瞭解如何使用Audience Manager UI中的[!UICONTROL Trait Builder]來建立規則型特徵，讓您將即時活動擷取到Audience Manager個人檔案中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
