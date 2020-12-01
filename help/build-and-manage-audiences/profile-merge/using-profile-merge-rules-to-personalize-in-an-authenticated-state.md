@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 在已驗 [!UICONTROL Profile Merge Rules] 證狀態下使用個性化
+# 使用[!UICONTROL Profile Merge Rules]在已驗證狀態中個性化
 
 使用這些描述檔合併規則設定，為您的登入客戶提供個人化體驗。
 
