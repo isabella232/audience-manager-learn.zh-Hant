@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# 使用篩選器和建議來選擇 [!UICONTROL Third Party] 資料 [!UICONTROL Audience Marketplace]
+# 使用篩選器和建議在[!UICONTROL Audience Marketplace]中選擇[!UICONTROL Third Party]資料
 
-此視訊會逐步瀏覽中的篩選和建議選 [!UICONTROL Audience Marketplace] 項，協助您選擇符合您需 [!UICONTROL third party] 求的資料提供者。
+此視訊會逐步瀏覽[!UICONTROL Audience Marketplace]中的篩選器和建議選項，協助您選擇符合您需求的[!UICONTROL third party]資料提供者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-如需詳細資訊，請造訪 [檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。
+如需詳細資訊，請造訪[檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。
