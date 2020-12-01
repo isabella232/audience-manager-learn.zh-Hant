@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 擷取雜湊PII [!UICONTROL People-Based Destinations]
+# 接收[!UICONTROL People-Based Destinations]的雜湊PII
 
-在此影片中，瞭解如何設定檔案式ID同步，以便將您的客戶ID(CRM ID)與雜湊的電子郵件地址連結在一起。 這可讓您傳送雜湊的電子郵件地址 [!UICONTROL People-Based Destinations]至，如 [!DNL Facebook]。
+在此影片中，瞭解如何設定檔案式ID同步，以便將您的客戶ID(CRM ID)與雜湊的電子郵件地址連結在一起。 這可讓您將雜湊的電子郵件地址傳送至[!UICONTROL People-Based Destinations]，例如[!DNL Facebook]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
