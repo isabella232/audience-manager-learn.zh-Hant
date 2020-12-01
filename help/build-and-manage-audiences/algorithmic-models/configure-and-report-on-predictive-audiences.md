@@ -1,6 +1,6 @@
 ---
-title: 在Audience Manager中設定及 [!UICONTROL Predictive Audiences] 報告
-description: 在此影片中，我們將逐步介 [!UICONTROL Predictive Audiences] 紹Audience Manager介面中的設定。 我們也會看到顯示模型結果的報表。
+title: 在Audience Manager中設定並報告[!UICONTROL Predictive Audiences]
+description: 在此影片中，我們將逐步瞭解Audience Manager介面中的[!UICONTROL Predictive Audiences]設定。 我們也會看到顯示模型結果的報表。
 feature: algorithmic models
 topics: null
 audience: administrator
@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# 在Audience Manager中設定及 [!UICONTROL Predictive Audiences] 報告
+# 在Audience Manager中設定並報告[!UICONTROL Predictive Audiences]
 
-在此影片中，我們將逐步介 [!UICONTROL Predictive Audiences] 紹Audience Manager介面中的設定。 我們也會看到顯示模型結果的報表。
+在此影片中，我們將逐步瞭解Audience Manager介面中的[!UICONTROL Predictive Audiences]設定。 我們也會看到顯示模型結果的報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-如需詳細資訊，請造訪 [檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)。
+如需詳細資訊，請造訪[檔案](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)。
