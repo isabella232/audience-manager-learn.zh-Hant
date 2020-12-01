@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge] -影片和教學課程
 
-透過 [!UICONTROL Profile Merge Rules] 您控制用於多種裝置的資料集， [!UICONTROL segmentation] 並可以跨多種裝置精確定位人員。
+透過[!UICONTROL Profile Merge Rules]，您可以控制用於[!UICONTROL segmentation]的資料集，並可以跨多種裝置精確定位人員。
 
-本節包含下列影片 [!UICONTROL Profile Merge Rules]:
+本節包含[!UICONTROL Profile Merge Rules]的下列影片：
 
 * [描述檔合併規則概覽](overview-of-profile-merge-rules.md)
 * [描述檔合併規則範例和使用案例](profile-merge-rule-examples-and-use-cases.md)
@@ -34,4 +34,4 @@ ht-degree: 0%
 * [解譯觀眾識別報表](interpret-audience-identity-reporting.md)
 * [瞭解Audience Manager中的跨裝置度量](understanding-cross-device-metrics-in-audience-manager.md)
 
-這些視訊可與說明檔案搭配使 [用](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+這些視訊可與[documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)搭配使用
