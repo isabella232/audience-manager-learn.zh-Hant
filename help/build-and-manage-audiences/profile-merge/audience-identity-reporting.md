@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] 報表
 
-[!DNL Audience Identity] 報告功能可讓客戶報告身份的總人口 [!UICONTROL trait] 或 [!UICONTROL segment] 個人／家庭定義。 觀看此影片，瞭解它在Audience Manager報表中的表現。
+[!DNL Audience Identity] 報告功能可讓客戶依個人／家庭的身 [!UICONTROL trait] 分定 [!UICONTROL segment] 義報告總人口。觀看此影片，瞭解它在Audience Manager報表中的表現。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
