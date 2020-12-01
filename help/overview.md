@@ -18,11 +18,11 @@ ht-degree: 3%
 
 # 概述
 
-歡迎使用Audience Manager教學課程網站。  使用這些教學課程與文 [件](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ，您將更瞭解如何使用Adobe Audience Manager在任何通道或裝置上，使用Adobe同級最佳的軟體來建立和啟動觀眾 [!DNL data management platform]。
+歡迎使用Audience Manager教學課程網站。  使用這些教學課程和[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)，您將更瞭解如何使用Adobe Audience Manager使用Adobe同級最佳的[!DNL data management platform]，在任何通道或裝置上建立並啟動觀眾。
 
-* **Staff Picks** 重點介紹我們最愛的內容
-* Explore the content by topic and subtopic in the **left navigation**
-* Use the **search** field at the top of the page if you know what you are looking for
+* **Staff** Pickshighlights我們最愛的部分內容
+* 在&#x200B;**左導覽**&#x200B;中依主題和子主題探索內容
+* 如果您知道要尋找什麼，請使用頁面頂端的&#x200B;**search**&#x200B;欄位
 
 ## 新功能
 
@@ -36,7 +36,7 @@ ht-degree: 3%
 
 * **[建立和設定[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *瞭解如何在Audience Manager [!DNL People-Based Destination] UI中設定*
+   *瞭解如何在Audience Manager [!DNL People-Based Destination] 使用者介面中設定*
 
 ## 員工挑選
 
