@@ -1,6 +1,7 @@
 ---
 title: 建立Analytics資料的資料來源
 description: 在此影片中，我們會逐步介紹在 AAM 中建立資料來源的相關步驟 (包括各種秘訣和訣竅)，供您在處理從 Adobe Analytics 等分析解決方案即時傳入的資料時使用。請先觀看此影片，再為分析資料建立特徵。
+landing-page-description: Learn to create a Data Source for data coming in live from an analytics solution, like Adobe Analytics. Do this prior to creating traits for the analytics data.
 feature: data sources
 topics: null
 audience: all
@@ -9,7 +10,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 2928
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 38%
