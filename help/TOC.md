@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
+source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '733'
 ht-degree: 5%
 
 ---
@@ -28,6 +28,8 @@ ht-degree: 5%
 + 設定與管理{#setup-and-admin}
    + 資料來源 {#data-sources}
       + [建立Analytics資料的資料來源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+   + 使用者管理 {#user-management}
+      + [使用基於角色的訪問控制設定權限](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 資料治理與隱私權{#data-governance-and-privacy}
       + [全域裝置ID驗證](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0支援](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
