@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
+source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '765'
 ht-degree: 5%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 5%
       + [瞭解Audience Manager目標類型](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [瞭解比對率](data-activation/destinations-basics/understanding-match-rates.md)
       + [瞭解比對率介面](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [使用資料匯出標籤來控制資料流](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [使用Audience Lab選擇DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [建立轉換特徵](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -132,6 +133,8 @@ ht-degree: 5%
 + 報表 {#reports}
    + [使用具有特徵和區段的一般報表](reports/using-general-reports-with-traits-and-segments.md)
    + [使用具有特徵和區段的趨勢報表](reports/using-trended-reports-with-traits-and-segments.md)
+   + [瞭解具有重疊報表的相關對象](reports/understand-related-audiences-with-overlap-reports.md)
+   + [使用受眾最佳化報告來瞭解媒體效能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他整合{#other-integrations}
    + 與Ad Cloud整合{#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud與Adobe Audience Manager整合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
