@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 5%
+source-wordcount: '781'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,7 @@ ht-degree: 5%
       + [區段產生器中的特徵建議增強功能](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [在區段中使用時近和頻率](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [建立區段時使用程式碼檢視](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [從Adobe Analytics將區段匯入Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [建立區段以隱藏廣告給客戶](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [將Audience Manager區段對應至目標](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [將區段對應至裝置型目標](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
