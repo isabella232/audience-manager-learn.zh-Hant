@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
 + 設定與管理{#setup-and-admin}
    + 資料來源 {#data-sources}
       + [建立Analytics資料的資料來源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [建立跨裝置資料來源並驗證](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + 使用者管理 {#user-management}
       + [使用基於角色的訪問控制設定權限](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 資料治理與隱私權{#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 4%
    + [使用標籤管理器實作Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [如何識別您的合作夥伴ID或子網域](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [在SPA頁面上使用最佳實務](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ 整合離線資料{#integrating-offline-data}
+   + [格式化和收錄以檔案為基礎的資料](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [擷取檔案式資料的步驟](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 行動實作{#mobile-implementation}
    + [在iOS Swift應用程式中實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [在iOS Objective-C應用程式中實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
