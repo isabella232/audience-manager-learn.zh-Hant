@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 4%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 4%
       + [在區段層級報告Audience Marketplace中的第二方與第三方資料使用情形](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [大量上傳資料使用情形至Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [使用篩選器和建議在Audience Marketplace中選擇第三方資料](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + 銷售資料{#selling-data}
+      + [在Marketplace上將擁有的觀眾商用化](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + 建立和管理觀眾{#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [使用信號儀表板快速查看頂級可用信號](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,6 +144,10 @@ ht-degree: 4%
    + [瞭解具有重疊報表的相關對象](reports/understand-related-audiences-with-overlap-reports.md)
    + [使用受眾最佳化報告來瞭解媒體效能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他整合{#other-integrations}
+   + 與即時客戶資料平台{#integrating-with-rtcdp}整合
+      + [使用Adobe Audience Manager資料連接器收錄資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [瞭解即時CDP中的第一方資料接收](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [瞭解即時CDP中的Web資料接收](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + 與Ad Cloud整合{#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud與Adobe Audience Manager整合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
