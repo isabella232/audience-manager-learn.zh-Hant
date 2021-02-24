@@ -1,17 +1,18 @@
 ---
 title: 在Audience Marketplace中使用篩選器和建議來選擇第三方資料
 description: 此視訊會逐步瀏覽Audience Marketplace中的篩選器和建議選項，協助您選擇符合您需求的第三方資料供應商。
-feature: audience marketplace
+feature: 觀眾市場
 topics: null
 audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 29370.jpg
 kt: 3938
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
