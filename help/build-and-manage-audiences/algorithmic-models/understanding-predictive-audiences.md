@@ -1,17 +1,18 @@
 ---
 title: 瞭解Audience Manager中的[!UICONTROL Predictive Audiences]
 description: 在此影片中，我們將討論Audience Manager [!UICONTROL Predictive Audiences]是什麼、提供其運作方式的詳細資訊，並指出使用案例。
-feature: algorithmic models
+feature: 算法模型
 topics: null
 audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 33629.jpg
 kt: 4938
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
