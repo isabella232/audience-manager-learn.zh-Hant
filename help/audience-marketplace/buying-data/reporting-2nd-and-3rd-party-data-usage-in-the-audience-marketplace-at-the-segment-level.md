@@ -1,17 +1,18 @@
 ---
 title: 在區段層級報告Audience Marketplace中的第二方與第三方資料使用情形
 description: 此視訊顯示在Audience Marketplace UI的「Payables」區段中報告資料使用情況的新方法。 除了現有的饋送層級報告程式外，現在可以在區段層級提交每月曝光，如此就不需要離線計算成本歸因。
-feature: audience marketplace
+feature: 觀眾市場
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25522.jpg
 kt: 1758
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
