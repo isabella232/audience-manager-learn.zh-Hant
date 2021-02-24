@@ -1,17 +1,18 @@
 ---
 title: 在Audience Manager中使用演算法（類似）模型來增加ROAS
 description: Audience Manager的相似模型真正的威力，是當您針對來自第二方與第三方資料來源的優質、全新的使用者群，尋求擴大基準受眾群時。 在本教學課程中，瞭解從這些資料建立模型的步驟。
-feature: algorithmic models
+feature: 算法模型
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25188.jpg
 kt: 1849
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ Audience Manager的相似[!UICONTROL Modeling]的真正力量，是您針對[!UI
 
 您想要在您的網站上吸引訪客做什麼？ 您的轉換事件是什麼？ 當然，這個問題有許多不同的答案，視您的網站類型／垂直和組織目標而定。 無論如何，AAM中通常會為符合這些條件的訪客建立[!UICONTROL trait]。
 
-在下面的影片中，我將示範如何建立轉換[!UICONTROL trait]，當您繼續進行本教學課程並建立類似的[!UICONTROL model]時，您會希望轉換&lt;a0/>。
+在下面的影片中，我將示範如何建立轉換[!UICONTROL trait]，當您繼續進行本教學課程並建立類似的[!UICONTROL model]時，您會希望轉換。
 
 此外，當使用Adobe Analytics事件建立[!UICONTROL traits]時，您需要記住一個重大問題，以免收集到的使用者數量超過您在[!UICONTROL trait]中應收集的數量。 觀看以下影片，瞭解大的顯示效果。:)
 
