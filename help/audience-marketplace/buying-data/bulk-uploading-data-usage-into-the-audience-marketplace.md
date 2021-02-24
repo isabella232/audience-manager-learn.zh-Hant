@@ -1,17 +1,18 @@
 ---
 title: 大量上傳資料使用情形至Audience Marketplace
 description: '當您在Audience Marketplace中報告第二方與第三方資料使用情形時，可能有足夠的項目可讓您不需要手動完成。 在此影片中，您將學習如何使用資料使用情況報告大量上傳工具，以便您輕鬆報告資料使用狀況，即使您有許多要更新的項目。 '
-feature: audience marketplace
+feature: 觀眾市場
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
