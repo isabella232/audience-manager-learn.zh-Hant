@@ -1,17 +1,18 @@
 ---
 title: 排除演算法（相似）模型中的特徵
 description: '在此影片中，您將瞭解從演算法（相似）模型中排除特定（或群組）特徵的方式和原因。 '
-feature: algorithmic models
+feature: 算法模型
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25569.jpg
 kt: 1759
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
