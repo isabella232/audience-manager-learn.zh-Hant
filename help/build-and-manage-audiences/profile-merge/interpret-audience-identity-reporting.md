@@ -1,17 +1,18 @@
 ---
 title: 解譯觀眾識別報表
 description: 「對象身分報告」可讓客戶依個人／家庭身分定義報告某個特徵或群體的總人口。 觀看此影片，瞭解它在Audience Manager報表中的表現。
-feature: profile merge
+feature: 配置檔案合併
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28973.jpg
 kt: 3694
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
