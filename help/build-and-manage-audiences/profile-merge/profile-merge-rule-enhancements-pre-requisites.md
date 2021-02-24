@@ -1,17 +1,18 @@
 ---
 title: 描述檔合併規則增強功能——預先要求
 description: 概述如何最佳準備發佈「描述檔合併規則增強功能」。
-feature: profile merge
+feature: 配置檔案合併
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28971.jpg
 kt: 3692
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
