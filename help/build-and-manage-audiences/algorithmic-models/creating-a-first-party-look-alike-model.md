@@ -1,17 +1,18 @@
 ---
 title: 在AAM中建立第一方相似模型
 description: 在此影片中，您將學習如何建立第一方外觀相似的模型，以便您能夠找到更多自己的訪客，這些訪客看起來更像您的轉換器。
-feature: algorithmic models
+feature: 算法模型
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23504.jpg
 kt: 1805
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
