@@ -1,17 +1,18 @@
 ---
 title: 描述檔合併規則範例和使用案例
 description: 在此影片中，您會看到描述檔合併規則的範例及其含義，以及描述檔合併規則所解決的使用案例。
-feature: profile merge
+feature: 配置檔案合併
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28975.jpg
 kt: 3709
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
