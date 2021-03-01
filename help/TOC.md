@@ -16,13 +16,13 @@ ht-degree: 4%
 # Audience Manager 教學課程 {#tutorials}
 
 + [概述](overview.md)
-+ Audience Manager簡介{#intro-to-audience-manager}
++ Audience Manager介紹{#intro-to-audience-manager}
    + [DMP如何改變您的業務](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
-   + [Audience Manager - DMP概觀](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
+   + [Audience Manager- DMP概觀](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager使用案例](intro-to-audience-manager/audience-manager-use-cases.md)
    + [瞭解基本術語和概念](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [瞭解Audience Manager中的資料流](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
-   + [Audience Manager中的Identity簡介](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
+   + [Audience Manager中的身份簡介](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + 值實現{#value-realization}
       + [在客戶抑制使用案例中測量投資報酬率](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 設定與管理{#setup-and-admin}
@@ -38,15 +38,15 @@ ht-degree: 4%
    + 使用與帳單{#usage-and-billing}
       + [監控和報告活動使用情況](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Web實施{#web-implementation}
-   + DIL（資料整合庫）{#dil}
-      + [更新至DIL 8.0版（或更新版本）](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
+   + DIL(Data Integration Library){#dil}
+      + [更新至DIL8.0版（或更新版本）](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF（伺服器端轉發）{#ssf}
       + [在Launch網站中實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [將您網站的AAM實作從用戶端DIL移轉至伺服器端轉送](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [從追蹤伺服器移轉至報表套裝層級伺服器端轉送](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [使用標籤管理器實作Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [如何識別您的合作夥伴ID或子網域](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
-   + [在SPA頁面上使用最佳實務](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
+   + [在頁面上使用最佳實SPA務](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
 + 整合離線資料{#integrating-offline-data}
    + [格式化和收錄以檔案為基礎的資料](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [擷取檔案式資料的步驟](integrating-offline-data/steps-for-ingesting-file-based-data.md)
@@ -56,19 +56,19 @@ ht-degree: 4%
    + [在Android應用程式中實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + 訪客交易市場 {#audience-marketplace}
    + 購買資料{#buying-data}
-      + [在區段層級報告Audience Marketplace中的第二方與第三方資料使用情形](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
+      + [在區段層級報告第二方與第三方資料的Audience Marketplace使用情形](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [大量上傳資料使用情形至Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
-      + [使用篩選器和建議在Audience Marketplace中選擇第三方資料](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+      + [使用篩選器和Recommendations選擇Audience Marketplace中的第三方資料](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + 銷售資料{#selling-data}
       + [在Marketplace上將擁有的觀眾商用化](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + 建立和管理觀眾{#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [使用信號儀表板快速查看頂級可用信號](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
-      + [使用資料總管搜尋已使用和未使用的金鑰／值配對](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
-      + [將搜尋儲存在資料總管中以方便重複使用](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
-      + [使用資料總管建立追溯特徵和區段](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
-      + [使用資料總管來驗證已登入資料的特徵建立](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
-      + [使用資料總管處理來自Adobe Analytics的訊號](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
+      + [使用Data Explorer搜索已用和未用的鍵／值對](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
+      + [在Data Explorer中保存搜索以方便重複使用](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+      + [使用Data Explorer建立追溯特徵和區段](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
+      + [使用Data Explorer驗證已登錄資料的特徵建立](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
+      + [利用Data Explorer處理來自Adobe Analytics的信號](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
    + 特徵與區段{#traits-and-segments}
       + [從Analytics資料建立規劃特徵](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
       + [建立特徵分類法](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
@@ -85,11 +85,11 @@ ht-degree: 4%
       + [實用區段定義與建立](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
       + [從多個資料來源建立區段](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
       + [建立區段時選擇資料來源](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-a-segment.md)
-      + [使用特徵建議增強區段](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
+      + [利用特徵Recommendations增強您的細分](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
       + [區段產生器中的特徵建議增強功能](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [在區段中使用時近和頻率](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [建立區段時使用程式碼檢視](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
-      + [從Adobe Analytics將區段匯入Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
+      + [將區段從Adobe Analytics匯入Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [建立區段以隱藏廣告給客戶](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [將Audience Manager區段對應至目標](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [將區段對應至裝置型目標](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
@@ -124,10 +124,10 @@ ht-degree: 4%
       + [瞭解比對率介面](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
       + [使用資料匯出標籤來控制資料流](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
-      + [使用Audience Lab選擇DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
+      + [使用Audience Lab來選擇DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [建立轉換特徵](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
    + 以人物為基礎的目的地 {#people-based-destinations}
-      + [以人為本的目的地影片和教學課程](data-activation/people-based-destinations/pbd.md)
+      + [以人為本的目的地影片和Tutorials](data-activation/people-based-destinations/pbd.md)
       + [以人為本的目的地資料流](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
       + [為基於人的目標建立資料源](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
       + [瞭解人員型目的地的雜湊PII資料擷取](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
@@ -142,7 +142,7 @@ ht-degree: 4%
    + [使用具有特徵和區段的一般報表](reports/using-general-reports-with-traits-and-segments.md)
    + [使用具有特徵和區段的趨勢報表](reports/using-trended-reports-with-traits-and-segments.md)
    + [瞭解具有重疊報表的相關對象](reports/understand-related-audiences-with-overlap-reports.md)
-   + [使用受眾最佳化報告來瞭解媒體效能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
+   + [使用Audience Optimization報告瞭解媒體效能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他整合{#other-integrations}
    + 與即時客戶資料平台{#integrating-with-rtcdp}整合
       + [使用Adobe Audience Manager資料連接器收錄資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
