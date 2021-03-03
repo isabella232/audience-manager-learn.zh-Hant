@@ -1,18 +1,19 @@
 ---
 title: 瞭解具有重疊報表的相關對象
 description: 重疊報表可讓您查看特徵和區段對象如何彼此重疊（多個特徵或區段中的相同訪客），以便您知道可以在何處處理資料，以增加轉換或專注於擴大觸及面。
-feature: overlap reports
+feature: 重疊報表
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
