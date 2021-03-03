@@ -1,19 +1,20 @@
 ---
 title: 實用區段定義與建立
 description: 這段影片會逐步帶您定義區段，然後依您建立區段所需的特性／訊號來劃分區段。
-feature: segments
+feature: 區段
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37391.jpg
 kt: 5821
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 77c4eb9f4113d9322f1fc9574e4d9ad6fb480e1d
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
