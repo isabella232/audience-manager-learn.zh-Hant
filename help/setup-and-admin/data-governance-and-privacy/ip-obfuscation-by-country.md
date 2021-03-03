@@ -1,23 +1,24 @@
 ---
-title: Audience Manager中依國家／地區的IP模糊化
+title: IP模糊化（依國家／地區）在Audience Manager
 description: Audience Manager在UI中提供自助功能，讓客戶可以開啟全球或依國家／地區的IP模糊化。 這段視訊會帶您完成設定。
-feature: data governance & privacy
+feature: 「資料治理與隱私權」
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 
-# Audience Manager {#ip-obfuscation-by-country-in-audience-manager}中依國家／地區的IP模糊化
+# {#ip-obfuscation-by-country-in-audience-manager}Audience Manager中依國家／地區的IP模糊化
 
 Audience Manager在UI中提供自助功能，讓客戶可以開啟全球或依國家／地區的IP模糊化。 這段視訊會帶您完成設定。
 
