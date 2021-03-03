@@ -1,18 +1,19 @@
 ---
 title: 描述檔合併規則概覽
 description: 瞭解「描述檔合併規則」是什麼、其運作方式，以及其對行銷人員的價值。
-feature: 配置檔案合併
+feature: 描述檔合併
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
