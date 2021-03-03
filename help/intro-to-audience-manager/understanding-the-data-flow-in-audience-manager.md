@@ -1,25 +1,26 @@
 ---
 title: 瞭解Audience Manager中的資料流
-description: 此影片可協助您瞭解Adobe Audience Manager，說明資料流入、穿過和流出應用程式。
-feature: overview
+description: 此視訊可協助您瞭解Adobe Audience Manager，說明資料流入、穿過和流出應用程式。
+feature: 概述
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
 
 # 瞭解Audience Manager中的資料流
 
-此影片可協助您瞭解Adobe Audience Manager，說明資料流入、穿過和流出應用程式。
+此視訊可協助您瞭解Adobe Audience Manager，說明資料流入、穿過和流出應用程式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
