@@ -1,23 +1,24 @@
 ---
-title: 描述檔合併視訊和教學課程
+title: 描述檔合併視訊和Tutorials
 description: 本節包含描述檔合併功能的影片和教學課程，例如描述檔合併規則。
-feature: profile merge
+feature: 描述檔合併
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Profile Merge] -影片和教學課程
+# [!UICONTROL Profile Merge] -影片和Tutorials
 
 透過[!UICONTROL Profile Merge Rules]，您可以控制用於[!UICONTROL segmentation]的資料集，並可以跨多種裝置精確定位人員。
 
