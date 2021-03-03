@@ -1,18 +1,19 @@
 ---
 title: 為基於人的目標建立資料源
-description: 此視訊會逐步帶您瞭解在Audience Manager中建立資料來源，以便用於以人為本的目的地。
-feature: people-based destinations
+description: 此視訊會逐步帶您建立Audience Manager中的資料來源，以用於人員型目的地。
+feature: '"基於人的目標"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # 為[!UICONTROL People-Based Destinations]建立[!UICONTROL Data Source]
 
-此影片會逐步帶您瞭解在Audience Manager中建立[!UICONTROL Data Source]以用於[!UICONTROL People-Based Destinations]。
+此視訊會逐步帶您檢視建立[!UICONTROL Data Source]的Audience Manager，以用於[!UICONTROL People-Based Destinations]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
