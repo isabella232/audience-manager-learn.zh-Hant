@@ -1,26 +1,27 @@
 ---
-title: 在Audience Manager中設定並報告[!UICONTROL Predictive Audiences]
-description: 在此影片中，我們將逐步瞭解Audience Manager介面中的[!UICONTROL Predictive Audiences]設定。 我們也會看到顯示模型結果的報表。
-feature: 算法模型
+title: 在Audience Manager中配置並報告[!UICONTROL Predictive Audiences]
+description: 在此視頻中，我們將介紹Audience Manager介面中的[!UICONTROL Predictive Audiences]配置。 我們也會看到顯示模型結果的報表。
+feature: 演算法模型
 topics: null
-audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
+role: 管理員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 3%
 
 ---
 
 
-# 在Audience Manager中設定並報告[!UICONTROL Predictive Audiences]
+# 在Audience Manager中配置並報告[!UICONTROL Predictive Audiences]
 
-在此影片中，我們將逐步瞭解Audience Manager介面中的[!UICONTROL Predictive Audiences]設定。 我們也會看到顯示模型結果的報表。
+在此視頻中，我們將介紹Audience Manager介面中的[!UICONTROL Predictive Audiences]配置。 我們也會看到顯示模型結果的報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
