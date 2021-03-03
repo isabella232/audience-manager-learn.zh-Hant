@@ -4,16 +4,17 @@ description: 在此影片中，我們會逐步介紹在 AAM 中建立資料來�
 landing-page-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。動手為分析資料建立特徵之前，請先觀看這部影片。
 feature: 資料來源
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 49%
+source-wordcount: '162'
+ht-degree: 47%
 
 ---
 
