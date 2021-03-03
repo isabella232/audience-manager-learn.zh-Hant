@@ -3,16 +3,18 @@ title: 瞭解面向Audience Manager用戶的即時CDP中的細分
 description: 從Audience Manager到即時客戶資料平台，瞭解概念的差異會很有幫助。 此視訊檢視了Audience Manager與即時CDP之間區段和區段建立的差異。
 feature: 平台整合
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 4f6c2ac49e0b05438e040e73963f7ebb5b02fcc0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '198'
 ht-degree: 1%
 
 ---
