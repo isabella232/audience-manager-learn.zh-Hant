@@ -1,25 +1,26 @@
 ---
-title: 在Adobe IO中擷取API認證
-description: 您不必聯絡Adobe諮詢或客戶服務以取得使用REST API的認證，只需在瀏覽器中前往Adobe.io並擷取或註冊您自己的認證。
-feature: api
+title: 在AdobeIO中檢索API憑據
+description: 您不必聯絡Adobe諮詢或客戶服務以取得使用REST API的認證，只需前往瀏覽器中的Adobe.io，並擷取或註冊您自己的認證。
+feature: API
 topics: null
-audience: developer
 activity: develop
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 37889.jpg
 kt: 5971
+role: 開發人員
+level: 經驗豐富
 translation-type: tm+mt
-source-git-commit: 75748e00781a6563af5e9e4312c45d66ec6105a0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 2%
 
 ---
 
 
 # 在Adobe I/O中擷取API認證
 
-您不必聯絡Adobe諮詢或客戶服務以取得使用REST API的認證，只需在瀏覽器中前往Adobe.io並擷取或註冊您自己的認證。
+您不必聯絡Adobe諮詢或客戶服務以取得使用REST API的認證，只需前往瀏覽器中的Adobe.io，並擷取或註冊您自己的認證。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)
