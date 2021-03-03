@@ -1,24 +1,25 @@
 ---
-title: 瞭解Audience Manager中的比對率介面
+title: 瞭解Audience Manager中的匹配率介面
 description: 此視訊會帶您瀏覽目標介面，顯示並說明與匹配率和可定址觀眾相關的數字。
-feature: match rates
+feature: 符合率
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 
 
-# 瞭解Audience Manager中的比對率介面
+# 瞭解Audience Manager中的匹配率介面
 
 此視訊會帶您瀏覽[!UICONTROL destination]介面，顯示並說明與比對率和[!DNL addressable audiences]相關的數字。
 
