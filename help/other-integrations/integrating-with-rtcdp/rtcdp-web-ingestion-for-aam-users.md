@@ -1,26 +1,28 @@
 ---
-title: 瞭解Audience Manager使用者在即時CDP中擷取Web資料
-description: 此視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包含Audience Manager Data Connector適合的高階介紹，以及資料如何直接透過Web SDK從網站移入即時CDP。
+title: 瞭解面向Audience Manager用戶的即時CDP中的Web資料接收
+description: 本視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包括Audience Manager資料連接器的適用位置，以及資料如何直接透過網站SDK移入即時CDP。
 feature: 平台整合
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331752.jpg
 kt: 7153
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 4%
 
 ---
 
 
-# 瞭解Audience Manager使用者在即時CDP中擷取Web資料
+# 瞭解面向Audience Manager用戶的即時CDP中的Web資料接收
 
-此視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包含Audience Manager Data Connector適合的高階介紹，以及資料如何直接透過Web SDK從網站移入即時CDP。
+本視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包括Audience Manager資料連接器的適用位置，以及資料如何直接透過網站SDK移入即時CDP。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
