@@ -1,20 +1,21 @@
 ---
-title: 將搜尋儲存在資料總管中以方便重複使用
-description: 在此影片中，您將學習如何在資料總管中設定搜尋、執行搜尋，然後儲存以供稍後重新使用。 您也可以將儲存的搜尋置於控制面板上，如此當您進入Signals應用程式時，就可立即使用。
-feature: data explorer
+title: 在Data Explorer中保存搜索以方便重複使用
+description: 在此影片中，您將學習如何在Data Explorer中設定搜尋、執行搜尋，然後儲存以供稍後重新使用。 您也可以將儲存的搜尋置於控制面板上，如此當您進入Signals應用程式時，就可立即使用。
+feature: Data Explorer
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 1%
 
 ---
 
