@@ -1,26 +1,27 @@
 ---
 title: 使用信號儀表板快速查看頂級可用信號
-description: 在Data Explorer的「訊號」控制面板上使用內建和自訂表格，您就可快速看到Audience Manager中傳入的最新資料，甚至可視需要點進以建立特徵。 歡迎使用全新、更有效率的工作流程！
-feature: data explorer
+description: 在Data Explorer的「信號」控制面板上使用內建和自訂表格，您就可快速看到傳入Audience Manager的最新資料，甚至可視需要點進以建立特徵。 歡迎使用全新、更有效率的工作流程！
+feature: Data Explorer
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
 
 # 使用[!UICONTROL Signals]儀表板快速查看[!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}頂部可用
 
-透過在[!DNL Data Explorer]的[!UICONTROL Signals]控制面板上使用內建和自訂表格，您可以快速看到Audience Manager中傳入的最新資料，甚至可視需要點進以建立特徵。 歡迎使用全新、更有效率的工作流程！
+在[!DNL Data Explorer]的[!UICONTROL Signals]控制面板上使用內建和自訂表格，您就可快速看到最新資料傳入Audience Manager，甚至視需要點進以建立特徵。 歡迎使用全新、更有效率的工作流程！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
