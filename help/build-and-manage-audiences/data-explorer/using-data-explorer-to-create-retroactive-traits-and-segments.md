@@ -1,19 +1,20 @@
 ---
-title: 使用資料總管建立追溯特徵和區段
+title: 使用Data Explorer建立追溯特徵和區段
 description: 此影片說明如何建立可回溯特徵，即在建立特徵之前將資料回填至特徵的特徵。 這是您特徵創作的一大突破！
-feature: data explorer
+feature: Data Explorer
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
