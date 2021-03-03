@@ -1,17 +1,18 @@
 ---
 title: 全域裝置ID驗證
 description: 裝置廣告識別碼（即iDFA、GAID、Roku ID）具有必須符合的格式化標準，才能用於數位廣告生態系統。 現在，客戶和合作夥伴可以以任何格式將ID上傳至我們的全球資料來源，而不會收到ID格式正確的通知。 此功能將引入傳送至全域資料來源的裝置ID驗證，以取得正確的格式，並會在ID格式錯誤時提供錯誤訊息。 我們將支援iDFA、Google Advertising和Roku ID在啟動時的驗證。
-feature: data governance & privacy
+feature: 「資料治理與隱私權」
 topics: mobile
-audience: implementer, developer, architect
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
+role: 「開發人員、資料工程師、架構師」
+level: 經驗豐富
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '786'
 ht-degree: 1%
 
 ---
@@ -23,14 +24,14 @@ ht-degree: 1%
 
 ## 格式標準概述{#overview-of-format-standards}
 
-以下是目前由AAM識別並支援的全域裝置廣告ID群組。 這些實作為共用[!UICONTROL Data Sources]實作，可供與這些平台的使用者關聯的資料搭配運作的任何客戶或資料合作夥伴使用。
+以下是目前已識別並支援的全域裝置廣告IDAAM群組。 這些實作為共用[!UICONTROL Data Sources]實作，可供與這些平台的使用者關聯的資料搭配運作的任何客戶或資料合作夥伴使用。
 
 <table>
   <tr>
    <td>平台 </td>
    <td>AAM資料來源ID </td>
    <td>ID格式 </td>
-   <td>AAM PID </td>
+   <td>PIDAAM </td>
    <td>附註 </td>
   </tr>
   <tr>
