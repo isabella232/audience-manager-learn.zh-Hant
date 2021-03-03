@@ -1,24 +1,26 @@
 ---
-title: Audience Manager - DMP概觀
+title: Audience Manager- DMP概觀
 description: 瞭解跨通道個人化的主要挑戰，以及Adobe Audience Manager如何推動客戶歷程。 此外，還可瞭解哪些資料類型可在Audience Manager中登入，並識別與Audience Manager整合的廣告技術生態系統合作夥伴。
-feature: overview
+feature: 概述
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
+topic: 架構
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 1%
 
 ---
 
 
-# Audience Manager - DMP概觀
+# Audience Manager- DMP概觀
 
 瞭解跨通道個人化的主要挑戰，以及Adobe Audience Manager如何推動客戶歷程。 此外，還可瞭解哪些資料類型可在Audience Manager中登入，並識別與Audience Manager整合的廣告技術生態系統合作夥伴。
 
