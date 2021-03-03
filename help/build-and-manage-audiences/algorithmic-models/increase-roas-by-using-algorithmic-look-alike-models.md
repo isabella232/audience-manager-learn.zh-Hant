@@ -1,30 +1,31 @@
 ---
-title: 在Audience Manager中使用演算法（類似）模型來增加ROAS
-description: Audience Manager的相似模型真正的威力，是當您針對來自第二方與第三方資料來源的優質、全新的使用者群，尋求擴大基準受眾群時。 在本教學課程中，瞭解從這些資料建立模型的步驟。
-feature: 算法模型
+title: 在Audience Manager中使用演算法（類似）模型來提高ROAS
+description: Audience Manager相似模型的真正威力，是您針對來自第二方與第三方資料來源的優質、全新的使用者群，尋求擴大基準受眾。 在本教學課程中，瞭解從這些資料建立模型的步驟。
+feature: 演算法模型
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
 
 
-# 在Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}中使用演算法（類似）[!UICONTROL Models]來增加ROAS
+# 在Audience Manager{#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}中使用演算法（相似）[!UICONTROL Models]來增加ROAS
 
-Audience Manager的相似[!UICONTROL Modeling]的真正力量，是您針對[!UICONTROL second party]和[!UICONTROL third party] [!UICONTROL data sources]的全新優質使用者群，來擴展您的基準受眾。 在本教學課程中，瞭解從此資料建立[!UICONTROL model]所需的步驟。
+當您設法針對[!UICONTROL second party]和[!UICONTROL third party] [!UICONTROL data sources]的優質、全新使用者群，擴展您的基準受眾時，Audience Manager的相似[!UICONTROL Modeling]才是真正的力量。 在本教學課程中，瞭解從此資料建立[!UICONTROL model]所需的步驟。
 
-## 從Audience Marketplace {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}啟用[!UICONTROL Second Party]或[!UICONTROL Third Party]資料流
+## 從Audience Marketplace{#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}啟用[!UICONTROL Second Party]或[!UICONTROL Third Party]資料流
 
-為了在類似[!UICONTROL model]中使用[!UICONTROL second party]和[!UICONTROL third party]資料，我們必須先將此資料啟用至您的Audience Manager介面。 Adobe有大量的[!UICONTROL second party]和[!UICONTROL third party]資料提供者，您可從中選擇。 這些功能可在AAM的自助介面中透過Audience Marketplace提供。 導覽至Audience Marketplace並瀏覽各種可能。 以下視訊將告訴您如何做到，包括如何啟用免費的「購買前先試用」串流，以便您鎖定對您的組織最有用的資料，然後再提交資料供應商的價格。
+為了在類似[!UICONTROL model]中使用[!UICONTROL second party]和[!UICONTROL third party]資料，我們必須先將此資料啟用至您的Audience Manager介面。 Adobe有大量[!UICONTROL second party]和[!UICONTROL third party]資料提供者，您可從中選擇。 您可透過Audience Marketplace，在自助介面中取AAM得這些功能。 導覽至Audience Marketplace並瀏覽各種可能。 以下視訊將告訴您如何做到，包括如何啟用免費的「購買前先試用」串流，以便您鎖定對您的組織最有用的資料，然後再提交資料供應商的價格。
 
 此外，為協助您研究並決定要使用哪個資料提供者，[[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/)是一項絕佳的資源。
 
@@ -32,15 +33,15 @@ Audience Manager的相似[!UICONTROL Modeling]的真正力量，是您針對[!UI
 
 ## 識別／建立理想的使用者（轉換）[!UICONTROL trait]或[!UICONTROL segment] {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-您想要在您的網站上吸引訪客做什麼？ 您的轉換事件是什麼？ 當然，這個問題有許多不同的答案，視您的網站類型／垂直和組織目標而定。 無論如何，AAM中通常會為符合這些條件的訪客建立[!UICONTROL trait]。
+您想要在您的網站上吸引訪客做什麼？ 您的轉換事件是什麼？ 當然，這個問題有許多不同的答案，視您的網站類型／垂直和組織目標而定。 無論如何，通常都AAM會為符合這些條件的訪客建立[!UICONTROL trait]。
 
 在下面的影片中，我將示範如何建立轉換[!UICONTROL trait]，當您繼續進行本教學課程並建立類似的[!UICONTROL model]時，您會希望轉換。
 
-此外，當使用Adobe Analytics事件建立[!UICONTROL traits]時，您需要記住一個重大問題，以免收集到的使用者數量超過您在[!UICONTROL trait]中應收集的數量。 觀看以下影片，瞭解大的顯示效果。:)
+此外，當使用Adobe Analytics事件建立[!UICONTROL traits]時，您需要記住一個重大問題，如此您才不會收集到超過您在[!UICONTROL trait]中應收集的使用者。 觀看以下影片，瞭解大的顯示效果。:)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，我們有一個模組可讓您用來將資料傳送至AAM（請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)），如果您的網站上的轉換活動是透過GA傳送至AAM，則您可以從中建立轉換[!UICONTROL trait]。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL程式碼和`submit`函式，將資料傳送至AAM。 （請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然後，根據在網站上執行轉換活動時傳送的資料來建立轉換[!UICONTROL trait]。
+**注意：** 在上述影片中，我展示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，我們有一個模組，您可以用它來傳送資料AAM（請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)），如果您的網站轉換活動是由GA傳送AAM至，則您可以從中建立轉換[!UICONTROL trait]。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的AAMDIL程式碼和`submit`函式傳送資料給。 （請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然後，根據在網站上執行轉換活動時傳送的資料來建立轉換[!UICONTROL trait]。
 
 ## 從[!UICONTROL Second Party]或[!UICONTROL Third Party]資料{#create-a-look-alike-model-from-2nd-or-3rd-party-data}建立類似的[!UICONTROL Model]
 
@@ -58,8 +59,8 @@ Audience Manager的相似[!UICONTROL Modeling]的真正力量，是您針對[!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
-## 從[!UICONTROL Model]資料建立[!UICONTROL Segment]並將其發送到DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
+## 從[!UICONTROL Model]資料建立[!UICONTROL Segment]並傳送至DSP{#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 
 建立演算法[!UICONTROL Trait]後，您可以建立新的[!UICONTROL segment]來放入，以便啟動資料(您無法啟動[!UICONTROL trait]，而是使用演算法[!UICONTROL Trait]建立新的[!UICONTROL trait] [!UICONTROL segment]，以便啟動（使用）[!UICONTROL segment])。
 
-一旦您從此演算法[!UICONTROL trait]建立[!UICONTROL segment]後，您就會有潛在客戶的觀眾，這些潛在客戶看起來就像您網站上已轉換的人。 現在，您可以將此[!UICONTROL segment]對應至Audience Manager中的任何DSP [!UICONTROL destinations]。 您可以將行銷目標鎖定在那些在網站上轉換的訪客，而不只是一般大眾，從而提高廣告支出的回報。 祝你好運！
+一旦您從此演算法[!UICONTROL trait]建立[!UICONTROL segment]後，您就會有潛在客戶的觀眾，這些潛在客戶看起來就像您網站上已轉換的人。 現在，您可以將此[!UICONTROL segment]對應至您的任DSP何Audience Manager中的[!UICONTROL destinations]。 您可以將行銷目標鎖定在那些在網站上轉換的訪客，而不只是一般大眾，從而提高廣告支出的回報。 祝你好運！
