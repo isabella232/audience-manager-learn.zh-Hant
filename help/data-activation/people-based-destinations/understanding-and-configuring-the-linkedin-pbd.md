@@ -1,18 +1,19 @@
 ---
 title: 瞭解和設定以人為本的LinkedIn目的地
 description: 此影片會逐步帶您瞭解建立LinkedIn的以人為本的目的地的概念和步驟。 它以其他有關以人為本的目的地的影片和檔案為基礎。
-feature: people-based destinations
+feature: '"基於人的目標"'
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
