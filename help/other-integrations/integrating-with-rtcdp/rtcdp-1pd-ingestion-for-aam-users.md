@@ -1,26 +1,28 @@
 ---
-title: 瞭解Audience Manager用戶即時CDP中的第一方資料接收
-description: 本視訊討論使用Adobe Audience Manager的客戶即時資料平台（即時CDP）的第一方離線資料擷取。 我們檢視了兩種產品在資料擷取方面的主要差異，並說明在將程式移至即時CDP之前，Audience Manager Data Connector如何用作停止間隙。
+title: 瞭解面向Audience Manager用戶的即時CDP中的第一方資料接收
+description: 本視訊討論使用Adobe Audience Manager的客戶即時資料平台（即時CDP）的第一方離線資料擷取。 我們查看兩個產品在資料接收方面的一些主要差異，並說明在將流程移至即時CDP之前，如何將Audience Manager資料連接器用作停止間隙。
 feature: 平台整合
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331276.jpg
 kt: 7128
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 0%
+source-wordcount: '275'
+ht-degree: 1%
 
 ---
 
 
-# 瞭解Audience Manager用戶即時CDP中的第一方資料接收
+# 瞭解面向Audience Manager用戶的即時CDP中的第一方資料接收
 
-本視訊討論使用Adobe Audience Manager的客戶即時資料平台（即時CDP）的第一方離線資料擷取。 我們檢視了兩種產品在資料擷取方面的主要差異，並說明在將程式移至即時CDP之前，Audience Manager Data Connector如何用作停止間隙。
+本視訊討論使用Adobe Audience Manager的客戶即時資料平台（即時CDP）的第一方離線資料擷取。 我們查看兩個產品在資料接收方面的一些主要差異，並說明在將流程移至即時CDP之前，如何將Audience Manager資料連接器用作停止間隙。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
