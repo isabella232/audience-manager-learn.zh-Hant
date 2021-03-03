@@ -1,19 +1,20 @@
 ---
 title: 建立區段時使用程式碼檢視
 description: 瞭解如何使用程式碼檢視來定義區段，讓您建立複雜特徵組合，包括使用時近和頻率。
-feature: segments
+feature: 區段
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 8650806b99321f9ca64ceb79f6e3ecdd7013299e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
