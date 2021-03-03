@@ -1,24 +1,25 @@
 ---
-title: 在Audience Marketplace中使用篩選器和建議來選擇第三方資料
-description: 此視訊會逐步瀏覽Audience Marketplace中的篩選器和建議選項，協助您選擇符合您需求的第三方資料供應商。
-feature: 觀眾市場
+title: 使用篩選器和Recommendations選擇Audience Marketplace中的第三方資料
+description: 此視訊會逐步瀏覽Audience Marketplace中的篩選器和建議選項，協助您根據需求選擇正確的第三方資料供應商。
+feature: 訪客交易市場
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
 
-# 使用篩選器和建議在[!UICONTROL Audience Marketplace]中選擇[!UICONTROL Third Party]資料
+# 使用篩選器和Recommendations選擇[!UICONTROL Audience Marketplace]中的[!UICONTROL Third Party]資料
 
 此視訊會逐步瀏覽[!UICONTROL Audience Marketplace]中的篩選器和建議選項，協助您選擇符合您需求的[!UICONTROL third party]資料提供者。
 
