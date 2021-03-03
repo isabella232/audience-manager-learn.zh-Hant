@@ -1,18 +1,19 @@
 ---
 title: 擷取檔案式資料的步驟
-description: 此影片會逐步帶您完成在離線資料上傳至Audience Manager時需要考慮的幾個步驟，包括資料檔案的檔案名稱要求。
-feature: onboarding offline data
+description: 此視訊會逐步帶您完成將離線資料載入Audience Manager時需要考慮的幾個步驟，包括資料檔案的檔案名稱要求。
+feature: 上線離線資料
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # 擷取檔案式資料的步驟
 
-此影片會逐步帶您完成在離線資料上傳至Audience Manager時需要考慮的幾個步驟，包括資料檔案的檔案名稱要求。
+此視訊會逐步帶您完成將離線資料載入Audience Manager時需要考慮的幾個步驟，包括資料檔案的檔案名稱要求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
