@@ -1,18 +1,19 @@
 ---
-title: 在區段層級報告Audience Marketplace中的第二方與第三方資料使用情形
-description: 此視訊顯示在Audience Marketplace UI的「Payables」區段中報告資料使用情況的新方法。 除了現有的饋送層級報告程式外，現在可以在區段層級提交每月曝光，如此就不需要離線計算成本歸因。
-feature: 觀眾市場
+title: 在區段層級報告第二方與第三方資料的Audience Marketplace使用情形
+description: 此視訊在Audience MarketplaceUI的「Payables」區段中顯示報告資料使用情況的新方法。 除了現有的饋送層級報告程式外，現在可以在區段層級提交每月曝光，如此就不需要離線計算成本歸因。
+feature: 訪客交易市場
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
