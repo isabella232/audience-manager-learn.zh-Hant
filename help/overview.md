@@ -1,16 +1,17 @@
 ---
-title: Analytics影片和教學課程
+title: Analytics影片和Tutorials
 description: Adobe Analytics 的影片和教學課程系列。
-feature: overview
+feature: 概述
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '349'
 ht-degree: 3%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 3%
 
 # 概述
 
-歡迎使用Audience Manager教學課程網站。  使用這些教學課程和[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)，您將更瞭解如何使用Adobe Audience Manager使用Adobe同級最佳的[!DNL data management platform]，在任何通道或裝置上建立並啟動觀眾。
+歡迎來到Audience ManagerTutorials網站。  使用這些教學課程與[說明檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)，您將更瞭解如何使用Adobe Audience Manager，使用Adobe的同級最佳[!DNL data management platform]，在任何頻道或裝置上建立並啟動觀眾。
 
 * **Staff** Pickshighlights我們最愛的部分內容
 * 在&#x200B;**左導覽**&#x200B;中依主題和子主題探索內容
@@ -36,7 +37,7 @@ ht-degree: 3%
 
 * **[建立和設定[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *瞭解如何在Audience Manager [!DNL People-Based Destination] 使用者介面中設定*
+   *瞭解如何在 [!DNL People-Based Destination] Audience ManagerUI中設定*
 
 ## 員工挑選
 
@@ -52,7 +53,7 @@ ht-degree: 3%
     </a>
     </div>
     <p>
-    <em>行動應用程式開發人員想要瞭解如何在iOS Swift應用程式中建置Adobe Experience Cloud解決方案，最適合他們的起點</em>
+    <em>對於想要學習如何在其iOS Swift應用程式中建置Adobe Experience Cloud解決方案的行動應用程式開發人員而言，這是最佳的起點</em>
     <p>
   </td>
   <td>
@@ -61,11 +62,11 @@ ht-degree: 3%
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-    <strong>在行動裝置[!DNL Android]應用程式中實作Experience Cloud</strong>
+    <strong>在行動[!DNL Android]應用程式中實作Experience Cloud</strong>
     </a>
     </div>
     <p>
-    <em>行動應用程式開發人員想要瞭解如何在其Android應用程式中建置Adobe Experience Cloud解決方案時，可以從最佳起點開始</em>
+    <em>行動應用程式開發人員想要學習如何在其Android應用程式中建置Adobe Experience Cloud解決方案，最適合他們的起點</em>
     <p>
   </td>
   <td>
@@ -78,7 +79,7 @@ ht-degree: 3%
     </a>
     </div>
     <p>
-    <em>行動應用程式開發人員想要瞭解如何在Objective-C應用程式中實作Adobe Experience Cloud解決方案，這是他們的最佳起點</em>
+    <em>對於想要學習如何在Objective-C應用程式中建置Adobe Experience Cloud解決方案的行動應用程式開發人員而言，這是最佳的起點</em>
     <p>
   </td>
 </tr>
