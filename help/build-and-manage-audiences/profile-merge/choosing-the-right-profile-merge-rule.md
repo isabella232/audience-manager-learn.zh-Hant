@@ -1,18 +1,19 @@
 ---
 title: 選擇正確的描述檔合併規則
 description: 在此影片中，瞭解「描述檔合併規則」的三種最常用的使用案例，以及它們如何協助您的行銷工作。
-feature: profile merge
+feature: 描述檔合併
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37908.jpg
 kt: 5833
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
