@@ -1,18 +1,19 @@
 ---
 title: 格式化和收錄以檔案為基礎的資料
-description: 當您將第一方帶入Audience Manager以深入瞭解並鎖定客戶時，資料有特定的格式要求。 本影片將介紹一些主要選項，並告訴您如何取得更多資訊。
-feature: onboarding offline data
+description: 將第一方帶入Audience Manager，以便更好地瞭解和鎖定客戶時，對資料有某些格式要求。 本影片將介紹一些主要選項，並告訴您如何取得更多資訊。
+feature: 上線離線資料
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # 格式化和收錄以檔案為基礎的資料
 
-當您將第一方帶入Audience Manager以深入瞭解並鎖定客戶時，資料有特定的格式要求。 本影片將介紹一些主要選項，並告訴您如何取得更多資訊。
+將第一方帶入Audience Manager，以便更好地瞭解和鎖定客戶時，對資料有某些格式要求。 本影片將介紹一些主要選項，並告訴您如何取得更多資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
