@@ -1,26 +1,27 @@
 ---
 title: 瞭解Audience Manager目標類型
-description: 本影片將引導您檢視Adobe Audience Manager中不同類型的目的地，並提供各目的地的使用時機範例。
-feature: destination basics
+description: 本影片將帶您瀏覽Adobe Audience Manager不同類型的目的地，並舉例說明您何時會使用每個目的地。
+feature: 目標基礎
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 
-# 瞭解Audience Manager [!UICONTROL Destination]類型
+# 瞭解Audience Manager[!UICONTROL Destination]類型
 
-此影片將引導您檢視Adobe Audience Manager中不同類型的[!UICONTROL destinations]，並提供各種類型的使用時機範例。
+本影片將帶您瞭解Adobe Audience Manager的不同[!UICONTROL destinations]類型，並舉例說明您何時使用每種類型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
