@@ -1,23 +1,24 @@
 ---
-title: 以人為本的目的地影片和教學課程
+title: 以人為本的目的地影片和Tutorials
 description: 本節包含有關「以人為本」之目標主題的影片和教學課程。
-feature: people-based destinations
+feature: '"基於人的目標"'
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
+role: 管理員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 235db3648b84db272cf68b863cf1df7b6d14ee92
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL People-Based Destinations] 影片和教學課程
+# [!UICONTROL People-Based Destinations] 影片和Tutorials
 
 [!UICONTROL People-Based Destinations] 可讓您針對線上和離線資料套用區段，以根據雜湊識別碼（例如電子郵件地址或電話號碼）建立觀眾區段。然後，您可以將這些區段傳送至社交平台，例如[!DNL Facebook]或[!DNL LinkedIn]，以鎖定您的對象。
 
