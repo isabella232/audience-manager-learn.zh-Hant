@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '904'
 ht-degree: 4%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 4%
    + [Audience Manager中的身份簡介](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + 值實現{#value-realization}
       + [在客戶抑制使用案例中測量投資報酬率](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ 產業新聞與趨勢{#industry}
+   + [資料管理的未來與不斷變化的環境](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [負責客戶資料管理的10項考慮事項](industry/ten-considerations-for-responsible-customer-data-management.md)
+   + [品牌與消費者：](industry/brands-vs-consumers.md)
 + 設定與管理{#setup-and-admin}
    + 資料來源 {#data-sources}
       + [建立Analytics資料的資料來源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
