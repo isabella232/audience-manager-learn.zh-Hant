@@ -3,15 +3,15 @@ title: 瞭解面向Audience Manager用戶的即時CDP信號
 description: 此視訊適用於Audience Manager使用者，他們正在移轉至即時客戶資料平台（即時CDP），並討論您在Audience Manager中用來建立特性的信號（關鍵值配對）如何在Platform中使用。
 feature: 平台整合
 topic: 整合
-role: 業務從業人員
+role: 業務從業人員、架構師、管理員、領導者
 level: 中級
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '174'
 ht-degree: 1%
 
 ---
