@@ -3,15 +3,15 @@ title: 瞭解面向Audience Manager用戶的即時CDP中的訪問控制
 description: 當從Audience Manager移至即時客戶資料平台時，您會想要知道使用者和群組權限的設定位置。 此視訊顯示存取控制現在在Adobe Admin Console的情形。
 feature: 平台整合
 topic: 整合
-role: 業務從業人員
+role: 業務從業人員、架構師、管理員、領導者
 level: 中級
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '139'
 ht-degree: 2%
 
 ---
