@@ -8,16 +8,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 47%
+source-wordcount: '151'
+ht-degree: 50%
 
 ---
-
 
 # 為[!DNL Analytics]資料{#create-a-data-source-for-analytics-data}建立[!UICONTROL Data Source]
 
