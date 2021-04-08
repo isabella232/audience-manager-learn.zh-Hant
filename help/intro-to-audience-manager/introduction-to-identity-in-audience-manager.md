@@ -9,16 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 5146
 thumbnail: 34172.jpg
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 73%
+source-wordcount: '83'
+ht-degree: 83%
 
 ---
-
 
 # Audience Manager中的身份簡介
 
