@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教學課程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 4e536596d8fc3f7004e9d0be05b01066a92f73f5
+source-git-commit: 92185bb82356eab8dfb53f79fdbb8b760e313bc3
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '923'
 ht-degree: 4%
 
 ---
@@ -129,7 +129,7 @@ ht-degree: 4%
       + [使用資料匯出標籤來控制資料流](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [使用Audience Lab來選擇DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [建立轉換特徵](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+      + [建立轉換特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
    + 以人物為基礎的目的地 {#people-based-destinations}
       + [以人為本的目的地影片和Tutorials](data-activation/people-based-destinations/pbd.md)
       + [以人為本的目的地資料流](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
