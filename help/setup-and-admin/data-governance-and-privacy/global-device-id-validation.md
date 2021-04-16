@@ -1,22 +1,22 @@
 ---
 title: 全域裝置ID驗證
 description: 裝置廣告識別碼（即iDFA、GAID、Roku ID）具有必須符合的格式化標準，才能用於數位廣告生態系統。 現在，客戶和合作夥伴可以以任何格式將ID上傳至我們的全球資料來源，而不會收到ID格式正確的通知。 此功能將引入傳送至全域資料來源的裝置ID驗證，以取得正確的格式，並會在ID格式錯誤時提供錯誤訊息。 我們將支援iDFA、Google Advertising和Roku ID在啟動時的驗證。
-feature: 「資料治理與隱私權」
+feature: 資料管理與隱私權
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: 「開發人員、資料工程師、架構師」
-level: 經驗豐富
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # 全域裝置ID驗證{#global-device-id-validation}
 
