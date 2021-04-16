@@ -1,23 +1,23 @@
 ---
 title: 從追蹤伺服器移轉至報表套裝層級伺服器端轉送
 description: 本文和影片將示範如何啟用伺服器端轉送Analytics資料至報表套裝層級，而非追蹤伺服器層級的Audience Manager。
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics 整合功能
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: 「開發人員、資料工程師」
-level: 中級
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # 從[!UICONTROL Tracking Server]移轉至[!UICONTROL Report Suite]-Level [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
