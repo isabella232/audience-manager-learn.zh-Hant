@@ -2,13 +2,13 @@
 title: 從追蹤伺服器移轉至報表套裝層級伺服器端轉送
 description: 本文和影片將示範如何啟用伺服器端轉送Analytics資料至報表套裝層級，而非追蹤伺服器層級的Audience Manager。
 product: audience manager
-feature: Adobe Analytics 整合功能
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

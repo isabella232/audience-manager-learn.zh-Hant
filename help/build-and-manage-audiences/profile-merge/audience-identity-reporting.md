@@ -1,7 +1,7 @@
 ---
 title: 觀眾身分報告
 description: 「對象身分報告」可讓客戶依個人／家庭身分定義報告某個特徵或群體的總人口。 觀看此影片，瞭解它在Audience Manager報表中的表現。
-feature: 配置檔案合併
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

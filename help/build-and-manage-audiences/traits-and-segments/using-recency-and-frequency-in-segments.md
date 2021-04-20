@@ -1,15 +1,15 @@
 ---
 title: 在區段中使用時近和頻率
 description: 使用「時近」和「頻率」，提供您的區段參數，說明訪客在特定時段內必須符合某特徵的次數。 最適合內容相似性和頻率上限使用案例以及其他使用案例。
-feature: 區段
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37698.jpg
 kt: 5866
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

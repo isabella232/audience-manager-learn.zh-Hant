@@ -1,15 +1,15 @@
 ---
 title: 使用類似模型擴充第一方資料的已售庫存
 description: 在本教學課程中，我們將逐步介紹您設定和使用相似模型時應採取的步驟，以便您能夠建立新的相似觀眾，並將其作為轉換區段的延伸銷售。
-feature: 演算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

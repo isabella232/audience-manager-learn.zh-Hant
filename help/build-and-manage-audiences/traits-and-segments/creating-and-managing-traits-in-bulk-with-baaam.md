@@ -1,15 +1,15 @@
 ---
 title: 使用BAAM大量建立和管理特徵
 description: 在建立、編輯或刪除特徵時，使用UI逐一執行，不但效率不彰，而且耗時。 在此影片中，瞭解如何使用BAAM(Audience Manager的大量管理工具)，使用簡單的Microsoft試算表(Spreadsheet)作為REST API的介面，大量建立、編輯和刪除特徵。
-feature: 特徵
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330749.jpg
 kt: 6621
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

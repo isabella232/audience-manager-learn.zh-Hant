@@ -1,15 +1,15 @@
 ---
 title: 使用具有特徵和區段的趨勢報表
 description: 瞭解如何使用Audience Manager中的趨勢報表，以瞭解特徵和區段隨時間的表現。
-feature: 「一般與趨勢報表」
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

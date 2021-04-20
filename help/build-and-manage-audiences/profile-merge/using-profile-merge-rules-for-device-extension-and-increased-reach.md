@@ -1,15 +1,15 @@
 ---
 title: 使用描述檔合併規則來擴充裝置並增加觸及面
 description: 使用描述檔合併規則將觸角延伸到使用者的所有裝置，讓您可以將觸角行銷給人，而非裝置。
-feature: 描述檔合併
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

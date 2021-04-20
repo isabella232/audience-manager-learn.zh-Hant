@@ -1,15 +1,15 @@
 ---
 title: 在Audience Manager中使用演算法（類似）模型來提高ROAS
 description: Audience Manager相似模型的真正威力，是您針對來自第二方與第三方資料來源的優質、全新的使用者群，尋求擴大基準受眾。 在本教學課程中，瞭解從這些資料建立模型的步驟。
-feature: 演算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

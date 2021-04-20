@@ -1,15 +1,15 @@
 ---
 title: 建立第一方相似模型(在
 description: 在此影片中，您將學習如何建立第一方外觀相似的模型，以便您能夠找到更多自己的訪客，這些訪客看起來更像您的轉換器。
-feature: 演算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

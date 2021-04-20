@@ -1,14 +1,14 @@
 ---
 title: 以人為本的目的地影片和Tutorials
 description: 本節包含有關「以人為本」之目標主題的影片和教學課程。
-feature: '"基於人的目標"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

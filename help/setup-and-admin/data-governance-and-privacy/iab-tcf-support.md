@@ -1,7 +1,7 @@
 ---
 title: IAB TCF 2.0Audience Manager支援
 description: Adobe可讓您透過選擇加入功能以及IAB透明度與同意框架2.0(TCF 2.0)支援的Audience Manager外掛程式，管理並傳達使用者的隱私權選擇。 本文與檔案一起使用，可協助您瞭解IAB TCF的Audience Manager外掛程式，以及它如何與Adobe的選擇加入物件及您的同意管理提供者(CMP)搭配使用。
-feature: 「資料治理與隱私權」
+feature: "Data Governance & Privacy"
 activity: implement
 doc-type: technical video
 team: Technical Marketing

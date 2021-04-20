@@ -1,15 +1,15 @@
 ---
 title: 監控和報告活動使用情況
 description: 在此影片中，我們將逐步說明如何使用「活動使用狀況報表」，包括顯示和下載選項。
-feature: 使用與帳單
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: 管理
-role: 「開發人員、資料工程師、管理員」
-level: 初學者
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

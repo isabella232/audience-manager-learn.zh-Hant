@@ -1,15 +1,15 @@
 ---
 title: 格式化和收錄以檔案為基礎的資料
 description: 將第一方帶入Audience Manager，以便更好地瞭解和鎖定客戶時，對資料有某些格式要求。 本影片將介紹一些主要選項，並告訴您如何取得更多資訊。
-feature: 上線離線資料
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

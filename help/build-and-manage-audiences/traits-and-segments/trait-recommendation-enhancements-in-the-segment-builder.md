@@ -1,15 +1,15 @@
 ---
 title: 區段產生器中的特徵建議增強功能
 description: 在此影片中，您將看到如何在區段產生器中使用更新的特徵建議，這些是Audience Marketplace建議。 這些資料將提供您對第三方資料的額外洞察，以延伸您區段的觸角。
-feature: 區段
+feature: Segments
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

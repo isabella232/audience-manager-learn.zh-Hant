@@ -2,13 +2,13 @@
 title: 建立Analytics資料的資料來源
 description: 在此影片中，我們會逐步介紹在 AAM 中建立資料來源的相關步驟 (包括各種秘訣和訣竅)，供您在處理從 Adobe Analytics 等分析解決方案即時傳入的資料時使用。請先觀看此影片，再為分析資料建立特徵。
 landing-page-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。動手為分析資料建立特徵之前，請先觀看這部影片。
-feature: 資料來源
+feature: Data Sources
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt

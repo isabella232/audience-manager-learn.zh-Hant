@@ -1,15 +1,15 @@
 ---
 title: 將區段對應至裝置型目標
 description: 若要傳送對象區隔給其他DSP合作夥伴，您必須將區段對應至Audience Manager中的目的地。 此視訊會逐步將區段對應至裝置型目的地，也稱為「伺服器對伺服器」目的地。
-feature: 區段
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

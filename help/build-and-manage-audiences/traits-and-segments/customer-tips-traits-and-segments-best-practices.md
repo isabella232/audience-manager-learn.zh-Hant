@@ -1,15 +1,15 @@
 ---
 title: 客戶秘訣——特徵和細分最佳實務
 description: Ally Financial資深行銷專員Matt Vittorioso提供有關管理特性和細分的秘訣。
-feature: 區段
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

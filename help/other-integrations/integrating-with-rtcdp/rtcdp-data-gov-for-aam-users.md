@@ -1,10 +1,10 @@
 ---
 title: 瞭解面向Audience Manager用戶的即時CDP中的資料治理
 description: 此視訊將帶領Audience Manager使用者瞭解即時客戶資料平台中的資料管理功能，並與Audience Manager中提供的功能進行比較。 它討論了資料使用和標籤實施(DULE)框架，以及在平台中可以應用它的位置。
-feature: 平台整合
-topic: 整合
-role: 業務從業人員、架構師、管理員、領導者
-level: 中級
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337

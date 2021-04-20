@@ -1,10 +1,10 @@
 ---
 title: 瞭解面向Audience Manager用戶的即時CDP中的Web資料接收
 description: 本視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包括Audience Manager資料連接器的適用位置，以及資料如何直接透過網站SDK移入即時CDP。
-feature: 平台整合
-topic: 整合
-role: 業務從業人員、架構師、管理員、領導者
-level: 中級
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

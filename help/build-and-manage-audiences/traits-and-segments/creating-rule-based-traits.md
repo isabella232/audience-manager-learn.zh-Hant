@@ -1,15 +1,15 @@
 ---
 title: 建立規則型特徵
 description: 瞭解如何使用Audience ManagerUI中的「特徵產生器」來建立規則型特徵，讓您將即時活動擷取至Audience Manager設定檔。
-feature: 特徵
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34749.jpg
 kt: 5290
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 品牌與消費者：
 description: 如今，行銷人員被埋在與身分實務相關的資訊雜亂無章。 據Adobe和Advanis最近的研究，只有37%的營銷專業人士表示，他們已經準備好迎接一個沒有Cookie的未來。 在此網路研討會中，Adobe將說明廣告商和出版商對於無Cookie未來的瞭解與準備程度、對其使用案例的影響，以及他們對更廣泛生態系統的看法。
-feature: 概述
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

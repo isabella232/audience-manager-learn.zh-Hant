@@ -1,14 +1,14 @@
 ---
 title: 如何識別您的Audience Manager合作夥伴ID或子網域
 description: 實作某些Experience Cloud功能時，您需要知道Audience Manager「合作夥伴ID」是什麼（有時也稱為「客戶ID」或「子網域」）。 在此影片中，我們將向您展示兩個位置，讓您在Audience ManagerUI中取得此ID。
-feature: 實作基本資訊
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: 「開發人員、資料工程師」
-level: 中級
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

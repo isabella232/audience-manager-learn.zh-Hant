@@ -1,15 +1,15 @@
 ---
 title: 瞭解Audience Manager中的資料流
 description: 此視訊可協助您瞭解Adobe Audience Manager，說明資料流入、穿過和流出應用程式。
-feature: 概述
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

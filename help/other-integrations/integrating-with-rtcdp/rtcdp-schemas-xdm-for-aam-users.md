@@ -1,10 +1,10 @@
 ---
 title: 在面向Audience Manager用戶的即時CDP中瞭解方案和XDM
 description: 從Audience Manager到即時客戶資料平台（即時CDP），您將會遇到一些新概念和做法。 結構描述和XDM屬於該類別。 本影片說明這些概念。
-feature: 平台整合
-topic: 整合
-role: 業務從業人員、架構師、管理員、領導者
-level: 中級
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272

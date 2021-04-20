@@ -1,10 +1,10 @@
 ---
 title: 瞭解面向Audience Manager用戶的即時CDP中的第一方資料接收
 description: 本視訊討論使用Adobe Audience Manager的客戶即時資料平台（即時CDP）的第一方離線資料擷取。 我們查看兩個產品在資料接收方面的一些主要差異，並說明在將流程移至即時CDP之前，如何將Audience Manager資料連接器用作停止間隙。
-feature: 平台整合
-topic: 整合
-role: 業務從業人員、架構師、管理員、領導者
-level: 中級
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128

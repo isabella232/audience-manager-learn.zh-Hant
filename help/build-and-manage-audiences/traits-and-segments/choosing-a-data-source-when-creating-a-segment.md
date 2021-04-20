@@ -1,15 +1,15 @@
 ---
 title: 建立區段時選擇資料來源
 description: 瞭解在Audience Manager中建立新區段時，如何選擇正確資料來源的一些秘訣。
-feature: 區段
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39293.jpg
 kt: 6055
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 在Audience Manager中建立轉換特徵
 description: 您的某些特徵是以網站上的轉換為基礎。 在此影片中，瞭解如何指定這些字元，並瞭解重要提示／疑問。
-feature: 特徵
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 使用篩選器和Recommendations選擇Audience Marketplace中的第三方資料
 description: 此視訊會逐步瀏覽Audience Marketplace中的篩選器和建議選項，協助您根據需求選擇正確的第三方資料供應商。
-feature: 訪客交易市場
+feature: Audience Marketplace
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

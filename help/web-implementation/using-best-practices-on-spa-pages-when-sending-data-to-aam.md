@@ -1,15 +1,15 @@
 ---
 title: 在將資料傳送SPA至
 description: 在本檔案中，我們將說明從單頁應用程式()傳送資料至Adobe Audience Manager()時，您應遵循並注意的幾SPA個最佳AAM實務。 本檔案將著重於使用Launch by Adobe，這是建議的實施方法。
-feature: 實作基本資訊
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: 「開發人員、資料工程師」
-level: 經驗豐富
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

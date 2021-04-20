@@ -1,7 +1,7 @@
 ---
 cloud: experience-cloud
 product: audience manager
-type: 教學課程
+type: Tutorial
 feature-set: Audience Manager
 solution-title: Audience Manager
 solution-hub-url: https://helpx.adobe.com/tw/support/audience-manager.html

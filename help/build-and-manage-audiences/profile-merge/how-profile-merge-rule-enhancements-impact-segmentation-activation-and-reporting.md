@@ -1,15 +1,15 @@
 ---
 title: 描述檔合併規則增強功能如何影響區段、啟動和報告
 description: 瞭解描述檔合併規則增強功能對Audience ManagerUI中的總特徵和區段人口族群有何影響
-feature: 描述檔合併
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

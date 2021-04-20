@@ -1,15 +1,15 @@
 ---
 title: 客戶提示——充份運用描述檔合併規則
 description: Accordant的多解決方案顧問Varun Kalra提供選擇和使用描述檔合併規則(PMR)的秘訣。
-feature: 描述檔合併
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

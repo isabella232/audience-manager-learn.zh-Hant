@@ -1,15 +1,15 @@
 ---
 title: 大量上傳資料使用情形至Audience Marketplace
 description: '當您報告Audience Marketplace中第二方和第三方資料的使用情形時，您可能有足夠的項目，讓您不需要手動完成。 在此影片中，您將學習如何使用資料使用情況報告大量上傳工具，以便您輕鬆報告資料使用狀況，即使您有許多要更新的項目。 '
-feature: 訪客交易市場
+feature: Audience Marketplace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
