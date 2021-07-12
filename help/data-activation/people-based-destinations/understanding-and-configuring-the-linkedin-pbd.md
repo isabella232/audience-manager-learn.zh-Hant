@@ -1,27 +1,26 @@
 ---
-title: 瞭解和設定以人為本的LinkedIn目的地
-description: 此影片會逐步帶您瞭解建立LinkedIn的以人為本的目的地的概念和步驟。 它以其他有關以人為本的目的地的影片和檔案為基礎。
-feature: "People-based Destinations"
+title: 了解和設定LinkedIn以人物為基礎的目的地
+description: 此影片會逐步帶您了解建立以人物為基礎的目的地至LinkedIn的概念和步驟。 以其他關於以人物為基礎的目的地的影片和檔案為基礎。
+feature: '"以人物為基礎的目的地"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
+# 了解並配置[!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-# 瞭解和配置[!DNL LinkedIn] [!UICONTROL People-Based Destination]
-
-本影片會逐步帶您瞭解建立[!UICONTROL People-Based Destination]至[!DNL LinkedIn]的概念和步驟。 它以關於[!UICONTROL People-Based Destinations]的其他視訊和檔案為基礎。
+此影片會逐步帶您了解建立[!UICONTROL People-Based Destination]至[!DNL LinkedIn]的概念和步驟。 它以關於[!UICONTROL People-Based Destinations]的其他影片和檔案為基礎。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
