@@ -1,26 +1,25 @@
 ---
-title: 建立區段以隱藏廣告給客戶
-description: 在建立行銷宣傳（尤其是觸及延伸／觀眾延伸宣傳）時，您可能會想要排除目前的客戶，以便以不同的方式行銷他們。 此影片討論建立區段以排除已轉換為客戶狀態的群體的選項。
-feature: Segments
+title: 建立區段以向客戶抑制廣告
+description: 建立行銷活動時，尤其是觸及擴充功能/對象擴充功能行銷活動時，您可能會想要排除目前的客戶，以便以不同方式行銷他們。 本影片探討如何建立區段，以排除已轉換為客戶狀態的區段。
+feature: 區段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36494.jpg
 kt: 5804
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: e142b202-612e-4be1-88e4-4fb897238b86
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# 建立區段以向客戶抑制廣告
 
-# 建立區段以隱藏廣告給客戶
-
-在建立行銷宣傳（尤其是觸及延伸／觀眾延伸宣傳）時，您可能會想要排除目前的客戶，以便以不同的方式行銷他們。 此影片討論建立區段以排除已轉換為客戶狀態的群體的選項。
+建立行銷活動時，尤其是觸及擴充功能/對象擴充功能行銷活動時，您可能會想要排除目前的客戶，以便以不同方式行銷他們。 本影片探討如何建立區段，以排除已轉換為客戶狀態的區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
