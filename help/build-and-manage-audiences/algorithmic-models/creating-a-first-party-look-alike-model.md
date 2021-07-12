@@ -1,33 +1,32 @@
 ---
-title: 建立第一方相似模型(在
-description: 在此影片中，您將學習如何建立第一方外觀相似的模型，以便您能夠找到更多自己的訪客，這些訪客看起來更像您的轉換器。
-feature: Algorithmic Models
+title: 在AAM中建立第一方相似模型
+description: 在此影片中，您將學習如何建立第一方相似模型，以便找到更多類似已轉換的訪客。
+feature: 演算法模型
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
+# 在AAM中建立[!UICONTROL First Party]相似[!UICONTROL Model] {#creating-a-first-party-look-alike-model-in-aam}
 
-# 在{#creating-a-first-party-look-alike-model-in-aam}中建立[!UICONTROL First Party]相似AAM[!UICONTROL Model]
-
-在此影片中，您將學習如何建立類似[!UICONTROL first party]的[!UICONTROL model]，以便您找到更多看起來像您轉換器的訪客。
+在此影片中，您將學習如何建立[!UICONTROL first party]相似[!UICONTROL model]，以便找到更多看起來與轉換器相似的訪客。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 其使用案例包括：
 
-* 身為出版業者，如果您的「轉換器」庫存已售罄，您也可以銷售這類似的受眾，以擴充庫存。
-* 對於看起來像您的轉換器但尚未推出的使用者，請在網站上提供特定的行銷或體驗。
+* 身為發佈商，如果「已轉換」庫存售罄，您也可以銷售這些相似受眾來擴充庫存。
+* 若看起來已轉換，但尚未轉換，請在網站上提供特定行銷或體驗。
 
-此處的額外好處是，您完全可以免費使用，因為您只使用您擁有的資料。 當然，這有助於實現利潤最大化。
+這裡還有一個好處，就是這完全是免費的，因為您只使用自己擁有的資料。 當然，這有助於實現利潤最大化。
