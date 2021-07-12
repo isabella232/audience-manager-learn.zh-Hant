@@ -1,24 +1,23 @@
 ---
-title: 瞭解面向Audience Manager用戶的即時CDP目標
-description: 從Audience Manager到即時客戶資料平台（即時CDP），您必須瞭解目標，以便瞭解如何將受眾細分激活到目標合作夥伴。 本視頻討論了即時CDP中不同的目標類型及其位置。
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+title: 了解適用於Audience Manager使用者的即時CDP中的目標
+description: 當您從Audience Manager移轉至即時客戶資料平台(Real-time CDP)時，必須了解目的地，才能知道如何將對象區段啟用給目的地合作夥伴。 本影片會討論不同的目的地類型，以及它們在即時CDP中的位置。
+feature: 平台整合
+topic: 整合
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: 43e9c54c-24f5-430e-a633-6e2878e2a7ba
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# 了解適用於Audience Manager使用者的即時CDP中的目標
 
-# 瞭解面向Audience Manager用戶的即時CDP目標
-
-從Audience Manager到即時客戶資料平台（即時CDP），您必須瞭解目標，以便瞭解如何將受眾細分激活到目標合作夥伴。 本視頻討論了即時CDP中不同的目標類型及其位置。
+當您從Audience Manager移轉至即時客戶資料平台(Real-time CDP)時，必須了解目的地，才能知道如何將對象區段啟用給目的地合作夥伴。 本影片會討論不同的目的地類型，以及它們在即時CDP中的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
