@@ -1,27 +1,26 @@
 ---
 title: 監控和報告活動使用情況
-description: 在此影片中，我們將逐步說明如何使用「活動使用狀況報表」，包括顯示和下載選項。
-feature: Usage and Billing
+description: 在此影片中，我們將逐步說明如何使用「活動使用情況報表」，包括顯示和下載選項。
+feature: 使用與帳單
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Administration
-role: "Developer, Data Engineer, Administrator"
+topic: 管理
+role: Developer, Data Engineer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '67'
 ht-degree: 1%
 
 ---
 
-
 # 監控和報告活動使用情況
 
-在本影片中，我們將逐步說明如何使用[!DNL Activity Usage Report]，包括顯示和下載選項。
+在此影片中，我們將逐步說明如何使用[!DNL Activity Usage Report]，包括顯示和下載選項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
