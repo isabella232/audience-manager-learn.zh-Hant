@@ -1,68 +1,67 @@
 ---
-title: 使用類似模型擴充第一方資料的已售庫存
-description: 在本教學課程中，我們將逐步介紹您設定和使用相似模型時應採取的步驟，以便您能夠建立新的相似觀眾，並將其作為轉換區段的延伸銷售。
-feature: Algorithmic Models
+title: 使用相似模型來延伸來自第一方資料的已售庫存
+description: 在本教學課程中，我們將逐步說明設定和使用相似模型時應採取的步驟，讓您能夠建立新的相似對象，並將它們作為轉換區段的擴充功能銷售。
+feature: 演算法模型
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
 
+# 使用相似[!UICONTROL Models]從您的[!UICONTROL First Party]資料延長銷貨庫存 {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
 
-# 使用類似[!UICONTROL Models]來擴充[!UICONTROL First Party]資料{#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}中的已售庫存
+在本教學課程中，我們將逐步說明設定和使用相似[!UICONTROL Models]所應採取的步驟，讓您能夠建立新的相似對象，並將它們作為轉換的擴充功能銷售[!UICONTROL segment]。
 
-在本教學課程中，我們將逐步介紹您設定和使用Look-Lake [!UICONTROL Models]時應採取的步驟，以便您能建立新的類似對象，並將它們作為轉換[!UICONTROL segment]的延伸銷售。
+## 使用案例詳細資訊 {#use-case-details}
 
-## 使用案例詳細資訊{#use-case-details}
+您是內容發行者。 如果您的網站上已售出轉換器的庫存，您可能會認為您的機會已結束。 輸入AAM相似[!UICONTROL Models]。 透過使用此功能，您可以進一步延長已售出的庫存，並銷售可能尚未轉換但看起來/像是已轉換之人的受眾。 此受眾[!UICONTROL segment]的售價通常低於實際轉換率，但仍可讓您為想在您網站上放置廣告的廣告商提供額外受眾選項，以增加收益。 此使用案例的額外好處是，在第一方資料上執行此模型不需支付任何費用。
 
-您是內容發佈者。 如果您已經為網站上的轉換器售出了庫存，您可能會認為您的機會到此為止。 輸AAM入相似的[!UICONTROL Models]。 透過使用此功能，您可以進一步擴充已售完的庫存，並銷售可能尚未轉換，但外觀／行為與已轉換者相似的受眾。 此對象[!UICONTROL segment]通常的售價低於實際的轉換器，但是，您仍可為想要在您網站上投放廣告的廣告商提供額外的對象選項，以增加獲利底限。 此使用案例的額外好處是，在您的第一方資料上執行此模型並不需要花費任何成本。
+本教學課程中的步驟如下：
 
-本教學課程的步驟如下：
-
-1. 識別／建立理想的使用者（轉換）[!UICONTROL trait]或[!UICONTROL segment]
-1. 使用此轉換[!UICONTROL trait]/[!UICONTROL segment]作為基本項目建立[!UICONTROL model]
-1. 在[!UICONTROL model]中選擇[!UICONTROL First party]資料源並運行[!UICONTROL model]
+1. 識別/建立理想的使用者（轉換）[!UICONTROL trait]或[!UICONTROL segment]
+1. 使用此轉換建立[!UICONTROL trait]/[!UICONTROL segment]作為基項的[!UICONTROL model]
+1. 在[!UICONTROL model]中選擇[!UICONTROL First party]資料源，然後運行[!UICONTROL model]
 1. 從[!UICONTROL model]結果建立演算法[!UICONTROL Trait]，並將[!UICONTROL trait]新增至[!UICONTROL segment]
-1. 將[!UICONTROL segment]提供給感興趣的廣告商，以延伸轉換[!UICONTROL segment]銷售
+1. 將[!UICONTROL segment]提供給感興趣的廣告商，以擴展轉換[!UICONTROL segment]銷售
 
-## 識別／建立理想的使用者（轉換）[!UICONTROL trait]或[!UICONTROL segment] {#identify-create-an-ideal-user-conversion-trait-or-segment}
+## 識別/建立理想的使用者（轉換）[!UICONTROL trait]或[!UICONTROL segment] {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-您想要在您的網站上吸引訪客做什麼？ 您的轉換事件是什麼？ 當然，這個問題有許多不同的答案，視您的網站類型／垂直和組織目標而定。 無論如何，通常都AAM會為符合這些條件的訪客建立[!UICONTROL trait]。
+您希望讓使用者在您的網站上執行什麼操作？ 什麼是您的轉換事件？ 當然，此問題有許多不同的答案，視您的網站類型/垂直與組織目標而定。 無論如何，AAM中通常會為符合這些條件的訪客建立[!UICONTROL trait]。
 
-在此使用案例中，已假設這是因為您已將庫存售罄給轉換器使用者。 不過，在本教學課程中，最好將它作為其餘使用案例的參考。
+在此使用案例中，已假設為此，因為您已將庫存售罄給已轉換的人員。 不過，在本教學課程中，建議您參考其他使用案例加以討論。
 
-此外，當使用事件建立[!UICONTROL traits]時，您需要記住一個重大問題，以免收集到的使用者數量超過您在[!UICONTROL trait]中應收集的數量。 觀看以下影片，瞭解大的顯示效果。:)
+此外，使用事件來建立[!UICONTROL traits]時，請謹記一個重大問題，這樣就不會收集到比收集更多使用者到[!UICONTROL trait]中的情況。 請觀看以下影片以了解大的顯示。:)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 在上述影片中，我展示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，我們有一個模組可讓您用來傳送資料至（請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)）AAM，如果您的網站轉換活動是由GA傳送AAM至，則您可以從中建立轉換特徵。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的AAMDIL程式碼和`submit`函式傳送資料給。 （請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然後，再根據在網站上執行轉換活動時所傳送的資料，建立轉換特徵。
+**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，則我們有一個模組，您可使用該模組將資料傳送至AAM（請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)），而如果您網站上的轉換活動是透過GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的DIL程式碼和`submit`函式等將資料傳入AAM。 （請參閱[檔案](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然後，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
 
-## 從[!UICONTROL First Party]資料{#creating-a-look-alike-model-from-first-party-data}建立相似[!UICONTROL Model]
+## 從[!UICONTROL First Party]資料建立相似[!UICONTROL Model] {#creating-a-look-alike-model-from-first-party-data}
 
-在此步驟中，我們將建立[!UICONTROL First Party]相似[!UICONTROL Model]。 這表示我們不僅將使用[!UICONTROL first party]轉換[!UICONTROL trait]/[!UICONTROL segment]作為基本[!UICONTROL trait]/[!UICONTROL segment]（這對大多數[!UICONTROL models]來說都是正常的），而且我們也只會針對更多看起來像轉換器的人使用[!UICONTROL first party]資料庫。 我們不會查看[!UICONTROL second party]或[!UICONTROL third party]資料。
+在此步驟中，我們將建立[!UICONTROL First Party]相似[!UICONTROL Model]。 這表示我們不僅要將[!UICONTROL first party]轉換[!UICONTROL trait]/[!UICONTROL segment]用於基礎[!UICONTROL trait]/[!UICONTROL segment]（這無論如何對大多數[!UICONTROL models]來說都是正常的），而且我們只會針對更多看起來像轉換器的人，查看[!UICONTROL first party]資料池。 我們不會查看[!UICONTROL second party]或[!UICONTROL third party]資料。
 
-在此使用案例中，這很重要，因為我們嘗試在我們的網站上建立[!UICONTROL segment]個看起來像是轉換器但尚未轉換的使用者，因此我們可以將這個類似[!UICONTROL segment]的產品銷售給感興趣的廣告商。
+在此使用案例中，這很重要，因為我們正嘗試在網站上建立[!UICONTROL segment]使用者，這些使用者看起來像是已轉換但尚未轉換，因此我們可以將此相似的[!UICONTROL segment]銷售給感興趣的廣告商。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## 建立演算法[!UICONTROL Trait] {#creating-an-algorithmic-trait}
 
-接下來，我們需要建立演算法[!UICONTROL Trait]，以便使用[!UICONTROL model]的結果。 若不建立[!UICONTROL trait]，則[!UICONTROL model]無用。 因此，在[!UICONTROL model]執行後，請務必進入[!UICONTROL trait]對話方塊並建立演算法[!UICONTROL Trait]。 以下視訊將逐一檢視，並顯示一些提示。
+接下來，我們需要建立演算法[!UICONTROL Trait]，以便使用[!UICONTROL model]的結果。 若未建立[!UICONTROL trait],[!UICONTROL model]則無用。 因此，在[!UICONTROL model]執行後，請務必前往[!UICONTROL trait]對話方塊，並建立演算法[!UICONTROL Trait]。 以下影片會逐步介紹，並提供一些秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
-## 將演算法[!UICONTROL Segment]提供給廣告商{#offering-the-algorithmic-segment-to-advertisers}
+## 將演算法[!UICONTROL Segment]提供給廣告商 {#offering-the-algorithmic-segment-to-advertisers}
 
-建立演算法[!UICONTROL Trait]後，您可以建立新的[!UICONTROL segment]來放入，如此您就可以啟動資料(無法啟動[!UICONTROL trait]，而是使用演算法[!UICONTROL Trait]建立新的[!UICONTROL trait] [!UICONTROL segment]，以便啟動（使用）[!UICONTROL segment]。
+建立演算法[!UICONTROL Trait]後，您可以建立新的[!UICONTROL segment]以便將其放入，以便啟動資料(您無法啟動[!UICONTROL trait]，而是使用演算法[!UICONTROL Trait]建立新的[!UICONTROL trait] [!UICONTROL segment]，以便啟動（使用）[!UICONTROL segment]。
 
-一旦您建立了[!UICONTROL first party]的[!UICONTROL segment]訪客，在類似[!UICONTROL model]中獲得高分（亦即，看起來像是轉換器但尚未碰巧轉換），即使您已售出網站上所有實際轉換器的庫存，您仍可將此[!UICONTROL segment]提供給網站上的廣告商。 這是擴充此受眾並透過在Audience Manager中使用Look-Lake [!UICONTROL Models]繼續觀看額外收入的絕佳方式。
+一旦您建立[!UICONTROL segment]的[!UICONTROL first party]訪客在相似[!UICONTROL model]中獲得高分（亦即看起來像是已轉換但尚未發生轉換），即使您已售罄網站上實際轉換的所有詳細目錄，您仍可以將此[!UICONTROL segment]提供給網站上的廣告商。 這是延伸此受眾並繼續查看額外收入的絕佳方式，方法是在Audience Manager中使用相似[!UICONTROL Models]。
