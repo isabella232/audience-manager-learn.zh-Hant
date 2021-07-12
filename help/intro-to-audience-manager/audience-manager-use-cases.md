@@ -1,27 +1,26 @@
 ---
 title: Audience Manager使用案例
-description: 在此影片中，我們指出4種常見的Audience Manager使用案例，並說明相關的最佳實務。
-feature: Overview
+description: 此影片中，我們會介紹四種常見的Audience Manager使用案例，並說明相關的最佳實務。
+feature: 概述
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: b0ed3450-0a0b-4bc3-b579-b57bfea116d7
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '61'
 ht-degree: 1%
 
 ---
 
-
 # Audience Manager使用案例
 
-在此影片中，我們指出4種常見的Audience Manager使用案例，並說明相關的最佳實務。
+此影片中，我們會介紹四種常見的Audience Manager使用案例，並說明相關的最佳實務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
