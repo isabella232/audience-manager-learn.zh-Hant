@@ -1,26 +1,25 @@
 ---
-title: 建立和配置基於人的目標
-description: 此影片會先提供您一些有關建立「以人為本」之目標之必要條件的資訊，然後還會示範如何設定「整合式帳戶」（合作夥伴的連結，例如Facebook）。 然後會帶您檢視目標本身的產品內建。
-feature: "People-based Destinations"
+title: 建立和設定以人物為基礎的目的地
+description: 此影片會先提供建立以人物為基礎的目的地之先決條件的相關資訊，然後示範如何設定整合帳戶(連結至合作夥伴，例如Facebook)。 接著，它會帶您了解目的地本身的產品內設定。
+feature: '"以人物為基礎的目的地"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
 # 建立和配置[!UICONTROL People-based Destinations]
 
-此影片首先會提供您有關建立[!DNL People-Based Destination]之必要條件的一些資訊，然後也會示範如何設定[!UICONTROL Integrated Account](連結至合作夥伴，例如[!DNL Facebook])。 然後會帶您檢視[!UICONTROL destination]本身的產品內設定。
+此影片會先提供建立[!DNL People-Based Destination]的必要條件相關資訊，然後示範如何設定[!UICONTROL Integrated Account](連結至合作夥伴，例如[!DNL Facebook])。 然後，它會帶您了解[!UICONTROL destination]本身的產品內設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
