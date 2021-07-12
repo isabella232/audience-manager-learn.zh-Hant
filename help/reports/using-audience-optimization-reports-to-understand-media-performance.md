@@ -1,27 +1,26 @@
 ---
-title: 使用Audience Optimization報告瞭解媒體效能
-description: 瞭解如何使用Audience Optimization報表來改善您的宣傳活動，瞭解如何投資行銷資金以及停止投資的地方。 此外，也瞭解如何在這些報告中決定最佳頻率上限並尋找其他優點。
-feature: Audience Optimization Reports
+title: 使用Audience Optimization報表來了解媒體效能
+description: 了解如何使用「Audience Optimization報表」來改善您的行銷活動、了解如何投資行銷資金以及停止投資的位置。 同時了解如何判斷最佳頻率上限，以及在這些報表中尋找其他資訊。
+feature: 受眾最佳化報表
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330401.jpg
 kt: 6838
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 2%
 
 ---
 
+# 使用Audience Optimization報表來了解媒體效能
 
-# 使用Audience Optimization報告瞭解媒體效能
-
-瞭解如何使用Audience Optimization報表來改善您的宣傳活動，瞭解如何投資行銷資金以及停止投資的地方。 此外，也瞭解如何在這些報告中決定最佳頻率上限並尋找其他優點。
+了解如何使用「Audience Optimization報表」來改善您的行銷活動、了解如何投資行銷資金以及停止投資的位置。 同時了解如何判斷最佳頻率上限，以及在這些報表中尋找其他資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
