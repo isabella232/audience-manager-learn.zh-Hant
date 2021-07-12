@@ -1,32 +1,31 @@
 ---
-title: 瞭解面向Audience Manager用戶的即時CDP中的Web資料接收
-description: 本視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包括Audience Manager資料連接器的適用位置，以及資料如何直接透過網站SDK移入即時CDP。
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+title: 了解Audience Manager使用者適用的即時CDP中的Web資料擷取
+description: 本影片會向Audience Manager使用者展示將網站資料匯入即時客戶資料平台（即時CDP）的相關概念，並包含Audience ManagerData Connector的適用位置，以及資料如何直接從網站透過Web SDK移動至即時CDP的概念。
+feature: 平台整合
+topic: 整合
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: e0ea393d-b332-4754-b855-25c838a463b4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '215'
 ht-degree: 4%
 
 ---
 
+# 了解Audience Manager使用者適用的即時CDP中的Web資料擷取
 
-# 瞭解面向Audience Manager用戶的即時CDP中的Web資料接收
-
-本視訊向Audience Manager使用者展示將網站資料帶入即時客戶資料平台（即時CDP）的概念，並包括Audience Manager資料連接器的適用位置，以及資料如何直接透過網站SDK移入即時CDP。
+本影片會向Audience Manager使用者展示將網站資料匯入即時客戶資料平台（即時CDP）的相關概念，並包含Audience ManagerData Connector的適用位置，以及資料如何直接從網站透過Web SDK移動至即時CDP的概念。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## 其他資源
 
-以下是一些現有的影片和教學課程，可協助您瞭解即時客戶資料平台。 歡迎隨時探索其他相關視訊和教學課程，以進一步瞭解Platform。
+以下是一些現有影片和教學課程，可協助您了解即時客戶資料平台。 歡迎探索其他相關影片和教學課程，以深入了解Platform。
 
-* [使用Adobe Audience Manager資料連接器收錄資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [使用Adobe Audience Manager資料連接器內嵌資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
 * [Adobe Experience Platform Web SDK 教學課程](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [使用架構編輯器建立架構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [使用結構編輯器建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
