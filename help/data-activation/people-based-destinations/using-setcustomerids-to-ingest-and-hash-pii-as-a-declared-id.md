@@ -1,27 +1,26 @@
 ---
-title: 使用setCustomerIDs()將Ingest和Hash PII當做宣告的ID
-description: 在此影片中，您將瞭解如何使用Experience CloudID服務的setCustomerIDs()方法來擷取和雜湊電子郵件地址，並將它當成宣告的ID。 這不僅會將CRM ID和電子郵件位址系結在一起，還會將它們同步至Adobe Audience ManagerUUID，即匿名裝置ID。 這些雜湊的電子郵件地址隨後可以傳送至「以人為本」的目的地。
-feature: "People-based Destinations"
+title: 使用setCustomerIDs()來擷取和雜湊PII作為宣告ID
+description: 在此影片中，您將了解為何及如何使用Experience CloudID服務的setCustomerIDs()方法來擷取和雜湊電子郵件地址，以及將其用作宣告ID。 這不僅會將CRM ID和電子郵件地址系結在一起，也會將它們同步至Adobe Audience Manager UUID，即匿名裝置ID。 然後，這些雜湊電子郵件地址便可傳送至以人物為基礎的目的地。
+feature: '"以人物為基礎的目的地"'
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29136.jpg
 kt: 3689
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 9cc3e0f6-cf68-4048-a34c-513b77777aa2
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
+# 使用[!DNL setCustomerIDs()]擷取和雜湊PII作為宣告ID
 
-# 使用[!DNL setCustomerIDs()]來內嵌和雜湊PII做為宣告的ID
-
-在此影片中，您將瞭解如何使用Experience CloudID服務的`setCustomerIDs()`方法來擷取和雜湊電子郵件地址，並將它當做宣告的ID使用。 這不僅會將CRM ID和電子郵件位址系結在一起，還會將它們同步至Adobe Audience ManagerUUID，即匿名裝置ID。 這些雜湊的電子郵件地址隨後可以傳送至[!UICONTROL People-Based Destinations]。
+在此影片中，您將了解為何及如何使用Experience CloudID服務的`setCustomerIDs()`方法來擷取和雜湊電子郵件地址，以及將其用作宣告ID。 這不僅會將CRM ID和電子郵件地址系結在一起，也會將它們同步至Adobe Audience Manager UUID，即匿名裝置ID。 然後，這些雜湊電子郵件地址可以傳送至[!UICONTROL People-Based Destinations]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
