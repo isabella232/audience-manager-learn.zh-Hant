@@ -1,26 +1,25 @@
 ---
-title: 描述檔合併規則概覽
-description: 瞭解「描述檔合併規則」是什麼、其運作方式，以及其對行銷人員的價值。
-feature: Profile Merge
+title: 設定檔合併規則概觀
+description: 了解描述檔合併規則是什麼、其運作方式，以及其對行銷人員的價值。
+feature: 個人資料合併
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
+# [!UICONTROL Profile Merge Rules]概述
 
-# [!UICONTROL Profile Merge Rules]概觀
-
-瞭解[!UICONTROL Profile Merge Rules]是什麼、如何運作，以及對行銷人員的價值。
+了解[!UICONTROL Profile Merge Rules]是什麼、其運作方式，以及其對行銷人員的價值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
