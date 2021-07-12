@@ -1,26 +1,25 @@
 ---
-title: 瞭解人員型目的地的雜湊PII資料擷取
-description: 此影片將說明當您準備將PII收錄至Audience Manager以供人員為目的地時，需要考慮的事項。
-feature: "People-based Destinations"
+title: 了解以人物為基礎的目的地的雜湊PII資料擷取
+description: 此影片會說明準備將PII內嵌至以人物為基礎的目的地的Audience Manager時，您需要考慮的事項。
+feature: '"以人物為基礎的目的地"'
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8b0faf25-eeca-4451-8484-0fa0e02f4879
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
+# 了解[!UICONTROL People-Based Destinations]的雜湊PII資料擷取
 
-# 瞭解[!UICONTROL People-Based Destinations]的雜湊PII資料擷取
-
-此影片將說明當您準備將PII收錄至[!UICONTROL People-Based Destinations]Audience Manager時，您需要考慮的事項。
+此影片會說明準備將PII內嵌至[!UICONTROL People-Based Destinations]Audience Manager時需要考慮的事項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
