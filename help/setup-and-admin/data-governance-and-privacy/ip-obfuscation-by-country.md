@@ -1,27 +1,26 @@
 ---
-title: IP模糊化（依國家／地區）在Audience Manager
-description: Audience Manager在UI中提供自助功能，讓客戶可以開啟全球或依國家／地區的IP模糊化。 這段視訊會帶您完成設定。
-feature: "Data Governance & Privacy"
+title: IP模糊化（依國家/地區）Audience Manager
+description: Audience Manager在UI中提供自助功能，讓客戶可開啟全域或依國家/地區的IP模糊化功能。 這部影片會帶您逐步了解設定。
+feature: 「資料控管與隱私權」
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 103643ff-c006-4111-b469-901271faaf9d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
+# IP模糊化（依國家/地區）Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
-# {#ip-obfuscation-by-country-in-audience-manager}Audience Manager中依國家／地區的IP模糊化
-
-Audience Manager在UI中提供自助功能，讓客戶可以開啟全球或依國家／地區的IP模糊化。 這段視訊會帶您完成設定。
+Audience Manager在UI中提供自助功能，讓客戶可開啟全域或依國家/地區的IP模糊化功能。 這部影片會帶您逐步了解設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-有關此功能的更多資訊，請造訪[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)。
+有關此功能的詳細資訊，請訪問[文檔](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)。
