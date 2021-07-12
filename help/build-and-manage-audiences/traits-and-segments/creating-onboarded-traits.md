@@ -1,26 +1,25 @@
 ---
-title: 建立已登入的特徵
-description: 瞭解在Audience Manager中建立已登入特徵的秘訣。
-feature: Traits
+title: 建立已上線的特徵
+description: 了解在Audience Manager中建立已上線特徵的秘訣。
+feature: 特徵
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: b240e1c6-1cc6-44c0-aee5-35ca972ab919
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 3%
+source-wordcount: '25'
+ht-degree: 4%
 
 ---
 
+# 建立已上線的特徵
 
-# 建立已登入的特徵
-
-瞭解在Audience Manager中建立已登入特徵的秘訣。
+了解在Audience Manager中建立已上線特徵的秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)
