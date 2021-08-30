@@ -1,7 +1,7 @@
 ---
 title: 以人物為基礎的目的地影片和Tutorials
 description: 本節包含與People-Based Destinations相關主題的影片和教學課程。
-feature: '"以人物為基礎的目的地"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] 影片和Tutorials
 
-[!UICONTROL People-Based Destinations] 可讓您對線上和離線資料套用區段，以根據雜湊識別碼（例如電子郵件地址或電話號碼）建立對象區段。接著，您可以將這些區段傳送至[!DNL Facebook]或[!DNL LinkedIn]等社交平台，以便鎖定對象。
+[!UICONTROL People-Based Destinations] 可讓您對線上和離線資料套用區段，以根據雜湊識別碼（例如電子郵件地址）建立對象區段。接著，您可以將這些區段傳送至[!DNL Facebook]或[!DNL LinkedIn]等社交平台，以便鎖定對象。
 
 本節包含有關[!UICONTROL People-Based Destinations]主題的影片和教學課程。 在您完成設定[!UICONTROL People-Based Destinations]的流程/過程時，它們已按照此順序被列出：
 
