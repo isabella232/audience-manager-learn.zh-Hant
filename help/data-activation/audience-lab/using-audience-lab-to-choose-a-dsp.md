@@ -2,18 +2,15 @@
 title: 使用Audience Lab選擇DSP
 description: 此影片中，我們會逐步建立Audience Lab測試，讓您可以A/B測試DSP或其他AAM目的地，以了解哪個目的地能帶來最佳廣告投入報酬。
 feature: Audience Lab
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -35,4 +32,4 @@ ht-degree: 0%
 1. 檢查測試摘要並啟動測試
 1. 完成測試後，訪問[!UICONTROL Audience Lab]主主螢幕上的結果
 
-如需詳細資訊，請參閱[功能檔案](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html)。
+如需詳細資訊，請參閱[功能檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。

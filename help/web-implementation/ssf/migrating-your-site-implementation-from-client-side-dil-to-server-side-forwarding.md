@@ -2,7 +2,7 @@
 title: 將網站的AAM實作從用戶端DIL移轉至伺服器端轉送
 description: 如果您同時擁有Adobe Audience Manager(AAM)和Adobe Analytics，且您目前使用「DIL」(Data Integration Library)程式碼將點擊從頁面傳送至AAM，並同時從頁面傳送點擊至Adobe Analytics，本教學課程即適用。 由於您有這兩個解決方案，而且這兩個解決方案都屬於Adobe Experience Cloud的一部分，因此您可以遵循開啟「伺服器端轉送(SSF)」的最佳實務，這可讓Analytics資料收集伺服器將網站分析資料即時轉送至Audience Manager，而非讓用戶端代碼從頁面傳送額外點擊至AAM。 本教學課程將逐步引導您完成從舊版「用戶端DIL」實作切換至新版「伺服器端轉送」方法的步驟。
 product: audience manager
-feature: Adobe Analytics 整合功能
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
@@ -11,9 +11,9 @@ kt: 1778
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 0%
 
 移至[!UICONTROL Server-Side Forwarding]的主要先決條件是實作Experience CloudID服務。 如果您使用Experience Platform Launch，這項作業最為輕鬆，在此情況下，您只需安裝ECID擴充功能，就能完成其餘工作。
 
-如果您使用非AdobeTMS，或完全沒有TMS，則請實作ECID以在&#x200B;**任何其他Adobe解決方案之前執行**。 如需詳細資訊，請參閱[ECID檔案](https://marketing.adobe.com/resources/help/en_US/mcvid/) 。 唯一的其他先決條件是程式碼版本，因此您只需在下列步驟中套用程式碼的最新版本，即可正常運作。
+如果您使用非AdobeTMS，或完全沒有TMS，則請實作ECID以在&#x200B;**任何其他Adobe解決方案之前執行**。 如需詳細資訊，請參閱[ECID檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html) 。 唯一的其他先決條件是程式碼版本，因此您只需在下列步驟中套用程式碼的最新版本，即可正常運作。
 
 >[!NOTE]
 >
@@ -191,4 +191,4 @@ ht-degree: 0%
 
 ![誤判](assets/falsesuccess.png)
 
-有關[!UICONTROL Server-Side Forwarding]的詳細資訊，請參閱[文檔](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html)。
+有關[!UICONTROL Server-Side Forwarding]的詳細資訊，請參閱[文檔](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)。

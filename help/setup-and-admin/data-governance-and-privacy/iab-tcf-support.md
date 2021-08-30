@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ IAB TC字串的另一部分是數百家廠商的長清單，讓訪客可以看�
 
 為了讓Audience Manager得到核准(亦即為了轉譯選擇加入的IAB用途以給予AAM「是」投票)，目的1和10（如上所列）必須獲得使用者的同意。 如果其中一個未獲核准，或供應商未獲核准，AAM將不會執行像素引發或設定Cookie。 同樣很好的是，許多客戶只是選擇提供「全部或全部」的UI，這當然會允許或不允許使用Audience Manager(以及其他Experience Cloud解決方案)。
 
-[說明檔案](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html)中提供一些關於適用於IAB TCF的Audience Manager外掛程式如何同時套用至發佈商和廣告商使用案例的絕佳資訊。
+[說明檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)中提供一些關於適用於IAB TCF的Audience Manager外掛程式如何同時套用至發佈商和廣告商使用案例的絕佳資訊。
 
 ## IAB:傳送同意下游 {#iab-sending-consent-downstream}
 

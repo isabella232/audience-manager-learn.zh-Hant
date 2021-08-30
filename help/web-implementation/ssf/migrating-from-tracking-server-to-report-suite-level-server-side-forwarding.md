@@ -2,7 +2,7 @@
 title: 從追蹤伺服器移轉至報表套裝層級的伺服器端轉送
 description: 本文和影片將示範如何啟用Analytics資料的伺服器端轉送，以便在報表套裝層級（而非追蹤伺服器層級）Audience Manager。
 product: audience manager
-feature: Adobe Analytics 整合功能
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Report Suite]-層級 [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-從[!UICONTROL tracking server]轉送移至[!UICONTROL report suite]轉送的最大優點之一，是您現在可以使用「Audience Analytics」，即將Audience Manager[!UICONTROL segments]轉送回Adobe Analytics，以進行詳細的[!UICONTROL segment]分析。 如果您仍在[!UICONTROL tracking server]轉送，而非[!UICONTROL report suite]轉送，則「不」支援這項絕佳功能。 請參閱[檔案](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/)中有關Audience Analytics的詳細資訊。
+從[!UICONTROL tracking server]轉送移至[!UICONTROL report suite]轉送的最大優點之一，是您現在可以使用「Audience Analytics」，即將Audience Manager[!UICONTROL segments]轉送回Adobe Analytics，以進行詳細的[!UICONTROL segment]分析。 如果您仍在[!UICONTROL tracking server]轉送，而非[!UICONTROL report suite]轉送，則「不」支援這項絕佳功能。 請參閱[檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)中有關Audience Analytics的詳細資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

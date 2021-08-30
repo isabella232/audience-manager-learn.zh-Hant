@@ -1,7 +1,7 @@
 ---
 title: 在Audience Manager中使用演算法（相似）模型，以增加ROAS
 description: Audience Manager相似建模的真正威力，在於您尋求針對來自第二方和第三方資料來源的全新優質使用者集，擴展基準受眾。 在本教學課程中，了解從此資料建立模型的步驟。
-feature: 演算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，則我們有一個模組，您可以使用該模組將資料傳送至AAM（請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)），而如果您網站上的轉換活動是透過GA傳送至AAM，則您可以從中建立轉換[!UICONTROL trait]。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的DIL程式碼和`submit`函式等將資料傳入AAM。 （請參閱[檔案](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然後根據網站上執行轉換活動時傳送的資料，建立轉換[!UICONTROL trait]。
+**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，則我們有一個模組，您可以使用該模組將資料傳送至AAM（請參閱[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)），而如果您網站上的轉換活動是透過GA傳送至AAM，則您可以從中建立轉換[!UICONTROL trait]。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的DIL程式碼和`submit`函式等將資料傳入AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)）。 然後根據網站上執行轉換活動時傳送的資料，建立轉換[!UICONTROL trait]。
 
 ## 從[!UICONTROL Second Party]或[!UICONTROL Third Party]資料建立相似[!UICONTROL Model] {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

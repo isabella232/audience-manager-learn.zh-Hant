@@ -1,7 +1,7 @@
 ---
 title: 設定檔合併影片和Tutorials
 description: 本節包含設定檔合併功能（如設定檔合併規則）的影片和教學課程。
-feature: 個人資料合併
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 0%
 * [解譯受眾身分報表](interpret-audience-identity-reporting.md)
 * [了解Audience Manager中的跨裝置量度](understanding-cross-device-metrics-in-audience-manager.md)
 
-這些影片可與[檔案](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)搭配使用
+這些影片可與[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)搭配使用

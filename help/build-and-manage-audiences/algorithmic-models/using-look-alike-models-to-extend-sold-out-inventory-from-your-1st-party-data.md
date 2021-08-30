@@ -1,7 +1,7 @@
 ---
 title: 使用相似模型來延伸來自第一方資料的已售庫存
 description: 在本教學課程中，我們將逐步說明設定和使用相似模型時應採取的步驟，讓您能夠建立新的相似對象，並將它們作為轉換區段的擴充功能銷售。
-feature: 演算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，則我們有一個模組，您可使用該模組將資料傳送至AAM（請參閱[documentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)），而如果您網站上的轉換活動是透過GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的DIL程式碼和`submit`函式等將資料傳入AAM。 （請參閱[檔案](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然後，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
+**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。顯然，情況可能並非如此。 如果您有Google Analytics(GA)，則我們有一個模組，您可使用該模組將資料傳送至AAM（請參閱[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)），而如果您網站上的轉換活動是透過GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有不同的分析解決方案（或沒有分析解決方案），您仍可以透過我們的DIL程式碼和`submit`函式等將資料傳入AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）。 然後，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
 
 ## 從[!UICONTROL First Party]資料建立相似[!UICONTROL Model] {#creating-a-look-alike-model-from-first-party-data}
 
