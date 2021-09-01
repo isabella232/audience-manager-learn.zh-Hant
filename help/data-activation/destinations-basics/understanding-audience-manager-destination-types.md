@@ -8,9 +8,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-您可以下載伺服器對伺服器[!UICONTROL destination]合作夥伴[HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)的清單。
+您可以在[Audience Manager以裝置為基礎的目的地檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)中看到可用的伺服器對伺服器目的地合作夥伴清單。
 
-如需詳細資訊，請造訪[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)。
+如需目的地的其他資訊，請造訪[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)。
