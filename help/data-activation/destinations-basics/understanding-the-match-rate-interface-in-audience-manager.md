@@ -1,6 +1,6 @@
 ---
-title: 了解Audience Manager中的匹配率介面
-description: 此影片會帶您逐步了解目的地介面，顯示並說明與匹配率和可定址對象相關聯的數字。
+title: 瞭解「匹配率」介面
+description: 瞭解目標介面，顯示和解釋與匹配率和可定址受眾相關的數字。
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -8,17 +8,17 @@ kt: 4034
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 903f8329-a434-4938-b190-600fc03b571d
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# 了解Audience Manager中的匹配率介面
+# 瞭解Audience Manager中的匹配率介面
 
-此影片會帶您觀看[!UICONTROL destination]介面，顯示並說明與匹配率和[!DNL addressable audiences]相關的數字。
+這段視頻帶你瀏覽 [!UICONTROL Destination] 介面，顯示和解釋與匹配率和可定址受眾相關的數字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-如需詳細資訊，請造訪[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html)。
+有關詳細資訊，請訪問 [可定址的受眾](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) 在產品文檔中。

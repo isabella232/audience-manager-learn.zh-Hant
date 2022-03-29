@@ -1,6 +1,6 @@
 ---
-title: 使用Audience Lab選擇DSP
-description: 此影片中，我們會逐步建立Audience Lab測試，讓您可以A/B測試DSP或其他AAM目的地，以了解哪個目的地能帶來最佳廣告投入報酬。
+title: 使用觀眾實驗室選DSP擇
+description: 在此視頻中，我們將介紹如何建立「觀眾實驗室test」，以便您能夠A/BtestDSP或其AAM他目標，以查看哪個目標能夠帶來最佳的廣告回報。
 feature: Audience Lab
 doc-type: feature video
 thumbnail: 24923.jpg
@@ -8,28 +8,28 @@ kt: 1552
 role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 使用[!UICONTROL Audience Lab]選擇DSP {#using-audience-lab-to-choose-a-dsp}
+# 使用 [!UICONTROL Audience Lab] 選DSP擇 {#using-audience-lab-to-choose-a-dsp}
 
-在此影片中，我們會逐步建立[!UICONTROL Audience Lab]測試，讓您可以A/B測試DSP或其他AAM [!UICONTROL destinations]，以了解哪個測試能帶來最佳廣告支出報酬。
+在這段視頻中，我們 [!UICONTROL Audience Lab] test，這樣您就可以A/BtestDSP或其他目AAM的地，查看哪個目標能夠獲得最佳的廣告回報。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-建立[!UICONTROL Audience Lab]測試相當簡單，只需幾分鐘即可完成，如上方影片所示。 當您逐步完成介面中的步驟時，將設定下列項目：
+建立 [!UICONTROL Audience Lab] test簡單，只需幾分鐘即可完成，如上圖所示。 在您瀏覽介面中的步驟時，將設定以下內容：
 
-1. 建立[!UICONTROL Audience Lab]測試並命名
-1. 選擇您的[!UICONTROL segments]中的一個作為「[!UICONTROL base segment]」，即將拆分到DSP的對象[!UICONTROL segment]
-1. 選擇要建立多少個測試[!UICONTROL segments](要測試多少個DSP?)
-   * 將其中一個測試[!UICONTROL segments]設為控制項[!UICONTROL segment]，該控制項不會傳送至任何DSP，以便您可以比較DSP對象
-1. 選擇轉換[!UICONTROL trait]，即[!UICONTROL trait]，此轉換將測量您的成功並選擇您的獲勝者
-1. 選取[!UICONTROL Destinations](即DSP)並指派測試[!UICONTROL segments]
-1. 檢查測試摘要並啟動測試
-1. 完成測試後，訪問[!UICONTROL Audience Lab]主主螢幕上的結果
+1. 建立並命名 [!UICONTROL Audience Lab] test
+1. 選擇 [!UICONTROL segments] 的[!UICONTROL base segment]，」即將分割到您的受眾DSP部
+1. 選擇多少test [!UICONTROL segments] 您要建立(您要DSP建立多少個test?)
+   * 設定一個test [!UICONTROL segments] 作為控制段，不會發送到任何控DSP制段，以便您可以將受DSP眾與其比較
+1. 選擇轉換特性，這是衡量成功並選擇勝者的特性
+1. 選擇 [!UICONTROL Destinations] (即DSP)並分配test [!UICONTROL segments]
+1. 檢查test摘要並激活test
+1. 完成test後，訪問主主螢幕上的結果 [!UICONTROL Audience Lab]
 
-如需詳細資訊，請參閱[功能檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。
+有關其他資訊，請參閱 [功能文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。

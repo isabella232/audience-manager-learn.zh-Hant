@@ -1,7 +1,7 @@
 ---
-title: 在區段中使用造訪間隔和頻率
-description: 使用「造訪間隔」和「頻率」為您的區段提供參數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相關性和頻率限定使用案例，以及其他用途。
-feature: 區段
+title: 在段中使用頻率和頻率
+description: 使用「頻率」(Recency)和「頻率」(Frequency)可指定訪問者在特定時間段內必須符合某個特性的次數的段參數。 非常適合於內容親和性和頻率封蓋使用案例以及其他案例。
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5866
 role: User
 level: Beginner
 exl-id: eba827a3-38c9-4136-bc73-3783f4be8c1c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '86'
+ht-degree: 0%
 
 ---
 
-# 在區段中使用[!UICONTROL Recency]和[!UICONTROL Frequency]
+# 使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 段
 
-使用[!UICONTROL Recency]和[!UICONTROL Frequency]為您的區段提供參數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相關性和頻率限定使用案例，以及其他用途。
+使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 為段參數指定訪問者在特定時間段內需要多少次符合某個特性。 非常適合於內容親和性和頻率封蓋使用案例以及其他案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

@@ -1,7 +1,7 @@
 ---
-title: 客戶秘訣 — 特徵和區段最佳作法
-description: Ally Financial資深行銷專員Matt Vittorioso傳授管理特徵和區段的秘訣。
-feature: 區段
+title: 客戶提示 — 特點和段最佳做法
+description: 觀看Ally Financial高級營銷專家馬特·維托里奧索，他會提供一些關於管理品質和細分的技巧。
+feature: Segments
 topics: null
 activity: use
 doc-type: article
@@ -11,21 +11,21 @@ kt: 6048
 role: User
 level: Beginner
 exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# 客戶秘訣 — 特徵和區段最佳作法
+# 客戶提示 — 特點和細分最佳實踐
 
-**由資深行銷專**&#x200B;員Matt Vittorioso傳授管 **[!DNL Ally Financial]**&#x200B;理特徵和區段的秘訣。
+**馬特·維托里奧索**，高級營銷專家，地址： **[!DNL Ally Financial]**，提供有關管理特徵和片段的提示。
 
-Matt Vittorioso是Ally Financial數位行銷團隊的資深行銷專員。 他領導數位細分團隊，並負責進出audience manager的所有資料。 Matt與所有內部持份者及外部代理合作夥伴密切合作，以確保為所有Ally的行銷活動建立適當的區段。 提示包括下列主題：
+馬特·維托里奧索是Ally Financial數字營銷團隊的高級營銷專家。 他領導數字細分團隊並負責所有進出觀眾經理的資料。 Matt與所有內部利益相關方和外部機構合作夥伴密切合作，確保為Ally的所有活動構建適當的部門。 提示包括以下主題：
 
 * 與利益相關方協調並溝通
-* 利用現成可用功能
-* 定期檢閱特徵和區段
+* 利用現成功能
+* 定期審查特徵和段
 
-[閱讀Experience League社群的Matt秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[閱讀Experience League社區中的Matt&#39;s Tips。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

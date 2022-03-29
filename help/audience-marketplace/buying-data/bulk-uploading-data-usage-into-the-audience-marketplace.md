@@ -1,7 +1,7 @@
 ---
-title: 大量上傳資料使用量至Audience Marketplace
-description: '在報告Audience Marketplace中的第二方和第三方資料使用情況時，您可能有足夠的項目，可以讓您不想手動執行。 在此影片中，您將學習如何使用資料使用情況報告大量上傳工具，以便即使您有許多要更新的項目，也能輕鬆報告資料使用情況。 '
-feature: 訪客交易市場
+title: 將資料使用量批量上載到Audience Marketplace
+description: '在Audience Marketplace中報告第2和第3方資料使用情況時，您可能有足夠的條目，以使您不想手動執行。 在此視頻中，您將學習如何使用資料使用情況報告批量上載工具，以便您可以輕鬆報告資料使用情況，即使您有許多要更新的項目。 '
+feature: Audience Marketplace
 topics: null
 activity: use
 doc-type: feature video
@@ -11,20 +11,20 @@ kt: 1782
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: ad725f78-1730-4f42-b185-f868120c7b50
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# 將大量上傳資料使用量至[!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
+# 批量上載資料使用情況 [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
-在[!UICONTROL Audience Marketplace]中報告第二方和第三方資料使用情況時，您可能有足夠的條目，以便您不想手動執行。 在此影片中，您將學習如何使用資料使用情況報告大量上傳工具，以便即使您有許多要更新的項目，也能輕鬆報告資料使用情況。
+在報告第二和第三方資料使用情況時， [!UICONTROL Audience Marketplace]，您可能有足夠的條目，以便您不想手動執行。 在此視頻中，瞭解如何使用資料使用情況報告批量上載工具。 此工具使您可以輕鬆報告資料使用情況，即使您有許多要更新的項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
-除了擁有此批量上傳工具以簡化並節省報告資料使用情況的時間之外，從[!UICONTROL Audience Marketplace]購買第二方或第三方資料的客戶還將受益於改進的成本歸因策略。 這項新政策將根據規則型區段中特徵的不重複使用者計數，將成本歸因於資料提供者，因此可提高透明度及公平使用計費。
-有關帳單演算法的詳細資訊，請參閱[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)。
+除了使用此批量上載工具來簡化和節省報告資料使用情況的時間外，客戶還從中購買第二方或第三方資料 [!UICONTROL Audience Marketplace] 從改進的成本分配政策中獲益。 該新策略基於基於規則的分段中特徵的唯一用戶計數將成本賦予資料提供者，從而產生更透明和更公平的使用計費。
+有關計費算法的詳細資訊，請參閱 [CPM資料源的成本分配](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) 在產品文檔中。
 
-如需有關報告CPM使用情況的詳細資訊，請造訪[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)。
+有關報告CPM使用情況的詳細資訊，請參閱 [如何報告CPM使用情況](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) 在產品文檔中。

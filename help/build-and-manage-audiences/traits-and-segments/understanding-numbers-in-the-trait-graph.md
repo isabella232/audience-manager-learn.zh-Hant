@@ -1,7 +1,7 @@
 ---
-title: 了解特徵圖中的數字
-description: 在特徵資訊畫面中取得一些相關秘訣，以了解所報告的特徵數字。
-feature: 特徵
+title: 瞭解特質圖中的數字
+description: 獲取一些有關在特徵資訊螢幕中瞭解所報告的特徵數的提示。
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6494
 role: User
 level: Beginner
 exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 2%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
-# 了解特徵圖中的數字
+# 瞭解特質圖中的數字
 
-在特徵資訊畫面中取得一些相關秘訣，以了解所報告的特徵數字。
+獲取一些有關在特徵資訊螢幕中瞭解所報告的特徵數的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

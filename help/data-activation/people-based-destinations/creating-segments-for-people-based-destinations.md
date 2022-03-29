@@ -1,8 +1,7 @@
 ---
-title: 在Adobe Audience Manager中建立以人物為基礎的目的地區段
-description: 此影片會逐步帶您了解如何在Audience Manager中建立要用於以人物為基礎的目的地的區段。
-feature: '"以人物為基礎的目的地"'
-topics: null
+title: 為基於人員的目標建立段
+description: 此視頻引導您完成Audience Manager中用於基於人的目的地的段的建立。
+feature: People-based Destinations
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,15 +10,15 @@ kt: 3690
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3e0d9a37-9677-4e4a-8ae6-c5a54ae99601
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# 為[!UICONTROL People-Based Destinations]建立區段
+# 為基於人員的目標建立段
 
-此影片會逐步帶您了解要用於[!UICONTROL People-Based Destinations]的Audience Manager中[!UICONTROL segment]的建立過程。
+此視頻引導您完成Audience Manager中用於基於人的目的地的段的建立。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

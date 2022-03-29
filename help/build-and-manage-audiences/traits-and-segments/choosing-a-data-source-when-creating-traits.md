@@ -1,7 +1,7 @@
 ---
-title: 建立特徵時選擇資料來源
-description: 建立特徵時，「資料來源」欄位是需填寫的重要欄位之一。 取得秘訣，為規則型特徵和已上線特徵選擇正確的資料來源。
-feature: 特徵
+title: 建立特徵時選擇資料源
+description: 建立特徵時需要填寫的重要欄位之一是資料源欄位。 獲取有關為基於規則和已封裝特徵選擇正確資料源的提示。
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6442
 role: User
 level: Beginner
 exl-id: 357385b1-8900-4b7c-aa75-de25cf008a33
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
-# 建立特徵時選擇資料來源
+# 建立特徵時選擇資料源
 
-建立特徵時，「資料來源」欄位是需填寫的重要欄位之一。 取得秘訣，為規則型特徵和已上線特徵選擇正確的資料來源。
+在創造特徵時，需要填寫的一個重要領域是 [!UICONTROL Data Source] 的子菜單。 獲取有關為基於規則和已封裝特徵選擇正確資料源的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

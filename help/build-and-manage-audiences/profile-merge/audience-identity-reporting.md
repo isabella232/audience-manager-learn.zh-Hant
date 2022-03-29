@@ -1,6 +1,6 @@
 ---
-title: 觀眾身分報告
-description: 「對象身分報告」可讓客戶依個人／家庭身分定義報告某個特徵或群體的總人口。 觀看此影片，瞭解它在Audience Manager報表中的表現。
+title: 受眾身份報告
+description: 瞭解受眾身份報告。 此類Audience Manager報告使您能夠按個人或家庭身份定義報告某個特徵或部分的總人口。
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] 報表
+# 受眾身份報告
 
-[!DNL Audience Identity] 報告功能可讓客戶依個人／家庭的身 [!UICONTROL trait] 分定 [!UICONTROL segment] 義報告總人口。觀看此影片，瞭解它在Audience Manager報表中的表現。
+受眾身份報告使客戶能夠按個人/家庭身份定義報告某個特徵或部分的總人口。 觀看此視頻，瞭解它在Audience Manager報告中的表現。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

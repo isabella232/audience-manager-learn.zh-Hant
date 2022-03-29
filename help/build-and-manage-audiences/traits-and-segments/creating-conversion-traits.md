@@ -1,7 +1,7 @@
 ---
-title: 在Audience Manager中建立轉換特徵
-description: 您的某些特徵是以網站上的轉換為基礎。 在此影片中，您可以了解如何指定這些秘訣，並了解非常重要的秘訣/技巧。
-feature: 特徵
+title: 建立轉換特性
+description: 您的某些特性基於您站點上的轉換。 在此視頻中，學習如何將其指定為此類，並瞭解一個非常重要的提示/理解。
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,21 +11,21 @@ kt: 1804
 role: User
 level: Beginner
 exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 在Audience Manager中建立轉換[!UICONTROL Traits] {#creating-conversion-traits-in-audience-manager}
+# 在Audience Manager中建立轉換特性 {#creating-conversion-traits-in-audience-manager}
 
-您的部分[!UICONTROL traits]是以您網站上的轉換為基礎。 在此影片中，您可以了解如何指定這些秘訣，並了解非常重要的秘訣/技巧。
+您的某些特性基於您站點上的轉換。 在此視頻中，學習如何將其指定為此類，並瞭解一個非常重要的提示/理解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-您希望讓使用者在您的網站上執行什麼操作？ 什麼是您的轉換事件？ 當然，此問題有許多不同的答案，視您的網站類型/垂直與組織目標而定。 無論如何，AAM中通常會為符合這些條件的訪客建立[!UICONTROL traits]。
+您試圖在您的站點上讓人員執行什麼操作？ 您的轉換事件是什麼？ 當然，根據您的站點類型/垂直和組織目標，有許多不同的答案。 無論如何，為符合這些AAM標準的訪客創造特質是很普遍的。
 
-在AAM中，有一個欄位可將您的[!UICONTROL trait]標示為[!UICONTROL conversion] [!UICONTROL trait]，尤其是用於[!UICONTROL Audience Lab]。
+在中AAM，有一個領域，你可以將你的特性標籤為轉換特性，特別是用於 [!UICONTROL Audience Lab]。
 
-此外，使用事件來建立[!UICONTROL traits]時，請謹記一個重大問題，這樣就不會收集到比收集更多使用者到[!UICONTROL trait]中的情況。 看這段視頻，看大的展示。:)
+此外，當使用事件來創造特徵時，需要記住一個重要的要點，這樣你就不會收集到更多的用戶來參與這個特性。 看這段視頻，看看大畫面。

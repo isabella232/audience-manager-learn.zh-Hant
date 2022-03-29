@@ -1,7 +1,7 @@
 ---
-title: 使用特徵Recommendations增強AAM區段
-description: 有了特徵建議功能，您在區段產生器中建立或編輯區段時，系統會根據區段規則中的特徵，提供您其他類似特徵的相關建議，您可考慮納入。
-feature: 區段
+title: 利用特徵Recommendations增強您的細分
+description: 使用特徵Recommendations，當您構建或編輯段時，您會獲得關於可以包括的其他特性的建議，這些特性與段規則中的特性相似。
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,18 +11,19 @@ kt: 2431
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 32%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
-# 使用[!DNL Trait Recommendations]增強AAM [!UICONTROL Segments] {#enhancing-your-aam-segments-with-trait-recommendations}
+# 通過 [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-若使用[!DNL Trait Recommendations]，當您在[!DNL Segment Builder]中建立或編輯[!UICONTROL segment]時，您會獲得關於其他[!UICONTROL traits]的建議，這些建議可以包括，與[!UICONTROL segment]規則中的[!UICONTROL traits]類似。
+與 [!UICONTROL Trait Recommendations]，在 [!UICONTROL Segments]，您將獲得有關可包含的其他特性的建議，這些特性與段規則中的特性相似。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] 同時處理 [!UICONTROL first party] 和 [!UICONTROL third party] 資料，以便納入其他建議並 [!UICONTROL traits] 增加目標對象。\
-有關此功能的詳細資訊，請訪問[文檔](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。
+[!UICONTROL Trait Recommendations] 同時處理第一方和第三方資料，以便您可以包括其他建議 [!UICONTROL Traits] 增加目標受眾。
+
+有關此功能的詳細資訊，請訪問 [文檔](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。

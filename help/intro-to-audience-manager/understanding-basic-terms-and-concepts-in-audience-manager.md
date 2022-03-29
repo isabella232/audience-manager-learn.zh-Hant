@@ -1,8 +1,8 @@
 ---
-title: 了解Audience Manager中的基本術語和概念
-description: 這部影片會介紹一些基本術語和概念 (包括訊號、特徵、區段等等)，協助您開始使用 Audience Manager。
-landing-page-description: 了解基本術語和概念 (包括訊號、特徵、區段等等)，協助您開始使用 Audience Manager。
-feature: 概述
+title: 理解Audience Manager中的基本術語和概念
+description: 通過此支援視頻，瞭解Adobe Audience Manager開始使用的基本術語和概念，包括信號、特徵、片段等。
+landing-page-description: 通過此支援視頻，瞭解Adobe Audience Manager開始使用的基本術語和概念，包括信號、特徵、片段等。
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,14 +12,14 @@ thumbnail: 33887.jpg
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 82%
+source-wordcount: '87'
+ht-degree: 31%
 
 ---
 
-# 了解Audience Manager中的基本術語和概念
+# 理解Audience Manager中的基本術語和概念
 
 這部影片會介紹一些基本術語和概念 (包括訊號、特徵、區段等等)，協助您開始使用 Audience Manager。
 

@@ -1,6 +1,6 @@
 ---
-title: 以Data Explorer儲存搜尋以方便重複使用
-description: 在此影片中，您將學習如何在Data Explorer中設定搜尋、執行搜尋，然後儲存以供稍後重複使用。 您也可以將儲存的搜尋放在控制面板上，這樣當您進入「訊號」應用程式時，就能立即使用。
+title: 將搜索保存在Data Explorer中，以便於重新使用
+description: 在此視頻中，瞭解如何在Data Explorer中配置搜索，運行該搜索，然後保存該搜索以備以後重新使用。 您還可以將保存的搜索放在儀表板上，以便在您進入信號應用程式時立即可用。
 feature: Data Explorer
 topics: null
 activity: use
@@ -12,17 +12,17 @@ kt: 1763
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 1%
+source-wordcount: '125'
+ht-degree: 0%
 
 ---
 
-# 在[!DNL Data Explorer]中保存搜索以方便重複使用 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# 將搜索保存在 [!UICONTROL Data Explorer] 方便重新使用 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-在此影片中，您將學習如何在[!DNL Data Explorer]中設定搜尋、執行搜尋，然後儲存以供稍後重新使用。 您也可以將儲存的搜尋放在控制面板上，這樣當您進入[!UICONTROL Signals]應用程式時，就能立即使用。
+在此視頻中，瞭解如何在 [!DNL Data Explorer]，運行它，然後保存它以備以後重新使用。 您還可以將保存的搜索放在儀表板上，以便在進入 [!UICONTROL Signals] 的子菜單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-有關[!DNL Data Explorer]的詳細資訊，請訪問[文檔](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有關 [!UICONTROL Data Explorer]訪問 [Data Explorer — 概述、好處和使用案例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。

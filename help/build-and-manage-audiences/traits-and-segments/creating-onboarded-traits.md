@@ -1,7 +1,7 @@
 ---
-title: 建立已上線的特徵
-description: 了解在Audience Manager中建立已上線特徵的秘訣。
-feature: 特徵
+title: 建立掛接特徵
+description: 學習在Audience Manager中建立掛接特徵的技巧。
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6215
 role: User
 level: Beginner
 exl-id: b240e1c6-1cc6-44c0-aee5-35ca972ab919
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 建立已上線的特徵
+# 建立掛接特徵
 
-了解在Audience Manager中建立已上線特徵的秘訣。
+學習在Audience Manager中建立掛接特徵的技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

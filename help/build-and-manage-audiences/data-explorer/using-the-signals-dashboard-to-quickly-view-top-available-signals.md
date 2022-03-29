@@ -1,6 +1,6 @@
 ---
-title: 使用訊號控制面板快速檢視最上層可用訊號
-description: 在「Data Explorer」中使用「訊號」控制面板上的內建和自訂表格，即可快速查看傳入Audience Manager的最新資料，甚至視需要點進以建立特徵。 歡迎使用全新、更有效率的工作流程！
+title: 使用「信號控制板」快速查看頂級可用信號
+description: 瞭解如何在Data Explorer中使用信號儀表板上的內置表和自定義表。 您可以快速看到最新資料進入Audience Manager，甚至可以根據需要按一下以建立特徵。 歡迎使用新的、更高效的工作流！
 feature: Data Explorer
 topics: null
 activity: use
@@ -11,19 +11,19 @@ kt: 2140
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '176'
+ht-degree: 0%
 
 ---
 
-# 使用[!UICONTROL Signals]控制面板快速檢視最上層可用[!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
+# 使用 [!UICONTROL Signals Dashboard] 快速查看最大可用信號 [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-在[!DNL Data Explorer]的[!UICONTROL Signals]控制面板上使用內建和自訂表格，即可快速查看傳入Audience Manager的最新資料，甚至視需要點進以建立特徵。 歡迎使用全新、更有效率的工作流程！
+通過在 [!UICONTROL Signals Dashboard] 在 [!DNL Data Explorer]，您可以快速看到最新資料進入Audience Manager，甚至根據需要按一下以建立特徵。 歡迎使用新的、更高效的工作流！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
-當您點進[!DNL Data Explorer]（亦即[!UICONTROL Signals]應用程式）時，將會顯示頂端[!UICONTROL signals]以及新[!UICONTROL signals]的預設控制面板。 除了這兩個預設值之外，您還可以儲存搜尋並將其新增至控制面板，如此您就能在功能的首頁上，快速檢視最重要的資料。
+按一下到時 [!UICONTROL Data Explorer]，例如 [!UICONTROL Signals] app，您將收到一個預設的儀表板，上面顯示信號和新信號。 除了這兩個預設值之外，您還可以保存搜索並將其添加到儀表板中，這樣您就可以快速查看功能的首頁上最重要的資料。
 
-有關[!DNL Data Explorer]的詳細資訊，請訪問[文檔](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有關 [!UICONTROL Data Explorer]訪問 [Data Explorer — 概述、好處和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en))。

@@ -1,22 +1,22 @@
 ---
-title: 建立Analytics資料的資料來源
-description: 在此影片中，我們會逐步介紹在 AAM 中建立資料來源的相關步驟 (包括各種秘訣和訣竅)，供您在處理從 Adobe Analytics 等分析解決方案即時傳入的資料時使用。請先觀看此影片，再為分析資料建立特徵。
-landing-page-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。動手為分析資料建立特徵之前，請先觀看這部影片。
+title: 為分析資料建立資料源
+description: 瞭解如何通過像Adobe Analytics這樣的分析解決方案為即時傳入的資料建立資料源。 動手為分析資料建立特徵之前，請先觀看這部影片。
+landing-page-description: 瞭解如何通過像Adobe Analytics這樣的分析解決方案為即時傳入的資料建立資料源。 動手為分析資料建立特徵之前，請先觀看這部影片。
 feature: Data Sources
 doc-type: feature video
 kt: 2928
 role: User
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 57%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 為[!DNL Analytics]資料建立[!UICONTROL Data Source] {#create-a-data-source-for-analytics-data}
+# 建立 [!UICONTROL Data Source] 為 [!DNL Analytics] 資料 {#create-a-data-source-for-analytics-data}
 
-此影片中，我們會逐步介紹在AAM中建立[!UICONTROL Data Source]的相關步驟（包括秘訣和訣竅），供您用於從Adobe Analytics等分析解決方案即時傳入的資料。 應在為分析資料建立[!UICONTROL traits]之前完成此操作。
+在此視頻中，我們將介紹建立 [!UICONTROL Data Source] 在Audience Manager中，您可以使用像Adobe Analytics這樣的分析解決方案來即時獲取資料。 請先觀看此影片，再為分析資料建立特徵。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

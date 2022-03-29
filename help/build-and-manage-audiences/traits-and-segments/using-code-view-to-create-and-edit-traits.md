@@ -1,7 +1,7 @@
 ---
-title: 使用程式碼檢視建立及編輯特徵
-description: 了解如何在建立新特徵或編輯現有特徵時使用程式碼檢視。 設定特徵運算式時，程式碼檢視是運算式產生器的替代選項。
-feature: 特徵
+title: 使用代碼視圖建立和編輯特徵
+description: 瞭解如何在建立新特徵或編輯現有特徵時使用代碼視圖。 設定特徵表達式時，代碼視圖是表達式生成器的替代選項。
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6441
 role: User
 level: Intermediate
 exl-id: 763bbc25-57f1-456a-b94c-7c5c1ec1e3bb
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 0%
 
 ---
 
-# 使用程式碼檢視建立及編輯特徵
+# 使用代碼視圖建立和編輯特徵
 
-了解如何在建立新特徵或編輯現有特徵時使用程式碼檢視。 設定特徵運算式時，程式碼檢視是運算式產生器的替代選項。
+瞭解如何在建立新特徵或編輯現有特徵時使用代碼視圖。 設定特徵表達式時，代碼視圖是表達式生成器的替代選項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)

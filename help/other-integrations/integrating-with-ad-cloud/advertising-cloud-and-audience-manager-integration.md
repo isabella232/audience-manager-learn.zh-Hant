@@ -1,26 +1,26 @@
 ---
-title: Adobe Advertising Cloud與Adobe Audience Manager整合
-description: 了解Adobe Audience Manager與Adobe Ad Cloud之間的整合如何運作。 也會取得匹配率和協力廠商Cookie同步的相關答案。
-feature: Advertising Cloud整合
+title: Adobe Advertising Cloud和Adobe Audience Manager一體化
+description: 瞭解Adobe Audience Manager和Adobe Ad Cloud的整合工作原理。 還可以獲取有關匹配率和第三方Cookie同步的答案。
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
-topic: 整合
+topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud與Adobe Audience Manager整合 {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
+# Adobe Advertising Cloud和Adobe Audience Manager一體化 {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
 
-了解Adobe Audience Manager與[!DNL Adobe Ad Cloud]之間的整合如何運作。 另請取得匹配率和[!UICONTROL third party] Cookie同步的相關答案。
+瞭解Adobe Audience Manager與 [!DNL Adobe Ad Cloud] 工作。 還可以獲取有關匹配率和第三方Cookie同步的答案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
