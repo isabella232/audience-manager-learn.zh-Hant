@@ -5,13 +5,13 @@ source-wordcount: '170'
 ht-degree: 46%
 
 ---
-# MIT授權
+# MIT許可證
 
 ©版權所有2021Adobe。 All rights reserved.
 
-茲免費准許任何取得本軟體及相關檔案檔案（以下稱「軟體」）之復本之人員，不受限制處理本軟體，包括但不限於使用、複製、修改、合併、發佈、分發、轉授權及/或銷售本軟體之復本之權利，並准許獲得本軟體之人員，但須受下列條件約束：
+特此允許任何獲得本軟體和相關文檔檔案（「本軟體」）副本的人免費處理本軟體，包括但不限於使用、複製、修改、合併、發佈、分發、分發、許可和/或銷售本軟體副本的權利，並允許向本軟體提供副本的人這樣做，但條件如下：
 
-上述著作權聲明及本許可聲明應納入本軟體之所有副本或重要部分。
+上述版權聲明和本許可聲明應包含在本軟體的所有副本或主要部分中。
 
 THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF

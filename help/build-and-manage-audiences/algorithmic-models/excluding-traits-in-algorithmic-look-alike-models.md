@@ -1,6 +1,6 @@
 ---
 title: 算法（相似）模型中的特徵排除
-description: '瞭解如何以及為什麼從算法（相似）模型中排除特定（或一組）特徵。 '
+description: 瞭解如何以及為什麼從算法（相似）模型中排除特定（或一組）特徵。
 feature: Algorithmic Models
 topics: null
 activity: use

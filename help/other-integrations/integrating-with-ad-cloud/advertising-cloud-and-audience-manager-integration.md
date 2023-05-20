@@ -1,6 +1,6 @@
 ---
 title: Adobe廣告與Adobe Audience Manager整合
-description: 了解Adobe Audience Manager與Adobe廣告的整合如何運作。 也會取得匹配率和協力廠商Cookie同步的相關答案。
+description: 瞭解Adobe Audience Manager與Adobe廣告的整合如何工作。 還可以獲取有關匹配率和第三方Cookie同步的答案。
 feature: Advertising Integration
 topics: null
 activity: understand
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Adobe廣告與Adobe Audience Manager整合
 
-了解Adobe Audience Manager與 [!DNL Adobe Advertising] 工作。 也會取得匹配率和協力廠商Cookie同步的相關答案。
+瞭解Adobe Audience Manager與 [!DNL Adobe Advertising] 工作。 還可以獲取有關匹配率和第三方Cookie同步的答案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

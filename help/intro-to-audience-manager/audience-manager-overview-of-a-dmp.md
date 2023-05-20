@@ -1,6 +1,6 @@
 ---
-title: Audience Manager- DMP概觀
-description: 了解跨管道個人化的主要挑戰，以及Adobe Audience Manager如何推動客戶歷程。 同時了解哪些資料類型可以在Audience Manager中上線，並識別與Audience Manager整合的廣告技術生態系統合作夥伴。
+title: Audience Manager- DMP概述
+description: 瞭解跨渠道個性化的關鍵挑戰，以及Adobe Audience Manager如何推動客戶旅程。 還要瞭解哪些資料類型可以掛載到Audience Manager中，並確定與Audience Manager整合的廣告技術生態系統合作夥伴。
 feature: Overview
 topics: null
 activity: understand
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager- DMP概觀
+# Audience Manager- DMP概述
 
-了解跨管道個人化的主要挑戰，以及Adobe Audience Manager如何推動客戶歷程。 同時了解哪些資料類型可以在Audience Manager中上線，並識別與Audience Manager整合的廣告技術生態系統合作夥伴。
+瞭解跨渠道個性化的關鍵挑戰，以及Adobe Audience Manager如何推動客戶旅程。 還要瞭解哪些資料類型可以掛載到Audience Manager中，並確定與Audience Manager整合的廣告技術生態系統合作夥伴。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-如需詳細資訊，請造訪[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html)。
+有關詳細資訊，請訪問 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html)。

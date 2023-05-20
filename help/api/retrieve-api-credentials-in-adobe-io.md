@@ -1,5 +1,5 @@
 ---
-title: 在Adobe開發人員中檢索API憑據
+title: 在Adobe Developer檢索API憑據
 description: 您不必聯繫Adobe咨詢或客戶關心部門以獲取使用REST API的憑據，而只需在瀏覽器中轉到developer.adobe.com，檢索或註冊您自己的憑據即可。
 feature: API
 topics: null

@@ -1,6 +1,6 @@
 ---
 title: 將資料使用量批量上載到Audience Marketplace
-description: '在Audience Marketplace中報告第2和第3方資料使用情況時，您可能有足夠的條目，以使您不想手動執行。 在此視頻中，您將學習如何使用資料使用情況報告批量上載工具，以便您可以輕鬆報告資料使用情況，即使您有許多要更新的項目。 '
+description: 在Audience Marketplace中報告第2和第3方資料使用情況時，您可能有足夠的條目，以使您不想手動執行。 在此視頻中，您將學習如何使用資料使用情況報告批量上載工具，以便您可以輕鬆報告資料使用情況，即使您有許多要更新的項目。
 feature: Audience Marketplace
 topics: null
 activity: use

@@ -1,5 +1,5 @@
 ---
-title: '使用Data Explorer驗證掛機資料的特性建立 '
+title: 使用Data Explorer驗證掛機資料的特性建立
 description: Audience Manager最強大的功能之一是能夠將離線資料掛載，並將其與線上資料關聯起來。 在此視頻中，瞭解如何使用Data Explorer來驗證您是否已建立了所有必要的特性，以利用此登載資料。
 feature: Data Explorer
 topics: null

@@ -1,7 +1,7 @@
 ---
-title: 在抑制廣告的使用案例中測量投資報酬率
-description: 省的一分錢是賺的，對吧？ 了解如何透過向現有客戶抑制廣告來決定您的行銷活動成本節省。
-feature: 概述
+title: 在客戶抑制使用案例中測量ROI
+description: 省下來的一分錢是賺來的，對吧？ 學會使用幾個公式來通過禁止向現有客戶投放廣告來確定促銷活動成本節約。
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,13 +13,13 @@ level: Intermediate
 exl-id: 62d995d7-e216-4df9-b19d-d8e4a4f34b3a
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
-# 在抑制廣告的使用案例中測量投資報酬率
+# 在客戶抑制使用案例中測量ROI
 
-省的一分錢是賺的，對吧？ 了解如何透過向現有客戶抑制廣告來決定您的行銷活動成本節省。
+省下來的一分錢是賺來的，對吧？ 學會使用幾個公式來通過禁止向現有客戶投放廣告來確定促銷活動成本節約。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
