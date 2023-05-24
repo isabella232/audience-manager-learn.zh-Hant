@@ -1,6 +1,6 @@
 ---
-title: 在將資料發送SPA到時使用頁面上的最佳做AAM法
-description: 瞭解從單頁應用程式()向Adobe Audience Manager(SPA)發送資料的最AAM佳做法。 本文重點介紹了Experience Platform標籤的使用，推薦的實現方法。
+title: 將資料傳送至SPA時，請在AAM頁面上使用最佳實務
+description: 瞭解將資料從單頁應用程式(SPA)傳送至Adobe Audience Manager (AAM)的最佳實務。 本文章著重於使用Experience Platform標籤，此為建議的實作方法。
 feature: Implementation Basics
 topics: spa
 activity: implement
@@ -18,49 +18,49 @@ ht-degree: 0%
 
 ---
 
-# 在將資料發送SPA到時使用頁面上的最佳做AAM法 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# 將資料傳送至SPA時，請在AAM頁面上使用最佳實務 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
-本文檔介紹從單頁應用程式()向Adobe Audience Manager(SPA)發送資料的幾種最佳AAM做法。 本文重點介紹 [!UICONTROL Experience Platform tags]，推薦的實現方法。
+本檔案說明將資料從單頁應用程式(SPA)傳送至Adobe Audience Manager (AAM)的幾個最佳實務。 本文章著重於使用 [!UICONTROL Experience Platform tags]，此為建議的實作方法。
 
-## 初始注釋
+## 初始備註
 
-* 以下項目將假定您正在使用平台標籤在站點上實施。 如果您不使用平台標籤，則仍然存在考慮事項，但您需要將它們調整為您的實現方法。
-* 所有SPA項都不同，因此您可能需要調整以下某些項以最好地滿足您的要求，但Adobe希望分享一些最佳實踐，當您將資料從頁面發送到Audience Manager時，您需要考慮這些SPA最佳實踐。
+* 以下專案假設您正使用Platform標籤在您的網站上實作。 如果您未使用Platform標籤，但這些考量事項仍會存在，但您需要根據實作方法調整。
+* 所有SPA並不相同，因此您可能需要調整下列部分專案以最符合您的需求，但Adobe想要分享一些您從SPA頁面傳送資料至Audience Manager時需要考慮的最佳實務。
 
-## 使用Experience Platform標SPA簽和AAM在標籤（以前稱「啟動」）的簡單圖{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
+## 在Experience Platform標籤（前身為Launch）中使用SPA和AAM的簡圖{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
 ![標籤中aam的spa](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->如前所述，這是一個簡化的圖SPA表，說明在Adobe Audience Manager實施(不使用Adobe Analytics)中，如何使用平台標籤處理頁面。 正如您所看到的，它是相當直接的，最重要的決定是如何將視圖更改（或操作）與「平台」標籤進行通信。
+>如前所述，這是一個簡化的圖表，說明如何使用Platform標籤在Adobe Audience Manager實作(不含Adobe Analytics)中處理SPA頁面。 如您所見，這是相當直截了當的決定，其中最重大的決定在於您要如何將檢視變更（或動作）傳達給Platform標籤。
 
-## 從頁面觸發標SPA記 {#triggering-launch-from-the-spa-page}
+## 從SPA頁面觸發標籤 {#triggering-launch-from-the-spa-page}
 
-在Platform標籤中觸發規則(並因此將資料發送到Audience Manager)的兩種更常見方法是：
+在Platform標籤中觸發規則(以及因此將資料傳送至Audience Manager)的兩個較常見方法是：
 
-* 設定JavaScript自定義事件（請參見示例） [這裡](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) Adobe Analytics
+* 設定JavaScript自訂事件 [此處](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) 使用Adobe Analytics)
 * 使用 [!UICONTROL Direct Call Rule]
 
-在此Audience Manager示例中，使用 [!UICONTROL Direct Call rule] 在平台標籤中觸發命中進入Audience Manager。 正如您在下一節中將看到的，通過設定 [!UICONTROL Data Layer] 到新值，以便 [!UICONTROL Data Element] 在平台標籤中。
+在此Audience Manager範例中，您會使用 [!UICONTROL Direct Call rule] 在Platform標籤中，觸發進入Audience Manager的點選。 如同您將在下一節所見，透過設定 [!UICONTROL Data Layer] 至新值，以便 [!UICONTROL Data Element] 在Platform標籤中。
 
-## 演示頁 {#demo-page}
+## 示範頁面 {#demo-page}
 
-這是一個小頁面，它演示了如何更改資料層中的值，並將其發送到Audience Manager中，就像您在頁面上所做的SPA那樣。 此功能可以建模，以便進行更詳細的更改。 您可以找到此演示頁 [這裡](https://aam.enablementadobe.com/SPA-Launch.html)。
+以下是一個小頁面，示範如何變更資料層中的值並將其傳送到Audience Manager中(您可能在SPA頁面上這麼做)。 此功能可建立模型，以因應更詳細的所需變更。 您可以找到此示範頁面 [此處](https://aam.enablementadobe.com/SPA-Launch.html).
 
 ## 設定資料層 {#setting-the-data-layer}
 
-如前所述，當新內容載入到頁面上或有人在站點上執行操作時，需要在頁面的首部動態設定資料層，然後調用並運行 [!UICONTROL rules]，以便平台標籤可以從資料層中提取新值並將其推入Audience Manager。
+如前所述，在頁面上載入新內容或有人在網站上執行動作時，資料層需要在頁面標題中動態設定，之後才會呼叫並執行Platform標籤 [!UICONTROL rules]，以便Platform標籤能從資料層擷取新值，並將它們推送到Audience Manager中。
 
-如果您轉到上面列出的演示站點並查看頁面源，您將看到：
+如果您前往上述示範網站並檢視頁面來源，您將會看到：
 
-* 資料層位於頁面首部，在調用平台標籤之前
-* 模擬連結中的JavaScriptSPA將更改 [!UICONTROL Data Layer]，然後調用平台標籤( `_satellite.track()` 呼叫)。 如果您使用的是JavaScript自定義事件而不是此事件 [!UICONTROL Direct Call Rule]但教訓是一樣的。 首先更改 [!DNL data layer]，然後調用平台標籤。
+* 資料層位於頁面前端，在呼叫Platform標籤之前
+* 模擬SPA連結中的JavaScript會變更 [!UICONTROL Data Layer]，然後呼叫Platform標籤( `_satellite.track()` 呼叫)。 如果您是使用JavaScript自訂事件，而不是這個 [!UICONTROL Direct Call Rule]，則課程相同。 首先變更 [!DNL data layer]，然後呼叫Platform標籤。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## 其他資源 {#additional-resources}
 
-* [關於SPAAdobe論壇的討論](https://forums.adobe.com/thread/2451022)
-* [參考體系結構站點，以顯示如何在平台SPA標籤中實施](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
-* [在Adobe Analytics跟蹤時使SPA用最佳做法](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
-* [用於本文的演示網站](https://aam.enablementadobe.com/SPA-Launch.html)
+* [Adobe論壇上的SPA討論](https://forums.adobe.com/thread/2451022)
+* [Reference Architecture網站說明如何在Platform標籤中實作SPA](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [在Adobe Analytics中追蹤SPA時使用最佳實務](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
+* [用於本文的示範網站](https://aam.enablementadobe.com/SPA-Launch.html)

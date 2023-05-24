@@ -1,5 +1,5 @@
 ---
-title: Audience Manager中的身份簡介
+title: Audience Manager中的身分識別簡介
 description: 了解 Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
 landing-page-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
 short-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
@@ -20,7 +20,7 @@ ht-degree: 86%
 
 ---
 
-# Audience Manager中的身份簡介
+# Audience Manager中的身分識別簡介
 
 透過這部影片，您能了解 Adobe Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
 

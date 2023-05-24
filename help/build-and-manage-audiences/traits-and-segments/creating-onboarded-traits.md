@@ -1,6 +1,6 @@
 ---
-title: 建立掛接特徵
-description: 學習在Audience Manager中建立掛接特徵的技巧。
+title: 建立已上線的特徵
+description: 瞭解在Audience Manager中建立已上線特徵的秘訣。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立掛接特徵
+# 建立已上線的特徵
 
-學習在Audience Manager中建立掛接特徵的技巧。
+瞭解在Audience Manager中建立已上線特徵的秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

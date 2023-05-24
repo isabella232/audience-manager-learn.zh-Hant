@@ -1,6 +1,6 @@
 ---
-title: 使用Data Explorer建立追溯特徵和段
-description: 學習如何建立追溯特徵，如在建立資料之前將資料回填到特徵中的特徵。 這是你創造特質的重大突破！
+title: 使用Data Explorer建立可回溯的特徵和區段
+description: 瞭解如何建立可回溯的特徵，例如會在建立特徵之前將資料回填到特徵中的特徵。 這是特徵建立的絕佳突破！
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Data Explorer] 建立追溯性狀和段 {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# 使用 [!UICONTROL Data Explorer] 建立可回溯的特徵和區段 {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-這段視頻展示了如何建立追溯性特徵，例如在建立資料之前將資料回填到特徵中的特徵。 這是你創造特質的重大突破！
+本影片說明如何建立可回溯的特徵，例如會在建立特徵之前將資料回填至特徵中的特徵。 這是特徵建立的絕佳突破！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-直到現在，當你創造特徵時，他們只是在前進時收集資料。 這意味著你必須創造很多特性以防他們收到流量或資料 現在，您可以等待查看哪些鍵/值對接收資料，然後建立一個特性，並將資料回填到該特性中。 這既節省了時間和精力，又有助於保持特徵分類的嚴密性，而不是有幾個沒有資料的特徵。
+到目前為止，當您建立特徵時，這些特徵只會在日後收集資料。 這表示您必須建立許多特徵，以防他們收到流量或資料。 現在，您可以等待檢視哪些索引鍵/值配對收到資料，然後建立特徵並將資料回填至該特徵中。 這樣可節省您的時間與精力，也有助於保持特徵分類法的嚴密性，而不需要具備數個不含資料的特徵。
 
-有關 [!DNL Data Explorer]訪問 [Data Explorer — 概述、好處和使用案例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+如需有關的詳細資訊 [!DNL Data Explorer]，造訪 [Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

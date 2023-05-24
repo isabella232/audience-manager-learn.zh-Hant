@@ -1,6 +1,6 @@
 ---
-title: 在Adobe Developer檢索API憑據
-description: 您不必聯繫Adobe咨詢或客戶關心部門以獲取使用REST API的憑據，而只需在瀏覽器中轉到developer.adobe.com，檢索或註冊您自己的憑據即可。
+title: 在Adobe Developer中擷取API認證
+description: 若要取得使用REST API的認證，您不必連絡Adobe諮詢或客戶服務，只需在瀏覽器中前往developer.adobe.com並擷取或註冊您自己的認證即可。
 feature: API
 topics: null
 activity: develop
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 在中檢索API憑據 [!DNL Adobe Developer]
+# 在中擷取API認證 [!DNL Adobe Developer]
 
-您不必聯繫Adobe咨詢或客戶關心部門以獲取使用REST API的憑據，而只需在瀏覽器中轉到developer.adobe.com，檢索或註冊您自己的憑據即可。
+若要取得使用REST API的認證，您不必連絡Adobe諮詢或客戶服務，只需在瀏覽器中前往developer.adobe.com並擷取或註冊您自己的認證即可。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 建立段時選擇資料源
-description: 瞭解在Audience Manager中建立新段時選擇正確資料源的一些提示。
+title: 建立區段時選擇資料來源
+description: 瞭解在Audience Manager中建立新區段時，選擇正確資料來源的一些秘訣。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立段時選擇資料源
+# 建立區段時選擇資料來源
 
-瞭解在Audience Manager中建立新段時選擇正確資料源的一些提示。
+瞭解在Audience Manager中建立新區段時，選擇正確資料來源的一些秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

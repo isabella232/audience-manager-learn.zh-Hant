@@ -1,6 +1,6 @@
 ---
-title: 使用Data Explorer驗證掛機資料的特性建立
-description: Audience Manager最強大的功能之一是能夠將離線資料掛載，並將其與線上資料關聯起來。 在此視頻中，瞭解如何使用Data Explorer來驗證您是否已建立了所有必要的特性，以利用此登載資料。
+title: 使用Data Explorer驗證已上線資料的特徵建立
+description: Audience Manager最強大的功能之一，是載入離線資料，並將其與您的線上資料連結起來的功能。 在本影片中，瞭解如何使用Data Explorer來驗證您是否已建立所有必要特徵，以便運用這些已上線的資料。
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 使用Data Explorer驗證掛機資料的特性建立 {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
+# 使用Data Explorer驗證已上線資料的特徵建立 {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
-Audience Manager最強大的功能之一是能夠將離線資料掛載，並將其與線上資料關聯起來。 在此視頻中，瞭解如何使用 [!DNL Data Explorer] 確認您已建立了所有必要的特性，以利用此登船資料。
+Audience Manager最強大的功能之一，是載入離線資料，並將其與您的線上資料連結起來的功能。 在本影片中，瞭解如何使用 [!DNL Data Explorer] 驗證您已建立所有必要特徵來利用此已上線資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
-在很多情況下，在實際裝載資料之前，你會先為裝載資料建立特徵。 但是，新的密鑰和值有可能在過程中被添加，而您可能不再具備利用這些偉大資料所需要的所有特徵。 與 [!UICONTROL Data Explorer]，您可以快速搜索以查看所有已登入的資料，並按特定資料進行篩選 [!UICONTROL Data Source]，甚至過濾到鍵和/或值。 通過此搜索，您可以高效地驗證資料。
+在許多情況下，您會先為已上線的資料建立特徵，然後再實際上線資料。 不過，過程中可能會新增索引鍵和值，而您可能不再具備運用這項絕佳資料所需的所有特徵。 替換為 [!UICONTROL Data Explorer]，您可以進行快速搜尋以檢視所有已上線的資料，並依特定條件篩選 [!UICONTROL Data Source]，或甚至向下篩選至索引鍵和/或值。 此搜尋可讓您有效率地驗證資料。
 
-有關 [!DNL Data Explorer]訪問 [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+如需有關的詳細資訊 [!DNL Data Explorer]，造訪 [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

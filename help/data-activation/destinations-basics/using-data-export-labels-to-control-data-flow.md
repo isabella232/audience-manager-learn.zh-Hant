@@ -1,6 +1,6 @@
 ---
-title: 使用資料導出標籤控制資料流
-description: 瞭解Audience Manager中的資料導出標籤。 這為您提供了一種Audience Manager機制，可以控制不同資料類型/源的流量，以便滿足您的隱私要求。 瞭解如何和在何處設定資料導出控制和資料導出標籤，以便與此同步工作。
+title: 使用Data Export Labels控制資料流量
+description: 瞭解Audience Manager中的資料匯出標籤。 這些可為您提供一種Audience Manager機制，可控制各種資料型別/來源的流量，以便您符合隱私權要求。 瞭解如何以及在何處設定Data Export Controls和Data Export Labels，以為此目的協同運作。
 feature: Data Export Controls
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Data Export Labels] 控制資料流
+# 使用 [!UICONTROL Data Export Labels] 控制資料流程
 
-[!UICONTROL Data Export Labels] 為您提供一種Audience Manager機制來控制不同資料類型/源的流量，以便滿足您的隱私要求。 瞭解如何設定和設定位置 [!UICONTROL Data Export Controls] 和 [!UICONTROL Data Export Labels]為此，我們將攜手合作。
+[!UICONTROL Data Export Labels] 提供Audience Manager的機制，可控制各種資料型別/來源的流量，以便您符合隱私權要求。 瞭解設定方式與位置 [!UICONTROL Data Export Controls] 和 [!UICONTROL Data Export Labels]，以為此目的協同工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

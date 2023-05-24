@@ -1,6 +1,6 @@
 ---
-title: 設定用於段批量管理的BAAM
-description: 瞭解BAAAM(Audience Manager中特徵和段的批量管理工具)，包括如何設定它以便使用。
+title: 設定BAAAM以進行區段大量管理
+description: 瞭解BAAAM，這是Audience Manager中特徵和區段的大量管理工具，包括如何設定以準備使用。
 feature: baaam
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 設定BAAAM以進行段批量管理
+# 設定BAAAM以進行區段大量管理
 
-瞭解BAAAM(Audience Manager中特徵和段的批量管理工具)，包括如何設定它以便使用。
+瞭解BAAAM，這是Audience Manager中特徵和區段的大量管理工具，包括如何設定以準備使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 理解和配置LinkedIn以人為本的目標
-description: 此視頻將引導您瞭解建立基於人的目的地到LinkedIn的概念和步驟。 它基於有關基於人的目標的其他視頻和文檔。
+title: 瞭解及設定LinkedIn以人物為基礎的目的地
+description: 此影片將逐步帶您瞭解建立LinkedIn以人物為基礎的目的地的概念和步驟。 其基礎是有關People-based Destinations的其他影片和檔案。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 瞭解和配置 [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# 瞭解並設定 [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-此視頻引導您瞭解建立 [!UICONTROL People-Based Destination] 至 [!DNL LinkedIn]。 它基於有關基於人的目標的其他視頻和文檔。
+此影片會逐步引導您瞭解概念，並逐步建立 [!UICONTROL People-Based Destination] 至 [!DNL LinkedIn]. 其基礎是有關People-based Destinations的其他影片和檔案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-有關詳細資訊，請訪問 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-您還可以找到有關基於人員的目標的其他視頻 [這裡](https://adobe.ly/aamlearnpbd)。
+您也可以找到其他以人物為基礎的目的地的相關影片 [此處](https://adobe.ly/aamlearnpbd).

@@ -1,6 +1,6 @@
 ---
-title: 基於人的目的地的PII資料接收
-description: 此視頻將介紹在準備將PII納入基於人員的目標Audience Manager時需要考慮的事項。
+title: 瞭解以人物為基礎的目的地的雜湊PII資料擷取
+description: 本影片將介紹當您準備好將PII擷取至以人物為基礎的目的地的Audience Manager時，需要考慮的事項。
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 基於人的目的地的PII資料接收
+# 瞭解以人物為基礎的目的地的雜湊PII資料擷取
 
-此視頻將介紹在準備將PII納入基於人員的目標Audience Manager時需要考慮的事項。
+本影片將介紹當您準備好將PII擷取至以人物為基礎的目的地的Audience Manager時，需要考慮的事項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

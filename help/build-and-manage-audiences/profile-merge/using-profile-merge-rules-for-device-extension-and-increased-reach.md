@@ -1,6 +1,6 @@
 ---
-title: 使用配置檔案合併規則進行設備擴展和增加訪問
-description: 使用「配置檔案合併規則」將訪問範圍擴展到用戶的所有設備，以便您可以向用戶而不是設備營銷。
+title: 使用設定檔合併規則進行裝置擴充和提升觸及率
+description: 使用設定檔合併規則將觸角伸展至使用者的所有裝置，因此您可以向使用者行銷，而非向裝置。
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Profile Merge Rules] 用於設備擴展和增加觸角
+# 使用 [!UICONTROL Profile Merge Rules] 適用於裝置延伸與延伸範圍
 
-使用 [!UICONTROL Profile Merge Rules] 將觸角伸到用戶的所有設備上，這樣您就可以向用戶而不是設備營銷。
+使用 [!UICONTROL Profile Merge Rules] 將觸角延伸至使用者的所有裝置，以便向使用者而非裝置進行行銷。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

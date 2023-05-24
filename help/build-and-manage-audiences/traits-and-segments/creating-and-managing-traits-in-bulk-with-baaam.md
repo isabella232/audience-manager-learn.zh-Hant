@@ -1,6 +1,6 @@
 ---
-title: 使用BAAAM批量建立和管理特性
-description: 在建立、編輯或刪除特徵時，使用UI逐個執行該操作會效率低下，耗時。 在此視頻中，瞭解如何使用BAAAM(Audience Manager的批量管理工具)批量建立、編輯和刪除特徵，使用簡單的Microsoft電子錶格作為與REST API的介面。
+title: 使用BAAAM大量建立和管理特徵
+description: 建立、編輯或刪除特徵時，使用UI逐一執行可能會效率低下且耗時。 在本影片中，瞭解如何使用Audience Manager的大量管理工具BAAAM，以簡單的Microsoft試算表作為搭配REST API的介面，大量建立、編輯和刪除特徵。
 feature: Traits
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 使用BAAAM批量建立和管理特性
+# 使用BAAAM大量建立和管理特徵
 
-在建立、編輯或刪除特徵時，使用UI逐個執行該操作會效率低下，耗時。 在此視頻中，瞭解如何使用BAAAM(Audience Manager的批量管理工具)批量建立、編輯和刪除特徵，使用簡單的Microsoft電子錶格作為與REST API的介面。
+建立、編輯或刪除特徵時，使用UI逐一執行可能會效率低下且耗時。 在本影片中，瞭解如何使用Audience Manager的大量管理工具BAAAM，以簡單的Microsoft試算表作為搭配REST API的介面，大量建立、編輯和刪除特徵。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-如需更多資訊，包括下載BAAAM工作表，請訪問 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference)。
+如需詳細資訊，包括下載BAAAM工作表，請造訪 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).

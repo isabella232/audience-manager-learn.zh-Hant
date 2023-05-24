@@ -1,6 +1,6 @@
 ---
-title: 格式化和接收基於檔案的資料
-description: 瞭解一些主要選項，在將第一方引入Audience Manager時從中獲取更多資訊，以便更好地瞭解和瞄準客戶。 瞭解資料的某些格式要求。
+title: 格式化和擷取檔案型資料
+description: 瞭解將您的第一方帶入Audience Manager時取得更多資訊的主要選項，以更好地瞭解和鎖定您的客戶。 瞭解資料的特定格式需求。
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 格式化和接收基於檔案的資料
+# 格式化和擷取檔案型資料
 
-在將第一方引入Audience Manager以更好地瞭解和瞄準客戶時，對資料有某些格式要求。 這段視頻介紹了一些主要選項，並向您顯示了獲取更多資訊的位置。
+將您的第一方帶入Audience Manager以更好地瞭解和鎖定客戶時，資料有一些特定的格式要求。 本影片會說明一些主要選項，並示範從何處取得詳細資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-有關檔案命名和導入的視頻，請按一下 [這裡](steps-for-ingesting-file-based-data.md)。
+如需有關檔案命名和匯入的影片，請按一下 [此處](steps-for-ingesting-file-based-data.md).
 
-有關其他資訊，請參閱 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)。
+如需詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

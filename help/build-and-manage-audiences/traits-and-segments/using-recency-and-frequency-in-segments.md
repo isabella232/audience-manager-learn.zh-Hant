@@ -1,6 +1,6 @@
 ---
-title: 在段中使用頻率和頻率
-description: 使用「頻率」(Recency)和「頻率」(Frequency)可指定訪問者在特定時間段內必須符合某個特性的次數的段參數。 非常適合於內容親和性和頻率封蓋使用案例以及其他案例。
+title: 在區段中使用造訪間隔和頻率
+description: 使用「造訪間隔」和「頻率」為您的區段提供引數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相似性和頻率限定使用案例，也適用於其他使用案例。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 段
+# 使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 在區段中
 
-使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 為段參數指定訪問者在特定時間段內需要多少次符合某個特性。 非常適合於內容親和性和頻率封蓋使用案例以及其他案例。
+使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 提供區段引數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相似性和頻率限定使用案例，也適用於其他使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

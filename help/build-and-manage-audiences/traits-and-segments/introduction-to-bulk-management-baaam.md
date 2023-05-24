@@ -1,6 +1,6 @@
 ---
-title: 批量管理(BAAAM)簡介
-description: 瞭解Audience Manager批量管理工具，通常稱為「 BAAAM」。 請參閱如何驗證，以便您可以使用BAAAM工作表通過REST API建立、編輯和刪除特徵和段。
+title: 大量管理(BAAAM)簡介
+description: 瞭解Audience Manager大量管理工具（通常稱為「BAAAM」）。 瞭解如何驗證，以便您可以使用BAAAM工作表透過REST API建立、編輯和刪除特徵和區段。
 feature: BAAAM
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 批量管理(BAAAM)簡介
+# 大量管理(BAAAM)簡介
 
-瞭解Audience Manager [!UICONTROL Bulk Management] 工具，俗稱&quot;BAAAM&quot;。 請參閱如何驗證，以便您可以使用BAAAM工作表通過REST API建立、編輯和刪除特徵和段。
+瞭解Audience Manager [!UICONTROL Bulk Management] 工具，通常稱為「BAAAM」。 瞭解如何驗證，以便您可以使用BAAAM工作表透過REST API建立、編輯和刪除特徵和區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)

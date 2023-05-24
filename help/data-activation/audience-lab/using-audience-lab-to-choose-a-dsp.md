@@ -1,6 +1,6 @@
 ---
-title: 使用觀眾實驗室選DSP擇
-description: 在此視頻中，我們將介紹如何建立「觀眾實驗室test」，以便您能夠A/BtestDSP或其AAM他目標，以查看哪個目標能夠帶來最佳的廣告回報。
+title: 使用Audience Lab選擇DSP
+description: 在本影片中，我們將逐步建立Audience Lab測試，讓您可以A/B測試DSP或其他AAM目的地，以瞭解哪一個目的地可帶來最佳的廣告投資回報。
 feature: Audience Lab
 doc-type: feature video
 thumbnail: 24923.jpg
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Audience Lab] 選DSP擇 {#using-audience-lab-to-choose-a-dsp}
+# 使用 [!UICONTROL Audience Lab] 以選擇DSP {#using-audience-lab-to-choose-a-dsp}
 
-在這段視頻中，我們 [!UICONTROL Audience Lab] test，這樣您就可以A/BtestDSP或其他目AAM的地，查看哪個目標能夠獲得最佳的廣告回報。
+在本影片中，我們將逐步建立 [!UICONTROL Audience Lab] 測試，讓您可以A/B測試DSP或其他AAM目的地，以瞭解哪些目的地可帶來最佳的廣告投資回報。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-建立 [!UICONTROL Audience Lab] test簡單，只需幾分鐘即可完成，如上圖所示。 在您瀏覽介面中的步驟時，將設定以下內容：
+建立 [!UICONTROL Audience Lab] 測試很簡單，只需幾分鐘即可完成，如上述影片所示。 當您逐步完成介面中的步驟時，將會設定下列專案：
 
-1. 建立並命名 [!UICONTROL Audience Lab] test
-1. 選擇 [!UICONTROL segments] 的[!UICONTROL base segment]，」即將分割到您的受眾DSP部
-1. 選擇多少test [!UICONTROL segments] 您要建立(您要DSP建立多少個test?)
-   * 設定一個test [!UICONTROL segments] 作為控制段，不會發送到任何控DSP制段，以便您可以將受DSP眾與其比較
-1. 選擇轉換特性，這是衡量成功並選擇勝者的特性
-1. 選擇 [!UICONTROL Destinations] (即DSP)並分配test [!UICONTROL segments]
-1. 檢查test摘要並激活test
-1. 完成test後，訪問主主螢幕上的結果 [!UICONTROL Audience Lab]
+1. 建立並命名您的 [!UICONTROL Audience Lab] 測試
+1. 選擇下列其中一項： [!UICONTROL segments] 作為&quot;[!UICONTROL base segment]，」即將在您的DSP中分割的對象區段
+1. 選擇測試數量 [!UICONTROL segments] 您要建立(要測試多少DSP？)
+   * 設定其中一個測試 [!UICONTROL segments] 作為控制區段，不會傳送給任何DSP，因此您可以將DSP對象與其進行比較
+1. 選擇轉換特徵，該特徵可衡量成功並選取獲勝者
+1. 選取 [!UICONTROL Destinations] (即DSP)並指派測試 [!UICONTROL segments]
+1. 檢查測試摘要並啟動測試
+1. 測試完成後，請在的主主畫面上存取結果 [!UICONTROL Audience Lab]
 
-有關其他資訊，請參閱 [功能文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。
+如需詳細資訊，請參閱 [功能檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).

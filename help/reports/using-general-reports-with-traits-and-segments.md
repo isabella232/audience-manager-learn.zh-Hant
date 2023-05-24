@@ -1,6 +1,6 @@
 ---
-title: 使用帶有特徵和段的常規報告
-description: 在此視頻中，請參閱如何使用Audience Manager中的常規報告獲取特徵和段的數字。
+title: 搭配特徵和區段使用一般報表
+description: 在本影片中，瞭解如何使用Audience Manager中的一般報表來取得特徵和區段的數字。
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用帶有特徵和段的常規報告
+# 搭配特徵和區段使用一般報表
 
-在此視頻中，請參閱如何使用Audience Manager中的常規報告獲取特徵和段的數字。
+在本影片中，瞭解如何使用Audience Manager中的一般報表來取得特徵和區段的數字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

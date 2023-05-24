@@ -1,6 +1,6 @@
 ---
-title: 配置檔案合併規則示例和使用案例
-description: 瞭解「配置檔案合併規則」的示例及其含義，以及「配置檔案合併規則」解決的使用案例。
+title: 設定檔合併規則範例和使用案例
+description: 瞭解設定檔合併規則的範例及其意義，以及設定檔合併規則解決的使用案例。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] 示例和使用案例
+# [!UICONTROL Profile Merge Rule] 範例和使用案例
 
-在此視頻中，您將看到 [!UICONTROL Profile Merge Rules] 他們的意思，以及 [!UICONTROL Profile Merge Rules] 解決。
+在本影片中，您將會看到 [!UICONTROL Profile Merge Rules] 以及它們的含義和使用案例 [!UICONTROL Profile Merge Rules] 解決。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

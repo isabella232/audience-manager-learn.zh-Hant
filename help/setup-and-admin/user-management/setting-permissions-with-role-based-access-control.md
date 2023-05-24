@@ -1,6 +1,6 @@
 ---
-title: 使用基於角色的訪問控制設定權限
-description: 瞭解Adobe Audience Manager基於角色的訪問控制以及如何在組級別管理權限。 瞭解如何控制哪些人可以查看和使用資產，包括特徵、段、目標和模型。 瞭解如何設定權限組並向其中添加用戶。
+title: 使用角色型存取控制設定許可權
+description: 瞭解Adobe Audience Manager中的角色型存取控制，以及如何管理群組層級的許可權。 瞭解如何控制哪些人可以看到和使用資產，包括特徵、區段、目的地和模型。 瞭解如何設定許可權群組及將使用者新增至許可權群組。
 feature: Administration
 topics: null
 activity: setup
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# 使用基於角色的訪問控制設定權限
+# 使用角色型存取控制設定許可權
 
-在Adobe Audience Manager，基於角色的訪問控制允許您在組級別管理權限，控制哪些人可以查看和使用資產，包括特徵、段、目標和模型。 瞭解如何設定權限組並向其中添加用戶。
+Adobe Audience Manager中的角色型存取控制可讓您在群組層級管理許可權，控制哪些人可以檢視和使用特徵、區段、目的地和模型等資產。 瞭解如何設定許可權群組及將使用者新增至許可權群組。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

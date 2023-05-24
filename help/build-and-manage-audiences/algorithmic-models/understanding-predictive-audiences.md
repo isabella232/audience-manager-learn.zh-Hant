@@ -1,6 +1,6 @@
 ---
-title: 瞭解 [!UICONTROL Predictive Audiences] Audience Manager
-description: 在此視頻中，瞭解Audience Manager [!UICONTROL Predictive Audiences]、有關它們如何工作的詳細資訊以及典型的使用案例。
+title: 瞭解 [!UICONTROL Predictive Audiences] 在Audience Manager中
+description: 在本影片中，瞭解Audience Manager [!UICONTROL Predictive Audiences]，並詳細說明其運作方式和典型使用案例。
 feature: Algorithmic Models
 topics: null
 activity: understand
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 瞭解 [!UICONTROL Predictive Audiences] Audience Manager
+# 瞭解 [!UICONTROL Predictive Audiences] 在Audience Manager中
 
-在此視頻中，瞭解Audience Manager [!UICONTROL Predictive Audiences]、有關它們如何工作的詳細資訊以及典型的使用案例。
+在本影片中，瞭解Audience Manager [!UICONTROL Predictive Audiences]，並詳細說明其運作方式和典型使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
-有關詳細資訊，請訪問 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)。
+如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).

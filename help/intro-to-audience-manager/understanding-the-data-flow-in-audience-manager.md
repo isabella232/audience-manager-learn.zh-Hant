@@ -1,6 +1,6 @@
 ---
-title: 瞭解Audience Manager中的資料流
-description: 此視頻通過描述資料流進入、通過和流出應用程式，幫助您瞭解Adobe Audience Manager。
+title: 瞭解Audience Manager的資料流程
+description: 本影片說明流入、流經和流出應用程式的資料流量，以協助您瞭解Adobe Audience Manager。
 feature: Overview
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解Audience Manager中的資料流
+# 瞭解Audience Manager中的資料流程
 
-此視頻通過描述資料流進入、通過和流出應用程式，幫助您瞭解Adobe Audience Manager。
+本影片說明流入、流經和流出應用程式的資料流量，以協助您瞭解Adobe Audience Manager。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)

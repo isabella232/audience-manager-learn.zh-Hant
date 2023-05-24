@@ -1,6 +1,6 @@
 ---
-title: 使用標籤管理器實現Audience Manager
-description: 瞭解使用標籤管理解決方案時實施Adobe Audience Manager的基本知識。
+title: 使用標籤管理程式來實作Audience Manager
+description: 瞭解在使用標籤管理解決方案時實施Adobe Audience Manager的基本知識。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# 使用標籤管理器實現Audience Manager
+# 使用標籤管理程式來實作Audience Manager
 
-在此視頻中，瞭解使用標籤管理解決方案時實施Adobe Audience Manager的基本知識。
+在本影片中，瞭解使用標籤管理解決方案時實施Adobe Audience Manager的基本知識。
 
-突出顯示的是以下使用案例：
+下列使用案例強調顯示：
 
-* 同時使用Adobe Experience Platform標籤（以前稱「Launch」）實施Adobe Analytics
-* 不使用Adobe Experience Platform標籤時通過Adobe Analytics實現
-* 使用Adobe Analytics時通過非Adobe標籤管理器實施
-* 不使用Adobe Analytics時通過非Adobe標籤管理器實施
+* 透過Adobe Experience Platform標籤（先前稱為Launch）實作，同時使用Adobe Analytics
+* 不使用Adobe Analytics時透過Adobe Experience Platform標籤實作
+* 使用Adobe Analytics時透過非Adobe標籤管理員實作
+* 不使用Adobe Analytics時透過非Adobe標籤管理員實作
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

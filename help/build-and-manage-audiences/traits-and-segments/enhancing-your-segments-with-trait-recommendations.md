@@ -1,6 +1,6 @@
 ---
-title: 利用特徵Recommendations增強您的細分
-description: 使用特徵Recommendations，當您構建或編輯段時，您會獲得關於可以包括的其他特性的建議，這些特性與段規則中的特性相似。
+title: 使用特徵Recommendations增強區段
+description: 使用「特徵Recommendations」，當您建立或編輯區段時，系統會根據區段規則中的特徵，提供您其他類似特徵的相關建議，您可考慮納入。
 feature: Segments
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 通過 [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# 透過增強您的區段 [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-與 [!UICONTROL Trait Recommendations]，在 [!UICONTROL Segments]，您將獲得有關可包含的其他特性的建議，這些特性與段規則中的特性相似。
+替換為 [!UICONTROL Trait Recommendations]，當您在中建立或編輯區段時 [!UICONTROL Segments]，您會得到可包含的其他特徵建議，這些特徵與區段規則中的特徵類似。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] 同時處理第一方和第三方資料，以便您可以包括其他建議 [!UICONTROL Traits] 增加目標受眾。
+[!UICONTROL Trait Recommendations] 同時處理第一方和第三方資料，因此您可以包含其他建議選項 [!UICONTROL Traits] 並增加您的目標對象。
 
-有關此功能的詳細資訊，請訪問 [文檔](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。
+如需有關此功能的詳細資訊，請造訪 [檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

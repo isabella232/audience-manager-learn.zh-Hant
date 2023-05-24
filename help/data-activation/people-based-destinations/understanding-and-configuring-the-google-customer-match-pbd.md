@@ -1,6 +1,6 @@
 ---
-title: 瞭解和配置Google客戶與基於人員的目標匹配
-description: 此視頻將引導您瞭解Google客戶匹配人員目標的詳細資訊和使用案例，並包括建立段並將其映射到目標的步驟。 還展示了觀眾在Google廣告台的登陸。
+title: 瞭解並設定Google Customer Match以人物為基礎的目的地
+description: 此影片會逐步帶您瞭解Google客戶比對以人物為基礎的目的地的詳細資訊和使用案例，包括建立區段及對應至目的地的逐步解說。 此外，影片也會展示對象在Google廣告主控台中的登陸作業。
 feature: People-based Destinations
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解和配置Google客戶與基於人員的目標匹配
+# 瞭解並設定Google Customer Match以人物為基礎的目的地
 
-此視頻將引導您瞭解Google客戶匹配人員目標的詳細資訊和使用案例，並包括建立段並將其映射到目標的逐步操作。 還展示了觀眾在Google廣告台的登陸。
+此影片將逐步帶您瞭解Google客戶比對以人物為基礎的目的地的詳細資訊和使用案例，包括逐步說明如何建立區段及對應至目的地。 此外，影片也會展示對象在Google廣告主控台中的登陸作業。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

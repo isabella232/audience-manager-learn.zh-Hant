@@ -1,6 +1,6 @@
 ---
-title: 建立和使用簡單的配置檔案合併規則
-description: 瞭解配置檔案合併規則以及如何將它們分配給段。 瞭解預設的「當前設備」配置檔案以及何時可以/應該使用它。
+title: 建立及使用簡單的設定檔合併規則
+description: 瞭解設定檔合併規則以及如何將其指派給區段。 瞭解預設的「目前裝置」設定檔及其何時可以/應該使用。
 feature: Profile Merge
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 建立和使用簡單 [!UICONTROL Profile Merge Rules]
 
-瞭解 [!UICONTROL Profile Merge Rules] 以及如何將它們分配給段。 瞭解預設 [!UICONTROL Current Device] 以及何時可以使用。
+瞭解 [!UICONTROL Profile Merge Rules] 以及如何將其指派給區段。 瞭解預設值 [!UICONTROL Current Device] 設定檔以及何時可以和應該使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

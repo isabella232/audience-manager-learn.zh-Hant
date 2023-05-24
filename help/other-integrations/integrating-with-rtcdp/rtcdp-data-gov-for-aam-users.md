@@ -1,6 +1,6 @@
 ---
-title: 在即時CDP中為Audience Manager用戶瞭解資料治理
-description: 此視頻向Audience Manager用戶介紹Real-time Customer Data Platform的資料管理功能，並將其與Audience Manager中的功能進行比較。 討論了資料使用和標籤強制(DULE)框架，以及在平台中可應用該框架的位置。
+title: 瞭解適用於Audience Manager使用者的Real-time CDP中的資料控管
+description: 此影片會為Audience Manager使用者逐步解說Real-time Customer Data Platform中的資料控管功能，並將其與Audience Manager中提供的功能進行比較。 此影片討論Data Usage and Labeling Enforcement (DULE)架構，以及此架構在Platform中可以套用的位置。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 ---
 
-# 在即時CDP中為Audience Manager用戶瞭解資料治理
+# 瞭解適用於Audience Manager使用者的Real-time CDP中的資料控管
 
-此視頻向Audience Manager用戶介紹Real-time Customer Data Platform的資料管理功能，並將其與Audience Manager中的功能進行比較。 討論了資料使用和標籤強制(DULE)框架，以及在平台中可應用該框架的位置。
+此影片會為Audience Manager使用者逐步解說Real-time Customer Data Platform中的資料控管功能，並將其與Audience Manager中提供的功能進行比較。 此影片討論Data Usage and Labeling Enforcement (DULE)架構，以及此架構在Platform中可以套用的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
 
 ## 其他資源
 
-以下是一些現有視頻和教程，可幫助您瞭解Real-time Customer Data Platform。 您可以自由地瀏覽有關這些內容的其他視頻和教程，以瞭解有關平台的更多資訊。
+以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索相關影片和教學課程，深入瞭解Platform。
 
-* [資料治理概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [使用治理標籤對資料分類](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [建立資料使用策略](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [在Real-time Customer Data Platform實施資料使用策略](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [資料控管概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
+* [使用治理標籤來分類資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
+* [建立資料使用原則](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
+* [在Real-time Customer Data Platform中強制執行資料使用原則](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

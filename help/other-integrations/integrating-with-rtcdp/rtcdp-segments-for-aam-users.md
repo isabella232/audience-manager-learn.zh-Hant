@@ -1,6 +1,6 @@
 ---
-title: 瞭解即時CDP中的段，以便Audience Manager用戶
-description: 從Audience Manager到Real-time Customer Data Platform，理解概念上的差異是有益的。 此視頻查看了Audience Manager和即時CDP在段和段建立方面的差異。
+title: 瞭解適用於Audience Manager使用者的Real-time CDP中的區段
+description: 當您從Audience Manager移至Real-time Customer Data Platform時，瞭解概念差異會很有幫助。 本影片說明Audience Manager與Real-time CDP之間在區段和區段建立上的差異。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,18 +16,18 @@ ht-degree: 1%
 
 ---
 
-# 瞭解即時CDP中的段，以便Audience Manager用戶
+# 瞭解適用於Audience Manager使用者的Real-time CDP中的區段
 
-從Audience Manager到Real-time Customer Data Platform，理解概念上的差異是有益的。 此視頻查看了Audience Manager和即時CDP在段和段建立方面的差異。
+當您從Audience Manager移至Real-time Customer Data Platform時，瞭解概念差異會很有幫助。 本影片說明Audience Manager與Real-time CDP之間在區段和區段建立上的差異。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
 
 ## 其他資源
 
-以下是一些現有視頻和教程，可幫助您瞭解Real-time Customer Data Platform。 您可以自由地瀏覽有關這些內容的其他視頻和教程，以瞭解有關平台的更多資訊。
+以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索相關影片和教學課程，深入瞭解Platform。
 
-* [使用架構編輯器建立架構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [使用結構編輯器建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
 * [建立資料集](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [建立段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
-* [建立動態段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [建立多實體段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [建立區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [建立動態區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
+* [建立多實體區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)

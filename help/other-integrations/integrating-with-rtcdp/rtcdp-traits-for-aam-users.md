@@ -1,6 +1,6 @@
 ---
-title: 即時CDP中對Audience Manager用戶的特點理解
-description: 從Audience Manager到Real-time Customer Data Platform，理解概念上的差異是有益的。 此視頻解決了Audience Manager中的特點以及即時CDP中的等效內容。
+title: 瞭解適用於Audience Manager使用者的Real-time CDP中的特徵
+description: 當您從Audience Manager移至Real-time Customer Data Platform時，瞭解概念差異會很有幫助。 此影片說明Audience Manager中的特徵，以及Real-time CDP中的同等專案。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,16 +16,16 @@ ht-degree: 1%
 
 ---
 
-# 即時CDP中對Audience Manager用戶的特點理解
+# 瞭解適用於Audience Manager使用者的Real-time CDP中的特徵
 
-從Audience Manager到Real-time Customer Data Platform，理解概念上的差異是有益的。 此視頻解決了Audience Manager中的特點以及即時CDP中的等效內容。
+當您從Audience Manager移至Real-time Customer Data Platform時，瞭解概念差異會很有幫助。 此影片說明Audience Manager中的特徵，以及Real-time CDP中的同等專案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331900/?quality=12&learn=on)
 
 ## 其他資源
 
-以下是一些現有視頻和教程，可幫助您瞭解Real-time Customer Data Platform。 您可以自由地瀏覽有關這些內容的其他視頻和教程，以瞭解有關平台的更多資訊。
+以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索相關影片和教學課程，深入瞭解Platform。
 
-* [使用架構編輯器建立架構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [建立資料集和攝取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
-* [建立段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [使用結構編輯器建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [建立資料集並擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
+* [建立區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)

@@ -1,6 +1,6 @@
 ---
-title: Ingest為基於人的目的地建立PII
-description: 在此視頻中，瞭解如何格式化基於檔案的ID同步，以便將客戶ID(CRM ID)與散列電子郵件地址掛接在一起。
+title: 擷取以人物為基礎的目的地的雜湊PII
+description: 在本影片中，瞭解如何格式化檔案式ID同步，以將您的客戶ID (CRM ID)與雜湊電子郵件地址連結在一起。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Ingest為基於人的目的地建立PII
+# 擷取以人物為基礎的目的地的雜湊PII
 
-在此視頻中，瞭解如何格式化基於檔案的ID同步，以便將客戶ID(CRM ID)與散列電子郵件地址掛接在一起。 這樣，您就可以將經過散列的電子郵件地址發送到基於人員的目標，例如 [!DNL Facebook]。
+在本影片中，瞭解如何格式化檔案式ID同步，以將您的客戶ID (CRM ID)與雜湊電子郵件地址連結在一起。 這可讓您傳送雜湊電子郵件地址至以人物為基礎的目的地，例如 [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

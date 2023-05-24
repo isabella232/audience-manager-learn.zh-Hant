@@ -1,6 +1,6 @@
 ---
-title: 實用段定義和建立
-description: 瞭解定義片段的過程，然後根據建立片段所需的特徵或信號將它們分解。
+title: 實用的區段定義與建立
+description: 取得區段定義流程的逐步說明，然後依您建立區段所需的特徵或訊號加以劃分。
 feature: Segments
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 實用段定義和建立
+# 實用的區段定義與建立
 
-這段視頻引導你完成一個定義你的片段的過程，然後根據你需要建立的特徵/信號來分解這些片段。
+此影片會逐步引導您定義區段，然後依照建立區段所需的特徵/訊號加以劃分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

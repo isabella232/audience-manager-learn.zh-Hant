@@ -1,6 +1,6 @@
 ---
-title: 從分析資料計畫特徵建立
-description: 學習技巧和技巧，在您計畫將Adobe Analytics資料用於您的Audience Manager特徵時為您提供幫助。
+title: 規劃以Analytics資料建立特徵
+description: 瞭解秘訣與技巧，以協助您在Audience Manager特徵中使用Adobe Analytics資料。
 feature: Traits
 topics: null
 activity: implement
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 從分析資料計畫特徵建立
+# 規劃以Analytics資料建立特徵
 
-學習技巧和技巧，在您計畫將Adobe Analytics資料用於您的Audience Manager特徵時為您提供幫助。
+瞭解秘訣與技巧，以協助您在Audience Manager特徵中使用Adobe Analytics資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)

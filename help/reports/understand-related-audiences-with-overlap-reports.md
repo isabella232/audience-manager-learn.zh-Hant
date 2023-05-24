@@ -1,6 +1,6 @@
 ---
-title: 瞭解具有重疊報告的相關受眾
-description: 重疊報告使您能夠查看特性和段受眾如何相互重疊（多個特性或段中的同一訪問者），以便您知道可以在何處處理資料以增加轉換或專注於擴展覆蓋範圍。
+title: 透過重疊報表瞭解相關對象
+description: 重疊報表可讓您檢視特徵和區段對象如何彼此重疊（多個特徵或區段中的相同訪客），好讓您知道您可以在何處對資料採取行動，以提高轉換率或聚焦於擴大觸及率。
 feature: Overlap Reports
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 瞭解具有重疊報告的相關受眾
+# 透過重疊報表瞭解相關對象
 
-重疊報告使您能夠查看特性和段受眾如何相互重疊（多個特性或段中的同一訪問者），以便您知道可以在何處處理資料以增加轉換或專注於擴展覆蓋範圍。
+重疊報表可讓您檢視特徵和區段對象如何彼此重疊（多個特徵或區段中的相同訪客），好讓您知道您可以在何處對資料採取行動，以提高轉換率或聚焦於擴大觸及率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-有關詳細資訊，請參閱 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting)。
+如需詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).

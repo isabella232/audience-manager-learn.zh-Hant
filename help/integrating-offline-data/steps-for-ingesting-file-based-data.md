@@ -1,6 +1,6 @@
 ---
-title: 如何接收基於檔案的資料
-description: 在此視頻中，您將學習在將離線資料板載到Audience Manager中時要採取的步驟，包括對資料檔案的檔案名要求。
+title: 如何內嵌檔案型資料
+description: 在本影片中，您會瞭解將離線資料上線至Audience Manager時需採取的步驟，包括資料檔案的檔案名稱要求。
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 接收基於檔案的資料的步驟
+# 擷取檔案型資料的步驟
 
-在此視頻中，您將學習在將離線資料板載到Audience Manager中時要採取的步驟，包括對資料檔案的檔案名要求。
+在本影片中，您會瞭解將離線資料上線至Audience Manager時需採取的步驟，包括資料檔案的檔案名稱要求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-有關入站檔案的資料格式的視頻，請按一下 [這裡](formatting-and-ingesting-file-based-data.md)。
+如需傳入檔案資料格式化的相關影片，請按一下 [此處](formatting-and-ingesting-file-based-data.md).
 
-有關其他資訊，請參閱 [文檔](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)。
+如需詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
