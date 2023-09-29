@@ -1,8 +1,8 @@
 ---
 title: 建立Analytics資料的資料來源
-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。 動手為分析資料建立特徵之前，請先執行此作業。
-landing-page-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。 動手為分析資料建立特徵之前，請先執行此作業。
-short-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。 動手為分析資料建立特徵之前，請先執行此作業。
+description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。動手為分析資料建立特徵之前，請先執行此作業。
+landing-page-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。動手為分析資料建立特徵之前，請先執行此作業。
+short-description: 了解如何為 Adobe Analytics 等分析解決方案即時傳入的資料建立資料來源。動手為分析資料建立特徵之前，請先執行此作業。
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -18,6 +18,6 @@ ht-degree: 68%
 
 # 建立 [!UICONTROL Data Source] 的 [!DNL Analytics] 資料 {#create-a-data-source-for-analytics-data}
 
-在本影片中，我們將逐步說明建立計畫的步驟，包括秘訣和技巧。 [!UICONTROL Data Source] 可用於從Adobe Analytics等分析解決方案即時傳入資料的Audience Manager。 請先觀看此影片，再為分析資料建立特徵。
+在此影片中，我們將逐步介紹建立 [!UICONTROL Data Source] 可用於從Adobe Analytics等分析解決方案即時傳入資料的Audience Manager。 請先觀看此影片，再為分析資料建立特徵。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
