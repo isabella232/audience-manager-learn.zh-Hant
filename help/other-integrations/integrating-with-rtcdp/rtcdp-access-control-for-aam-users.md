@@ -1,7 +1,7 @@
 ---
 title: 瞭解適用於Audience Manager使用者的Real-time CDP中的存取控制
-description: 從Audience Manager移至Real-time Customer Data Platform時，您會想要瞭解使用者和群組許可權的設定位置。 本影片說明存取控制現在如何在Adobe Admin Console中。
-feature: Platform Integration
+description: 從Audience Manager移至Real-time Customer Data Platform時，您會想知道在何處設定了使用者和群組許可權。 本影片說明存取控制現在將如何在Adobe Admin Console中。
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 exl-id: 27e8887b-6e02-452a-8526-ab235446505d
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 瞭解適用於Audience Manager使用者的Real-time CDP中的存取控制
 
-從Audience Manager移至Real-time Customer Data Platform時，您會想要瞭解使用者和群組許可權的設定位置。 本影片說明存取控制現在如何在Adobe Admin Console中。
+從Audience Manager移至Real-time Customer Data Platform時，您會想知道在何處設定了使用者和群組許可權。 本影片說明存取控制現在將如何在Adobe Admin Console中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
